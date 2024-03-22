@@ -98,8 +98,8 @@ function buildFeed(entries: Iterable<Entry>) {
     title: "はてなブログ企業技術ブログTrending",
     description:
       "はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード",
-    id: "https://example.com",
-    link: "https://example.com",
+    id: "https://otariidae.github.io/hatena-blog-dev-trending-feed/",
+    link: "https://otariidae.github.io/hatena-blog-dev-trending-feed/",
     language: "ja",
     copyright: "",
   });

@@ -1,0 +1,35 @@
+name: Generate feed
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    # Trendingは"毎日11:00ごろ更新"なのでとりあえず2時間後に設定
+    # 13:00 JST == 04:00 UTC
+    - cron: 0 4 * * *
+  workflow_dispatch:
+
+jobs:
+  generate-feed:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Setup repo
+        uses: actions/checkout@v4
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.41.x
+
+      - name: Generate feed
+        run: deno run --allow-read=public --allow-write=public --allow-net=hatena.blog main.ts
+
+      - name: Push to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          force_orphan: true
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'

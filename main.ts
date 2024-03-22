@@ -105,7 +105,6 @@ function buildFeed(entries: Iterable<Entry>) {
   });
   const tokyoTimeZone = new Temporal.TimeZone("Asia/Tokyo");
   for (const entry of entries) {
-    console.log(entry);
     const publishedAtZonedDateTime = entry.publishedAt.toZonedDateTime({
       timeZone: tokyoTimeZone,
     });

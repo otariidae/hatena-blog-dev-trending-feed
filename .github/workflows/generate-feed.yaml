@@ -9,6 +9,9 @@ on:
     - cron: 0 4 * * *
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate-feed:
     runs-on: ubuntu-22.04

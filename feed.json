@@ -1,0 +1,205 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "はてなブログ企業技術ブログTrending",
+    "home_page_url": "https://github.com/otariidae/hatena-blog-dev-trending-feed",
+    "description": "はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード",
+    "items": [
+        {
+            "id": "https://tech.layerx.co.jp/entry/2024/06/30/140352",
+            "url": "https://tech.layerx.co.jp/entry/2024/06/30/140352",
+            "title": "機械学習とビジネスゴールのはざまで ",
+            "image": "https://cdn.image.st-hatena.com/image/scale/65dedadfb6929d70284d94290a6226c09113e8c7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fq%2Fqluto%2F20240630%2F20240630130718.png",
+            "date_modified": "2024-06-29T15:00:00.000Z",
+            "author": {
+                "name": "株式会社LayerX"
+            }
+        },
+        {
+            "id": "https://developers.freee.co.jp/entry/dependabot_alert",
+            "url": "https://developers.freee.co.jp/entry/dependabot_alert",
+            "title": "freee PSIRTの風景：Dependabot alertの調査",
+            "image": "https://cdn.image.st-hatena.com/image/scale/b67c486cc0aa4968a46f1d951036e02e596cdf67/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F4298643%2F1645418964512170",
+            "date_modified": "2024-06-29T15:00:00.000Z",
+            "author": {
+                "name": "freee株式会社"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/software-design-202406",
+            "url": "https://techblog.zozo.com/entry/software-design-202406",
+            "title": "Software Design 2024年6月号 連載「レガシーシステム攻略のプロセス」第2回 ZOZOTOWNリプレイスにおけるIaCやCI/CD関連の取り組み",
+            "image": "https://cdn.image.st-hatena.com/image/scale/07931400b2925728a64df3440019c0a7316169e7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20240617%2F20240617192604.png",
+            "date_modified": "2024-06-28T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ZOZO"
+            }
+        },
+        {
+            "id": "https://product.st.inc/entry/2024/06/28/170550",
+            "url": "https://product.st.inc/entry/2024/06/28/170550",
+            "title": "Remix x Cloudflare Workersで0->1",
+            "date_modified": "2024-06-28T15:00:00.000Z",
+            "author": {
+                "name": "STORES 株式会社"
+            }
+        },
+        {
+            "id": "https://paiza.hatenablog.com/entry/2024/06/28/162330",
+            "url": "https://paiza.hatenablog.com/entry/2024/06/28/162330",
+            "title": "生成AI情報収集 プロ驚き屋に踊らされるな",
+            "date_modified": "2024-06-28T15:00:00.000Z",
+            "author": {
+                "name": "paiza株式会社"
+            }
+        },
+        {
+            "id": "https://tech.mirrativ.stream/entry/log-fluent-bit-monitor",
+            "url": "https://tech.mirrativ.stream/entry/log-fluent-bit-monitor",
+            "title": "ログ基盤のFluentdをFluent Bitに移行して監視ツールを実装した話",
+            "image": "https://cdn.image.st-hatena.com/image/scale/a4d694289b24f9086c827a37444f2d0f5720a074/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Falvinvin%2F20240626%2F20240626190209.png",
+            "date_modified": "2024-06-28T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ミラティブ"
+            }
+        },
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/20240628/mobiletechcafe",
+            "url": "https://tech-blog.rakus.co.jp/entry/20240628/mobiletechcafe",
+            "title": "モバイルエンジニアのためのGoogle I/O 2024とWWDC24を振り返る【モバイルTechCafe イベントレポート】",
+            "image": "https://cdn.image.st-hatena.com/image/scale/d8c10d99373e996994bc218ecd53300521b122f0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20240627%2F20240627135028.png",
+            "date_modified": "2024-06-28T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ラクス"
+            }
+        },
+        {
+            "id": "https://tech.smarthr.jp/entry/2024/06/28/140000",
+            "url": "https://tech.smarthr.jp/entry/2024/06/28/140000",
+            "title": "フルリモエンジニアのデスク環境!!劇的ビフォーアフター",
+            "image": "https://cdn.image.st-hatena.com/image/scale/e4cc1f76d464ebc0551bc3009845279a52a1d927/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20240628%2F20240628140040.png",
+            "date_modified": "2024-06-27T15:00:00.000Z",
+            "author": {
+                "name": "株式会社SmartHR"
+            }
+        },
+        {
+            "id": "https://techblog.paild.co.jp/entry/2024/06/28/135922",
+            "url": "https://techblog.paild.co.jp/entry/2024/06/28/135922",
+            "title": "Rust 2024 Editionがやってくる！",
+            "date_modified": "2024-06-27T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ペイルド"
+            }
+        },
+        {
+            "id": "https://acro-engineer.hatenablog.com/entry/2024/06/28/130000",
+            "url": "https://acro-engineer.hatenablog.com/entry/2024/06/28/130000",
+            "title": "AWSでElastic Cloudを利用する 2024年版（構築編）",
+            "image": "https://cdn.image.st-hatena.com/image/scale/3a88791fd94c37748ea4e7aeb3a42b92a378781e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshin0higuchi%2F20231219%2F20231219171155.png",
+            "date_modified": "2024-06-27T15:00:00.000Z",
+            "author": {
+                "name": "アクロクエストテクノロジー株式会社"
+            }
+        },
+        {
+            "id": "https://tech-blog.tabelog.com/entry/dify-meetup-tokyo-no1-report",
+            "url": "https://tech-blog.tabelog.com/entry/dify-meetup-tokyo-no1-report",
+            "title": "Difyの全社活用について、Dify Meetup Tokyo #1で発表しました",
+            "image": "https://cdn.image.st-hatena.com/image/scale/d66e354c01dba6c7e82053c7992fae588b7effae/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftabelog_tech_blog%2F20240627%2F20240627105203.jpg",
+            "date_modified": "2024-06-27T15:00:00.000Z",
+            "author": {
+                "name": "株式会社カカクコム"
+            }
+        },
+        {
+            "id": "https://tech.smarthr.jp/entry/2024/06/27/165121",
+            "url": "https://tech.smarthr.jp/entry/2024/06/27/165121",
+            "title": "キーボードへのこだわりを聞いてみた ── 人生の1/3の時間は打鍵！",
+            "image": "https://cdn.image.st-hatena.com/image/scale/69a438b548c22818d3e1369b0b727a30fafcf32b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20240627%2F20240627165204.png",
+            "date_modified": "2024-06-27T15:00:00.000Z",
+            "author": {
+                "name": "株式会社SmartHR"
+            }
+        },
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/20240627/infra",
+            "url": "https://tech-blog.rakus.co.jp/entry/20240627/infra",
+            "title": "楽楽精算のインフラチームを紹介します！",
+            "image": "https://cdn.image.st-hatena.com/image/scale/32e1f4a27844dbcda1cdf71f70a6d3aee706b197/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20240627%2F20240627134923.png",
+            "date_modified": "2024-06-27T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ラクス"
+            }
+        },
+        {
+            "id": "https://devblog.lac.co.jp/entry/20240627",
+            "url": "https://devblog.lac.co.jp/entry/20240627",
+            "title": "Googleフォームの設定ミスによる情報漏えいが多発～あなたのフォームは大丈夫？ 原因となる設定について解説～",
+            "image": "https://cdn.image.st-hatena.com/image/scale/3750211766de675c1f5f3520ea109056268e3c33/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Flac_devblog%2F20240627%2F20240627154200.png",
+            "date_modified": "2024-06-26T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ラック"
+            }
+        },
+        {
+            "id": "https://tech.timee.co.jp/entry/2024/06/27/110000",
+            "url": "https://tech.timee.co.jp/entry/2024/06/27/110000",
+            "title": "BigQueryとLookerStudioのニッチな落とし穴についてまとめてみた",
+            "image": "https://cdn.image.st-hatena.com/image/scale/65b0ad2c9a7c461bec25b3af8cca0f58d93c3d55/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155704439%2F158718819466986",
+            "date_modified": "2024-06-26T15:00:00.000Z",
+            "author": {
+                "name": "株式会社タイミー"
+            }
+        },
+        {
+            "id": "https://inside.pixiv.blog/2024/06/26/160000",
+            "url": "https://inside.pixiv.blog/2024/06/26/160000",
+            "title": "クレジットカード決済システムの可用性向上とそれに伴うサービス共通利用規約の改定について",
+            "image": "https://cdn.image.st-hatena.com/image/scale/fd6a78b4fe4a31c250f6fc7d9ef483474096c63b/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155500129%2F1577143393788739",
+            "date_modified": "2024-06-26T15:00:00.000Z",
+            "author": {
+                "name": "ピクシブ株式会社"
+            }
+        },
+        {
+            "id": "https://tech.jxpress.net/entry/2024/06/25/142839",
+            "url": "https://tech.jxpress.net/entry/2024/06/25/142839",
+            "title": "Playwrightでメール配信のテスト自動化にチャレンジ！",
+            "image": "https://cdn.image.st-hatena.com/image/scale/a217261e20964e90496a28a302472a0e060baef8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FS%2FSirosuzumeJX%2F20240624%2F20240624114007.png",
+            "date_modified": "2024-06-24T15:00:00.000Z",
+            "author": {
+                "name": "株式会社JX通信社"
+            }
+        },
+        {
+            "id": "https://tech.enechange.co.jp/entry/2024/06/25/121317",
+            "url": "https://tech.enechange.co.jp/entry/2024/06/25/121317",
+            "title": "事業譲渡を受けたアプリとの統合で失敗、 そしてユーザーからの評価回復に至るまで",
+            "image": "https://cdn.image.st-hatena.com/image/scale/64ea104ce3fe875453a36c955bc24a568209d194/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftemoki-ht%2F20240624%2F20240624203953.png",
+            "date_modified": "2024-06-24T15:00:00.000Z",
+            "author": {
+                "name": "ENECHANGE株式会社"
+            }
+        },
+        {
+            "id": "https://tech.nri-net.com/entry/updated_edition_web_technology_basics",
+            "url": "https://tech.nri-net.com/entry/updated_edition_web_technology_basics",
+            "title": "【改訂しました】「この一冊で全部わかるWeb技術の基本」が第2版となりました。",
+            "image": "https://cdn.image.st-hatena.com/image/scale/bff51cd92dcad592d0e8edba53ee164e2e9d1332/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fk2-kobayashi%2F20240620%2F20240620200158.png",
+            "date_modified": "2024-06-23T15:00:00.000Z",
+            "author": {
+                "name": "NRIネットコム株式会社"
+            }
+        },
+        {
+            "id": "https://valinux.hatenablog.com/entry/20240620",
+            "url": "https://valinux.hatenablog.com/entry/20240620",
+            "title": "新Linuxカーネル解読室 - ソケットインターフェース(データ構造と概要編)",
+            "image": "https://cdn.image.st-hatena.com/image/scale/a50a9cb5428b314dd3525eb4504ac1763054b77c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvalinux%2F20240619%2F20240619132949.png",
+            "date_modified": "2024-06-19T15:00:00.000Z",
+            "author": {
+                "name": "VA Linux Systems Japan株式会社"
+            }
+        }
+    ]
+}

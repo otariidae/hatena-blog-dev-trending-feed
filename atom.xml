@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/otariidae/hatena-blog-dev-trending-feed</id>
+    <title>はてなブログ企業技術ブログTrending</title>
+    <updated>2024-07-01T04:11:45.756Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/otariidae/hatena-blog-dev-trending-feed"/>
+    <subtitle>はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード</subtitle>
+    <entry>
+        <title type="html"><![CDATA[機械学習とビジネスゴールのはざまで ]]></title>
+        <id>https://tech.layerx.co.jp/entry/2024/06/30/140352</id>
+        <link href="https://tech.layerx.co.jp/entry/2024/06/30/140352"/>
+        <updated>2024-06-29T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社LayerX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freee PSIRTの風景：Dependabot alertの調査]]></title>
+        <id>https://developers.freee.co.jp/entry/dependabot_alert</id>
+        <link href="https://developers.freee.co.jp/entry/dependabot_alert"/>
+        <updated>2024-06-29T15:00:00.000Z</updated>
+        <author>
+            <name>freee株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Design 2024年6月号 連載「レガシーシステム攻略のプロセス」第2回 ZOZOTOWNリプレイスにおけるIaCやCI/CD関連の取り組み]]></title>
+        <id>https://techblog.zozo.com/entry/software-design-202406</id>
+        <link href="https://techblog.zozo.com/entry/software-design-202406"/>
+        <updated>2024-06-28T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ZOZO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remix x Cloudflare Workersで0->1]]></title>
+        <id>https://product.st.inc/entry/2024/06/28/170550</id>
+        <link href="https://product.st.inc/entry/2024/06/28/170550"/>
+        <updated>2024-06-28T15:00:00.000Z</updated>
+        <author>
+            <name>STORES 株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AI情報収集 プロ驚き屋に踊らされるな]]></title>
+        <id>https://paiza.hatenablog.com/entry/2024/06/28/162330</id>
+        <link href="https://paiza.hatenablog.com/entry/2024/06/28/162330"/>
+        <updated>2024-06-28T15:00:00.000Z</updated>
+        <author>
+            <name>paiza株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ログ基盤のFluentdをFluent Bitに移行して監視ツールを実装した話]]></title>
+        <id>https://tech.mirrativ.stream/entry/log-fluent-bit-monitor</id>
+        <link href="https://tech.mirrativ.stream/entry/log-fluent-bit-monitor"/>
+        <updated>2024-06-28T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ミラティブ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モバイルエンジニアのためのGoogle I/O 2024とWWDC24を振り返る【モバイルTechCafe イベントレポート】]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20240628/mobiletechcafe</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20240628/mobiletechcafe"/>
+        <updated>2024-06-28T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ラクス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フルリモエンジニアのデスク環境!!劇的ビフォーアフター]]></title>
+        <id>https://tech.smarthr.jp/entry/2024/06/28/140000</id>
+        <link href="https://tech.smarthr.jp/entry/2024/06/28/140000"/>
+        <updated>2024-06-27T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社SmartHR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 2024 Editionがやってくる！]]></title>
+        <id>https://techblog.paild.co.jp/entry/2024/06/28/135922</id>
+        <link href="https://techblog.paild.co.jp/entry/2024/06/28/135922"/>
+        <updated>2024-06-27T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ペイルド</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWSでElastic Cloudを利用する 2024年版（構築編）]]></title>
+        <id>https://acro-engineer.hatenablog.com/entry/2024/06/28/130000</id>
+        <link href="https://acro-engineer.hatenablog.com/entry/2024/06/28/130000"/>
+        <updated>2024-06-27T15:00:00.000Z</updated>
+        <author>
+            <name>アクロクエストテクノロジー株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Difyの全社活用について、Dify Meetup Tokyo #1で発表しました]]></title>
+        <id>https://tech-blog.tabelog.com/entry/dify-meetup-tokyo-no1-report</id>
+        <link href="https://tech-blog.tabelog.com/entry/dify-meetup-tokyo-no1-report"/>
+        <updated>2024-06-27T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社カカクコム</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キーボードへのこだわりを聞いてみた ── 人生の1/3の時間は打鍵！]]></title>
+        <id>https://tech.smarthr.jp/entry/2024/06/27/165121</id>
+        <link href="https://tech.smarthr.jp/entry/2024/06/27/165121"/>
+        <updated>2024-06-27T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社SmartHR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽楽精算のインフラチームを紹介します！]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20240627/infra</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20240627/infra"/>
+        <updated>2024-06-27T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ラクス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googleフォームの設定ミスによる情報漏えいが多発～あなたのフォームは大丈夫？ 原因となる設定について解説～]]></title>
+        <id>https://devblog.lac.co.jp/entry/20240627</id>
+        <link href="https://devblog.lac.co.jp/entry/20240627"/>
+        <updated>2024-06-26T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ラック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BigQueryとLookerStudioのニッチな落とし穴についてまとめてみた]]></title>
+        <id>https://tech.timee.co.jp/entry/2024/06/27/110000</id>
+        <link href="https://tech.timee.co.jp/entry/2024/06/27/110000"/>
+        <updated>2024-06-26T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社タイミー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クレジットカード決済システムの可用性向上とそれに伴うサービス共通利用規約の改定について]]></title>
+        <id>https://inside.pixiv.blog/2024/06/26/160000</id>
+        <link href="https://inside.pixiv.blog/2024/06/26/160000"/>
+        <updated>2024-06-26T15:00:00.000Z</updated>
+        <author>
+            <name>ピクシブ株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playwrightでメール配信のテスト自動化にチャレンジ！]]></title>
+        <id>https://tech.jxpress.net/entry/2024/06/25/142839</id>
+        <link href="https://tech.jxpress.net/entry/2024/06/25/142839"/>
+        <updated>2024-06-24T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社JX通信社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[事業譲渡を受けたアプリとの統合で失敗、 そしてユーザーからの評価回復に至るまで]]></title>
+        <id>https://tech.enechange.co.jp/entry/2024/06/25/121317</id>
+        <link href="https://tech.enechange.co.jp/entry/2024/06/25/121317"/>
+        <updated>2024-06-24T15:00:00.000Z</updated>
+        <author>
+            <name>ENECHANGE株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【改訂しました】「この一冊で全部わかるWeb技術の基本」が第2版となりました。]]></title>
+        <id>https://tech.nri-net.com/entry/updated_edition_web_technology_basics</id>
+        <link href="https://tech.nri-net.com/entry/updated_edition_web_technology_basics"/>
+        <updated>2024-06-23T15:00:00.000Z</updated>
+        <author>
+            <name>NRIネットコム株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新Linuxカーネル解読室 - ソケットインターフェース(データ構造と概要編)]]></title>
+        <id>https://valinux.hatenablog.com/entry/20240620</id>
+        <link href="https://valinux.hatenablog.com/entry/20240620"/>
+        <updated>2024-06-19T15:00:00.000Z</updated>
+        <author>
+            <name>VA Linux Systems Japan株式会社</name>
+        </author>
+    </entry>
+</feed>

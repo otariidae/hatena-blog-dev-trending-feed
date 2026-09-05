@@ -1,0 +1,205 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "はてなブログ企業技術ブログTrending",
+    "home_page_url": "https://github.com/otariidae/hatena-blog-dev-trending-feed",
+    "description": "はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード",
+    "items": [
+        {
+            "id": "https://tech.itandi.co.jp/entry/2026/09/04/124204",
+            "url": "https://tech.itandi.co.jp/entry/2026/09/04/124204",
+            "title": "Solid Queue Batchesのライフサイクルを実装から読み解く",
+            "image": "https://cdn.image.st-hatena.com/image/scale/ac015be34d6dace8d50f37b7b43f4c266b7b1b4e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Fa_miyanaga%2F20260904%2F20260904124457.png",
+            "date_modified": "2026-09-03T15:00:00.000Z",
+            "author": {
+                "name": "イタンジ株式会社"
+            }
+        },
+        {
+            "id": "https://tech-blog.tabelog.com/entry/autonomous-ai-agent-pipeline-cost-verification_55",
+            "url": "https://tech-blog.tabelog.com/entry/autonomous-ai-agent-pipeline-cost-verification_55",
+            "title": "対話型をやめて1度の指示でPRができる。人間の開発フローに沿って5つの役割をリレーするAIエージェントパイプラインの設計",
+            "image": "https://cdn.image.st-hatena.com/image/scale/a8d6e91f71990315c2368ed0cee8b7057ed97f9e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftabelog_tech_blog%2F20260903%2F20260903150730.jpg",
+            "date_modified": "2026-09-03T15:00:00.000Z",
+            "author": {
+                "name": "株式会社カカクコム"
+            }
+        },
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/20260903/sdd",
+            "url": "https://tech-blog.rakus.co.jp/entry/20260903/sdd",
+            "title": "スキルを43個作っても越えられない、仕様駆動開発の4つの壁",
+            "image": "https://cdn.image.st-hatena.com/image/scale/10968e447a186318e5ac04b4752984c30ec2b80a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20260901%2F20260901124949.png",
+            "date_modified": "2026-09-03T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ラクス"
+            }
+        },
+        {
+            "id": "https://developers.freee.co.jp/entry/2026/09/03/120000",
+            "url": "https://developers.freee.co.jp/entry/2026/09/03/120000",
+            "title": "10/3 (土)「freee 技術の日 2026」開催！",
+            "image": "https://cdn.image.st-hatena.com/image/scale/1b92d711de565b04be4dba25a63458e466db8d28/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnaho-yoshida%2F20260902%2F20260902174213.png",
+            "date_modified": "2026-09-02T15:00:00.000Z",
+            "author": {
+                "name": "freee株式会社"
+            }
+        },
+        {
+            "id": "https://tech-blog.monotaro.com/entry/2026/09/03/090000",
+            "url": "https://tech-blog.monotaro.com/entry/2026/09/03/090000",
+            "title": "壊してもいいデータベースを数秒で--ZFSで作るDBブランチ基盤",
+            "image": "https://cdn.image.st-hatena.com/image/scale/5f1c48631b18a42f4be0fcefdd3986c20430a06c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmonotaro-tech-blog%2F20260805%2F20260805161419.png",
+            "date_modified": "2026-09-02T15:00:00.000Z",
+            "author": {
+                "name": "株式会社MonotaRO"
+            }
+        },
+        {
+            "id": "https://nealle-dev.hatenablog.com/entry/2026/09/02/160138",
+            "url": "https://nealle-dev.hatenablog.com/entry/2026/09/02/160138",
+            "title": "「広島行こ」から始まった PyCon JP 2026 参加レポート — セッションから3日目のスプリントまで",
+            "image": "https://cdn.image.st-hatena.com/image/scale/7de6e5032d0478bc7eca47bbbed90f0e5da7e9ef/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmiyakun04%2F20260827%2F20260827181302.png",
+            "date_modified": "2026-09-02T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ニーリー"
+            }
+        },
+        {
+            "id": "https://techblog.tebiki.co.jp/2026/09/02/114547",
+            "url": "https://techblog.tebiki.co.jp/2026/09/02/114547",
+            "title": "字幕はテキストか？",
+            "date_modified": "2026-09-01T15:00:00.000Z",
+            "author": {
+                "name": "Tebiki株式会社"
+            }
+        },
+        {
+            "id": "https://tech.bm-sms.co.jp/entry/2026/09/02/110000",
+            "url": "https://tech.bm-sms.co.jp/entry/2026/09/02/110000",
+            "title": "生成AIが奪う学習機会とキャリア初期のエンジニア育成の悩み",
+            "image": "https://cdn.image.st-hatena.com/image/scale/5a84ff6662485cf9cc715db7469b1260f7823955/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbm-sms%2F20260902%2F20260902110004.png",
+            "date_modified": "2026-09-01T15:00:00.000Z",
+            "author": {
+                "name": "株式会社エス・エム・エス"
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/claude-budget-tags",
+            "url": "https://www.m3tech.blog/entry/claude-budget-tags",
+            "title": "Claude Codeでトークンリミットが頻発したので、作業ごとにリミットを設定した",
+            "image": "https://cdn.image.st-hatena.com/image/scale/57e9b842f7c93986ff101843142e1f07c0b38833/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20260901%2F20260901180013.jpg",
+            "date_modified": "2026-09-01T15:00:00.000Z",
+            "author": {
+                "name": "エムスリー株式会社"
+            }
+        },
+        {
+            "id": "https://nealle-dev.hatenablog.com/entry/2026/09/01/180204",
+            "url": "https://nealle-dev.hatenablog.com/entry/2026/09/01/180204",
+            "title": "Google Cloudのセキュリティ強化を爆速で！ - Google Cloud minimum viable secure platformのススメ",
+            "image": "https://cdn.image.st-hatena.com/image/scale/1a76d12e2112452417efde99e35ea8a398125d40/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FR%2FRyoheUdagawa%2F20260831%2F20260831112601.png",
+            "date_modified": "2026-09-01T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ニーリー"
+            }
+        },
+        {
+            "id": "https://techblog.demae-can.co.jp/entry/20260901/1788229744",
+            "url": "https://techblog.demae-can.co.jp/entry/20260901/1788229744",
+            "title": "限られたセキュリティリソースで成果を最大化する「選択と集中」 — 出前館の脆弱性対応とAI活用",
+            "date_modified": "2026-08-31T15:00:00.000Z",
+            "author": {
+                "name": "株式会社出前館"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow",
+            "url": "https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow",
+            "title": "チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善",
+            "image": "https://cdn.image.st-hatena.com/image/scale/94835765ef72509d3fce0534694865f9468a96c0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260828%2F20260828184053.png",
+            "date_modified": "2026-08-31T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ZOZO"
+            }
+        },
+        {
+            "id": "https://tech.andpad.co.jp/entry/2026/09/01/100000",
+            "url": "https://tech.andpad.co.jp/entry/2026/09/01/100000",
+            "title": "Go 1.27におけるmemory allocation高速化はどうやって実現したのか",
+            "image": "https://cdn.image.st-hatena.com/image/scale/92f204104bedc872561f5ba89b46eb87b86b374f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsezemi%2F20260828%2F20260828151614.png",
+            "date_modified": "2026-08-31T15:00:00.000Z",
+            "author": {
+                "name": "株式会社アンドパッド"
+            }
+        },
+        {
+            "id": "https://tech.algomatic.jp/entry/2026/08/31/185832",
+            "url": "https://tech.algomatic.jp/entry/2026/08/31/185832",
+            "title": "Grillingで詰まったら、推測せず分岐する",
+            "image": "https://cdn.image.st-hatena.com/image/scale/48c2e14ca2cd653e2d6201024e12d296e88de828/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgotadano%2F20260831%2F20260831184530.png",
+            "date_modified": "2026-08-31T15:00:00.000Z",
+            "author": {
+                "name": "株式会社Algomatic"
+            }
+        },
+        {
+            "id": "https://blog.generative-agents.co.jp/entry/2026/08/31/173537",
+            "url": "https://blog.generative-agents.co.jp/entry/2026/08/31/173537",
+            "title": "AIエージェントとの協働を考え続けた結果、タスク管理ツールとチャットツールを内製しました",
+            "image": "https://cdn.image.st-hatena.com/image/scale/b6bac7d02aa03a7d74e4b48060e884d7370d4e98/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgenerative-agents%2F20260831%2F20260831173542.png",
+            "date_modified": "2026-08-31T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ジェネラティブエージェンツ"
+            }
+        },
+        {
+            "id": "https://tech.kickflow.co.jp/entry/2026/08/31/164556",
+            "url": "https://tech.kickflow.co.jp/entry/2026/08/31/164556",
+            "title": "Claude Codeを教官役にした入社研修の話",
+            "image": "https://cdn.image.st-hatena.com/image/scale/27fc63f60b95c54117a2089c45c02f053721b2d0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkickflow%2F20260828%2F20260828154328.jpg",
+            "date_modified": "2026-08-31T15:00:00.000Z",
+            "author": {
+                "name": "株式会社kickflow"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/cto-a-training-2026",
+            "url": "https://techblog.zozo.com/entry/cto-a-training-2026",
+            "title": "26卒エンジニアがAI時代に日本CTO協会の「新卒エンジニア合同研修」で学んだこと",
+            "image": "https://cdn.image.st-hatena.com/image/scale/1847d25ed9f4235c192d1e59a58521e0ba249149/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260817%2F20260817130320.png",
+            "date_modified": "2026-08-30T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ZOZO"
+            }
+        },
+        {
+            "id": "https://tech.smarthr.jp/entry/2026/08/31/095924",
+            "url": "https://tech.smarthr.jp/entry/2026/08/31/095924",
+            "title": "品質を支える仕組みをチームで作る —— 開発プロセスの可視化と改善",
+            "image": "https://cdn.image.st-hatena.com/image/scale/b3af378c10eeebd78415f94d903f3bf287c758ad/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20260831%2F20260831095931.png",
+            "date_modified": "2026-08-30T15:00:00.000Z",
+            "author": {
+                "name": "株式会社SmartHR"
+            }
+        },
+        {
+            "id": "https://techblog.insightedge.jp/entry/powerpoint-auto-generation",
+            "url": "https://techblog.insightedge.jp/entry/powerpoint-auto-generation",
+            "title": "PowerPoint自動生成でAIにデザインさせるのをやめた：Claude Code × python-pptxで「自分が手作業で作るスライド」を再現する",
+            "date_modified": "2026-08-30T15:00:00.000Z",
+            "author": {
+                "name": "株式会社Insight Edge"
+            }
+        },
+        {
+            "id": "https://tech.dentsusoken.com/entry/2026/08/31/%E3%83%8F%E3%83%BC%E3%83%8D%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E2%80%94%E2%80%94%22%E7%9B%9B%E3%82%8C%E3%81%B0%E5%8A%B9",
+            "url": "https://tech.dentsusoken.com/entry/2026/08/31/%E3%83%8F%E3%83%BC%E3%83%8D%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E2%80%94%E2%80%94%22%E7%9B%9B%E3%82%8C%E3%81%B0%E5%8A%B9",
+            "title": "ハーネスエンジニアリングとは何か——\"盛れば効く\"のかを確かめる",
+            "image": "https://cdn.image.st-hatena.com/image/scale/b7e7e53b559a1b82646e00275cd489537623e7aa/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fd%2Fdentsusoken%2F20260821%2F20260821142208.png",
+            "date_modified": "2026-08-30T15:00:00.000Z",
+            "author": {
+                "name": "株式会社電通総研"
+            }
+        }
+    ]
+}

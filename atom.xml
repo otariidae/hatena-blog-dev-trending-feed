@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/otariidae/hatena-blog-dev-trending-feed</id>
+    <title>はてなブログ企業技術ブログTrending</title>
+    <updated>2026-09-05T07:56:37.861Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/otariidae/hatena-blog-dev-trending-feed"/>
+    <subtitle>はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Solid Queue Batchesのライフサイクルを実装から読み解く]]></title>
+        <id>https://tech.itandi.co.jp/entry/2026/09/04/124204</id>
+        <link href="https://tech.itandi.co.jp/entry/2026/09/04/124204"/>
+        <updated>2026-09-03T15:00:00.000Z</updated>
+        <author>
+            <name>イタンジ株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[対話型をやめて1度の指示でPRができる。人間の開発フローに沿って5つの役割をリレーするAIエージェントパイプラインの設計]]></title>
+        <id>https://tech-blog.tabelog.com/entry/autonomous-ai-agent-pipeline-cost-verification_55</id>
+        <link href="https://tech-blog.tabelog.com/entry/autonomous-ai-agent-pipeline-cost-verification_55"/>
+        <updated>2026-09-03T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社カカクコム</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スキルを43個作っても越えられない、仕様駆動開発の4つの壁]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20260903/sdd</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20260903/sdd"/>
+        <updated>2026-09-03T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ラクス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10/3 (土)「freee 技術の日 2026」開催！]]></title>
+        <id>https://developers.freee.co.jp/entry/2026/09/03/120000</id>
+        <link href="https://developers.freee.co.jp/entry/2026/09/03/120000"/>
+        <updated>2026-09-02T15:00:00.000Z</updated>
+        <author>
+            <name>freee株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[壊してもいいデータベースを数秒で--ZFSで作るDBブランチ基盤]]></title>
+        <id>https://tech-blog.monotaro.com/entry/2026/09/03/090000</id>
+        <link href="https://tech-blog.monotaro.com/entry/2026/09/03/090000"/>
+        <updated>2026-09-02T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社MonotaRO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「広島行こ」から始まった PyCon JP 2026 参加レポート — セッションから3日目のスプリントまで]]></title>
+        <id>https://nealle-dev.hatenablog.com/entry/2026/09/02/160138</id>
+        <link href="https://nealle-dev.hatenablog.com/entry/2026/09/02/160138"/>
+        <updated>2026-09-02T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ニーリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[字幕はテキストか？]]></title>
+        <id>https://techblog.tebiki.co.jp/2026/09/02/114547</id>
+        <link href="https://techblog.tebiki.co.jp/2026/09/02/114547"/>
+        <updated>2026-09-01T15:00:00.000Z</updated>
+        <author>
+            <name>Tebiki株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AIが奪う学習機会とキャリア初期のエンジニア育成の悩み]]></title>
+        <id>https://tech.bm-sms.co.jp/entry/2026/09/02/110000</id>
+        <link href="https://tech.bm-sms.co.jp/entry/2026/09/02/110000"/>
+        <updated>2026-09-01T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社エス・エム・エス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Codeでトークンリミットが頻発したので、作業ごとにリミットを設定した]]></title>
+        <id>https://www.m3tech.blog/entry/claude-budget-tags</id>
+        <link href="https://www.m3tech.blog/entry/claude-budget-tags"/>
+        <updated>2026-09-01T15:00:00.000Z</updated>
+        <author>
+            <name>エムスリー株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Cloudのセキュリティ強化を爆速で！ - Google Cloud minimum viable secure platformのススメ]]></title>
+        <id>https://nealle-dev.hatenablog.com/entry/2026/09/01/180204</id>
+        <link href="https://nealle-dev.hatenablog.com/entry/2026/09/01/180204"/>
+        <updated>2026-09-01T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ニーリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[限られたセキュリティリソースで成果を最大化する「選択と集中」 — 出前館の脆弱性対応とAI活用]]></title>
+        <id>https://techblog.demae-can.co.jp/entry/20260901/1788229744</id>
+        <link href="https://techblog.demae-can.co.jp/entry/20260901/1788229744"/>
+        <updated>2026-08-31T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社出前館</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善]]></title>
+        <id>https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow</id>
+        <link href="https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow"/>
+        <updated>2026-08-31T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ZOZO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go 1.27におけるmemory allocation高速化はどうやって実現したのか]]></title>
+        <id>https://tech.andpad.co.jp/entry/2026/09/01/100000</id>
+        <link href="https://tech.andpad.co.jp/entry/2026/09/01/100000"/>
+        <updated>2026-08-31T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社アンドパッド</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grillingで詰まったら、推測せず分岐する]]></title>
+        <id>https://tech.algomatic.jp/entry/2026/08/31/185832</id>
+        <link href="https://tech.algomatic.jp/entry/2026/08/31/185832"/>
+        <updated>2026-08-31T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社Algomatic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIエージェントとの協働を考え続けた結果、タスク管理ツールとチャットツールを内製しました]]></title>
+        <id>https://blog.generative-agents.co.jp/entry/2026/08/31/173537</id>
+        <link href="https://blog.generative-agents.co.jp/entry/2026/08/31/173537"/>
+        <updated>2026-08-31T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ジェネラティブエージェンツ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Codeを教官役にした入社研修の話]]></title>
+        <id>https://tech.kickflow.co.jp/entry/2026/08/31/164556</id>
+        <link href="https://tech.kickflow.co.jp/entry/2026/08/31/164556"/>
+        <updated>2026-08-31T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社kickflow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[26卒エンジニアがAI時代に日本CTO協会の「新卒エンジニア合同研修」で学んだこと]]></title>
+        <id>https://techblog.zozo.com/entry/cto-a-training-2026</id>
+        <link href="https://techblog.zozo.com/entry/cto-a-training-2026"/>
+        <updated>2026-08-30T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ZOZO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[品質を支える仕組みをチームで作る —— 開発プロセスの可視化と改善]]></title>
+        <id>https://tech.smarthr.jp/entry/2026/08/31/095924</id>
+        <link href="https://tech.smarthr.jp/entry/2026/08/31/095924"/>
+        <updated>2026-08-30T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社SmartHR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerPoint自動生成でAIにデザインさせるのをやめた：Claude Code × python-pptxで「自分が手作業で作るスライド」を再現する]]></title>
+        <id>https://techblog.insightedge.jp/entry/powerpoint-auto-generation</id>
+        <link href="https://techblog.insightedge.jp/entry/powerpoint-auto-generation"/>
+        <updated>2026-08-30T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社Insight Edge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハーネスエンジニアリングとは何か——"盛れば効く"のかを確かめる]]></title>
+        <id>https://tech.dentsusoken.com/entry/2026/08/31/%E3%83%8F%E3%83%BC%E3%83%8D%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E2%80%94%E2%80%94%22%E7%9B%9B%E3%82%8C%E3%81%B0%E5%8A%B9</id>
+        <link href="https://tech.dentsusoken.com/entry/2026/08/31/%E3%83%8F%E3%83%BC%E3%83%8D%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E2%80%94%E2%80%94%22%E7%9B%9B%E3%82%8C%E3%81%B0%E5%8A%B9"/>
+        <updated>2026-08-30T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社電通総研</name>
+        </author>
+    </entry>
+</feed>

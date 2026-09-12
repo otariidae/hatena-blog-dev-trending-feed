@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/otariidae/hatena-blog-dev-trending-feed</id>
+    <title>はてなブログ企業技術ブログTrending</title>
+    <updated>2026-09-12T08:14:32.375Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/otariidae/hatena-blog-dev-trending-feed"/>
+    <subtitle>はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Product Leaders AI 2026に参加！AI時代のプロダクトリーダーに求められることを、あらためて考えた1日]]></title>
+        <id>https://nealle-dev.hatenablog.com/entry/2026/09/11/171745</id>
+        <link href="https://nealle-dev.hatenablog.com/entry/2026/09/11/171745"/>
+        <updated>2026-09-11T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ニーリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「覚え直さなくていい」を最優先にしたAI導入 ― アラート一次調査の自動化]]></title>
+        <id>https://tech.asken.inc/entry/2026/09/11/170000</id>
+        <link href="https://tech.asken.inc/entry/2026/09/11/170000"/>
+        <updated>2026-09-11T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社asken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIに12機能を書かせたら、レビューに5営業日かかった]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/202260911/ai</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/202260911/ai"/>
+        <updated>2026-09-11T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ラクス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ミラティブ】iOSDC Japan 2026 にスポンサーとして協賛します]]></title>
+        <id>https://tech.mirrativ.stream/entry/2026/09/11/133404</id>
+        <link href="https://tech.mirrativ.stream/entry/2026/09/11/133404"/>
+        <updated>2026-09-10T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ミラティブ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZOZOTOWN Androidのマルチモジュール構成を段階的に整理する]]></title>
+        <id>https://techblog.zozo.com/entry/zozotown-android-modularization</id>
+        <link href="https://techblog.zozo.com/entry/zozotown-android-modularization"/>
+        <updated>2026-09-10T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ZOZO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[専門エンジニアを廃止した　─ Voicy開発統括が半年で実行した3つの構造改革]]></title>
+        <id>https://tech-blog.voicy.jp/entry/2026/09/10/183722</id>
+        <link href="https://tech-blog.voicy.jp/entry/2026/09/10/183722"/>
+        <updated>2026-09-10T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社Voicy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go探無比 (gotan) - Go Conference 2026 Workshop]]></title>
+        <id>https://tech.andpad.co.jp/entry/2026/09/10/133000</id>
+        <link href="https://tech.andpad.co.jp/entry/2026/09/10/133000"/>
+        <updated>2026-09-09T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社アンドパッド</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Codeとの会話を、チームの記憶にする ── 開発の文脈をメモリに残して共有する仕組み]]></title>
+        <id>https://techblog.zozo.com/entry/memory-manager-context-reuse</id>
+        <link href="https://techblog.zozo.com/entry/memory-manager-context-reuse"/>
+        <updated>2026-09-09T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ZOZO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「なぜ動くのか」を説明できるエンジニアへ。自作で学ぶWebアプリケーション研修教材を公開]]></title>
+        <id>https://tech.speee.jp/entry/2026/09/09/133550</id>
+        <link href="https://tech.speee.jp/entry/2026/09/09/133550"/>
+        <updated>2026-09-08T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社Speee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QuineMakerを作った話と技術的な解説]]></title>
+        <id>https://www.m3tech.blog/entry/quine-maker</id>
+        <link href="https://www.m3tech.blog/entry/quine-maker"/>
+        <updated>2026-09-08T15:00:00.000Z</updated>
+        <author>
+            <name>エムスリー株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[認可基盤の移行を安全に進める- Cerbosの選定から新旧基盤の並行稼働、切り替えまで]]></title>
+        <id>https://tech.acesinc.co.jp/entry/2026/09/09/125130</id>
+        <link href="https://tech.acesinc.co.jp/entry/2026/09/09/125130"/>
+        <updated>2026-09-08T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ACES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AIによるデータ分析を「仕様」から始める：仕様駆動データ分析（SDA）の実践]]></title>
+        <id>https://engineers.ntt.com/entry/202609-sda/entry</id>
+        <link href="https://engineers.ntt.com/entry/202609-sda/entry"/>
+        <updated>2026-09-08T15:00:00.000Z</updated>
+        <author>
+            <name>エヌ・ティ・ティ・コミュニケーションズ株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「みんなのもの」の在庫は、1つのドメインとして成立するのか ── 20年もののモノリスから境界と責務を決めるまで]]></title>
+        <id>https://techblog.zozo.com/entry/bo-stock-replace-domain-boundary</id>
+        <link href="https://techblog.zozo.com/entry/bo-stock-replace-domain-boundary"/>
+        <updated>2026-09-08T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ZOZO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETL 基盤を Embulk から dlt + dbt に乗り換えた 2 つの理由]]></title>
+        <id>https://www.m3tech.blog/entry/embulk-to-dlt-dbt</id>
+        <link href="https://www.m3tech.blog/entry/embulk-to-dlt-dbt"/>
+        <updated>2026-09-07T15:00:00.000Z</updated>
+        <author>
+            <name>エムスリー株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ひかりでんわ」を作って学ぶ、子ども向け通信実験教室をやった話]]></title>
+        <id>https://engineers.ntt.com/entry/202609-robotbu/entry</id>
+        <link href="https://engineers.ntt.com/entry/202609-robotbu/entry"/>
+        <updated>2026-09-07T15:00:00.000Z</updated>
+        <author>
+            <name>エヌ・ティ・ティ・コミュニケーションズ株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キャッチアップ3時間、8日でリリース。AI時代のインターン受け入れで見えたメンターの役割]]></title>
+        <id>https://tech.findy.co.jp/entry/2026/09/08/070000</id>
+        <link href="https://tech.findy.co.jp/entry/2026/09/08/070000"/>
+        <updated>2026-09-07T15:00:00.000Z</updated>
+        <author>
+            <name>ファインディ株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIエージェント向けコーディングルールをArchUnitで機械的に検証する運用]]></title>
+        <id>https://techblog.zozo.com/entry/verify-ai-agent-coding-rules-with-archunit</id>
+        <link href="https://techblog.zozo.com/entry/verify-ai-agent-coding-rules-with-archunit"/>
+        <updated>2026-09-06T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ZOZO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社長の考えをいつでも聞ける！AIコジーを社内公開]]></title>
+        <id>https://engineers.ntt.com/entry/202608-aicozy2/entry</id>
+        <link href="https://engineers.ntt.com/entry/202608-aicozy2/entry"/>
+        <updated>2026-09-06T15:00:00.000Z</updated>
+        <author>
+            <name>エヌ・ティ・ティ・コミュニケーションズ株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新メンバーが早く馴染むチームビルディング「トリセツ会」]]></title>
+        <id>https://tech.techtouch.jp/entry/team-building-torisetsu-kai</id>
+        <link href="https://tech.techtouch.jp/entry/team-building-torisetsu-kai"/>
+        <updated>2026-09-06T15:00:00.000Z</updated>
+        <author>
+            <name>テックタッチ株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI時代のエンジニア選考・面接のパターン]]></title>
+        <id>https://kaminashi-developer.hatenablog.jp/entry/2026/09/07/ai-era-engineer-interviews</id>
+        <link href="https://kaminashi-developer.hatenablog.jp/entry/2026/09/07/ai-era-engineer-interviews"/>
+        <updated>2026-09-06T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社カミナシ</name>
+        </author>
+    </entry>
+</feed>

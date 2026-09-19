@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>はてなブログ企業技術ブログTrending</title>
+        <link>https://github.com/otariidae/hatena-blog-dev-trending-feed</link>
+        <description>はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード</description>
+        <lastBuildDate>Sat, 19 Sep 2026 08:24:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ja</language>
+        <item>
+            <title><![CDATA[緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった]]></title>
+            <link>https://tech.layerx.co.jp/entry/2026/09/18/185816</link>
+            <guid>https://tech.layerx.co.jp/entry/2026/09/18/185816</guid>
+            <pubDate>Fri, 18 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/4a97f05252d6d52b25569854ca0f59ab0ef93f85/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyuu2634%2F20260918%2F20260918191032.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[【Stan】階層ベイズモデリングを用いた生存時間分析で意思決定をした時の話]]></title>
+            <link>https://analytics.leverages.jp/entry/2026/09/18/181500</link>
+            <guid>https://analytics.leverages.jp/entry/2026/09/18/181500</guid>
+            <pubDate>Fri, 18 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/3d4dedcc42789db0c0c98758ea9241e90ca12718/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FD%2FDataStrategyOffice%2F20260918%2F20260918180941.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BigQueryのスロット、返し忘れていませんか? fluid scalingによるスロット費用最適化]]></title>
+            <link>https://www.m3tech.blog/entry/2026/09/18/160000</link>
+            <guid>https://www.m3tech.blog/entry/2026/09/18/160000</guid>
+            <pubDate>Fri, 18 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/364c28d099895c5ca7570c8d5d7cd8f92be640d8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20260918%2F20260918160001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SPAを丸ごと差し替えながら、画面単位で新基盤へ引っ越した話]]></title>
+            <link>https://developers.freee.co.jp/entry/spa_react_upgrade</link>
+            <guid>https://developers.freee.co.jp/entry/spa_react_upgrade</guid>
+            <pubDate>Fri, 18 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/771d0063d13693c75bfd2dd00a6c76bc97ef76f2/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshuchan1%2F20260915%2F20260915155248.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AIに「アクセシビリティを改善して」と頼んだら、lintエラーだけが消えたコードが返ってきた]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20260918/a11y</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20260918/a11y</guid>
+            <pubDate>Thu, 17 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/1de5bc2a457f21e8b673f662b1bd127e46b723d4/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20260918%2F20260918125730.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[次の登壇者は君だ！正しい情報の調べ方、知っていますか？Go Conference 2026で「Go探無比（gotan）」を開催しました]]></title>
+            <link>https://tech.andpad.co.jp/entry/2026/09/18/100000</link>
+            <guid>https://tech.andpad.co.jp/entry/2026/09/18/100000</guid>
+            <pubDate>Thu, 17 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/7ef6a308a55c0d9123eba7e72d236329f1e06da1/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Foct88%2F20260917%2F20260917143940.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[楽楽明細における、障害対応時の動き方の話]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20260917/incident</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20260917/incident</guid>
+            <pubDate>Thu, 17 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/84b79ed65b96dcd6aefe1af167df6b264a814757/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20260917%2F20260917113110.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[パスキーは破られていないのに突破される——デバイスコードフロー攻撃とEntra IDでの対策]]></title>
+            <link>https://techblog.ap-com.co.jp/entry/2026/09/17/103525</link>
+            <guid>https://techblog.ap-com.co.jp/entry/2026/09/17/103525</guid>
+            <pubDate>Wed, 16 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/1ec73f3821d2193ae0cb74a2a5a5b9a878cc4a74/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fn_orita%2F20260916%2F20260916214047.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[DroidKaigi 2026 参加レポート]]></title>
+            <link>https://tech.mirrativ.stream/entry/2026/09/17/100000</link>
+            <guid>https://tech.mirrativ.stream/entry/2026/09/17/100000</guid>
+            <pubDate>Wed, 16 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/367e70483a14822964d76f7b60a5a69c8b1efe6e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkei-1111-mirrativ%2F20260914%2F20260914164635.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[「全員未経験」からのVibe Coding —— 1行も書けなかったチームが、当たり前のように社内アプリを作っている話]]></title>
+            <link>https://tech-blog.monotaro.com/entry/2026/09/17/090000</link>
+            <guid>https://tech-blog.monotaro.com/entry/2026/09/17/090000</guid>
+            <pubDate>Wed, 16 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/986ccb1f1dac7b79e97e896fd9ac5834aab2e579/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmonotaro-tech-blog%2F20260903%2F20260903193633.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SRv6 uSID TI-LFAを検証してみた]]></title>
+            <link>https://engineers.ntt.com/entry/202609-srv6-tilfa/entry</link>
+            <guid>https://engineers.ntt.com/entry/202609-srv6-tilfa/entry</guid>
+            <pubDate>Wed, 16 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/2b5ceee80d01da4cc487f7a5b689691002b823d2/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F5694434%2F1752635351448040" length="0" type="image/com%2Fdefault_entry_og_image%2F5694434%2F1752635351448040"/>
+        </item>
+        <item>
+            <title><![CDATA[Claude Code Routinesを用いてIssueを自動で解消する仕組みを展開した話]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20260916/ai</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20260916/ai</guid>
+            <pubDate>Wed, 16 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/a48ea73a940516d327b7c51400a480a3fbe9a81c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmurosyo%2F20260618%2F20260618172618.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Claude Codeで開発期間を2.5か月から1か月に縮めた「ハーネス」の設計手法]]></title>
+            <link>https://tech.smarthr.jp/entry/2026/09/16/110205</link>
+            <guid>https://tech.smarthr.jp/entry/2026/09/16/110205</guid>
+            <pubDate>Tue, 15 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/7f9e7758c9dabede903461703041008c74fd9183/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20260916%2F20260916111024.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[障害対応で Claude Code に調査を任せてみたら便利だった話]]></title>
+            <link>https://developer.feedforce.jp/entry/2026/09/15/122838</link>
+            <guid>https://developer.feedforce.jp/entry/2026/09/15/122838</guid>
+            <pubDate>Mon, 14 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/200b9ae9a9124fcaed4b8bb507ba2d2fd5140b06/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcritical_alert%2F20260914%2F20260914165957.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Local LLMを部署内に提供！ Local LLM Model as a Serviceとその取り組みについて]]></title>
+            <link>https://engineers.ntt.com/entry/202607-local-llm-maas/entry</link>
+            <guid>https://engineers.ntt.com/entry/202607-local-llm-maas/entry</guid>
+            <pubDate>Mon, 14 Sep 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[なぜ悪性パッケージは届いてしまうのか、パッケージレジストリの対策の歴史から考える]]></title>
+            <link>https://blog.flatt.tech/entry/package_registry_history</link>
+            <guid>https://blog.flatt.tech/entry/package_registry_history</guid>
+            <pubDate>Sun, 13 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/dc1db21a84d44139d0f51eb5029dca633ba27cc2/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflattsecurity%2F20260911%2F20260911181342.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[フロントエンドなんてバイブコーディングで良いこの時代に、私は]]></title>
+            <link>https://kaminashi-developer.hatenablog.jp/entry/2026/09/14/frontend-beyond-vibe-coding</link>
+            <guid>https://kaminashi-developer.hatenablog.jp/entry/2026/09/14/frontend-beyond-vibe-coding</guid>
+            <pubDate>Sun, 13 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/f7739a5d900b7b4ac1571d026da96899e18fdee8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaminashi-developer%2F20260911%2F20260911104029.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[検算ハーネス：AI にも人にも、正しさを判定させない]]></title>
+            <link>https://tech.enechange.co.jp/entry/2026/09/13/003945</link>
+            <guid>https://tech.enechange.co.jp/entry/2026/09/13/003945</guid>
+            <pubDate>Sat, 12 Sep 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[結合テスト工程へのAI導入の現在地 ── あるスクラムチームの半年間の試行錯誤]]></title>
+            <link>https://tech.smarthr.jp/entry/2026/09/08/093129</link>
+            <guid>https://tech.smarthr.jp/entry/2026/09/08/093129</guid>
+            <pubDate>Mon, 07 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/023b29f1cbd221f96e8520d95e65a50098072a36/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20260908%2F20260908093131.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI活用で生まれた別のコスト]]></title>
+            <link>https://tech.smarthr.jp/entry/2026/09/02/120000</link>
+            <guid>https://tech.smarthr.jp/entry/2026/09/02/120000</guid>
+            <pubDate>Tue, 01 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/d19ced9997190796a0302932b8290d38458142d0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20260902%2F20260902120012.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>

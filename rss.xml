@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>はてなブログ企業技術ブログTrending</title>
+        <link>https://github.com/otariidae/hatena-blog-dev-trending-feed</link>
+        <description>はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード</description>
+        <lastBuildDate>Sat, 26 Sep 2026 08:56:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ja</language>
+        <item>
+            <title><![CDATA[DatastreamのBigQueryコストを92%削減できた取り組み]]></title>
+            <link>https://techblog.zozo.com/entry/datastream-staleness-limit</link>
+            <guid>https://techblog.zozo.com/entry/datastream-staleness-limit</guid>
+            <pubDate>Fri, 25 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/4ae04b7a33d68976b8f1a2fef87c7e1c0554b371/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260924%2F20260924134347.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[EXPLAIN で詰まったときの三つ目の手札、Optimizer Trace の話]]></title>
+            <link>https://tech.timee.co.jp/entry/2026/09/25/162348</link>
+            <guid>https://tech.timee.co.jp/entry/2026/09/25/162348</guid>
+            <pubDate>Fri, 25 Sep 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIエージェントに影響調査と概算見積もりの一次請けを任せる ── 精度ではなく「見落とし」を潰す]]></title>
+            <link>https://techblog.zozo.com/entry/devin-cross-repo-impact-analysis</link>
+            <guid>https://techblog.zozo.com/entry/devin-cross-repo-impact-analysis</guid>
+            <pubDate>Thu, 24 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/6f21d260ed36fee70fd1164a4570b244165f456c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260918%2F20260918135343.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ジュニアエンジニアがSREについてざっくりまとめてみた]]></title>
+            <link>https://tech.nri-net.com/entry/junior_engineer_put_together_summary_of_sre</link>
+            <guid>https://tech.nri-net.com/entry/junior_engineer_put_together_summary_of_sre</guid>
+            <pubDate>Thu, 24 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/8f6cc9b213e098737f59aaa208b86fcf03108453/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fy2-shibahara%2F20260914%2F20260914101257.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[【無停止移行】Ingress-NGINXからNGINX Gateway Fabricへ無停止で移行する]]></title>
+            <link>https://tech.enigmo.co.jp/entry/2026/09/25/070000</link>
+            <guid>https://tech.enigmo.co.jp/entry/2026/09/25/070000</guid>
+            <pubDate>Thu, 24 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/a82255704c4b707b7f8d2b80f73d8e1bea449a0c/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155084323%2F1570154978443398" length="0" type="image/com%2Fdefault_entry_og_image%2F155084323%2F1570154978443398"/>
+        </item>
+        <item>
+            <title><![CDATA[「PdEConf 2026」に共同運営として参加した話 ー カンファレンス運営という名の「プロダクトエンジニアリング」ー]]></title>
+            <link>https://nealle-dev.hatenablog.com/entry/2026/09/24/170444</link>
+            <guid>https://nealle-dev.hatenablog.com/entry/2026/09/24/170444</guid>
+            <pubDate>Thu, 24 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/cddbc7e895e153674df798ce19c05a64ec3b3edb/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FT%2FTooka_91%2F20260924%2F20260924171916.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Databricks Ontobricksで動かしながら理解するOntology]]></title>
+            <link>https://techblog.vpoint.co.jp/entry/2026/09/24/155045</link>
+            <guid>https://techblog.vpoint.co.jp/entry/2026/09/24/155045</guid>
+            <pubDate>Thu, 24 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/7746491a5c49fabc0bcabe45b2f7a7d492d443ee/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmiu4930%2F20260924%2F20260924122625.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ Vue→Reactリプレイス、仕様駆動(cc-sdd)でやってみた]]></title>
+            <link>https://tech.iimon.co.jp/entry/2026/09/24/141603</link>
+            <guid>https://tech.iimon.co.jp/entry/2026/09/24/141603</guid>
+            <pubDate>Wed, 23 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/1aa746fdf4168d85f8f4bee484c5f29f8b29b93c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbannri_3333%2F20260915%2F20260915133946.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[対応工数を半減、リードタイムを6日から1日に ── Dify・Claude Code・Devinを束ねたSlack問い合わせ自動化]]></title>
+            <link>https://techblog.zozo.com/entry/ai-agent-inquiry-automation</link>
+            <guid>https://techblog.zozo.com/entry/ai-agent-inquiry-automation</guid>
+            <pubDate>Wed, 23 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/b9461bf3f5832dd861d6459e5e69e53ef49340cc/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260918%2F20260918113558.png%3Fchanged%3D1789698976" length="0" type="image/png%3Fchanged%3D1789698976"/>
+        </item>
+        <item>
+            <title><![CDATA[IAM Identity CenterのSSOは、サインインの裏で何が起きているのか]]></title>
+            <link>https://tech.nri-net.com/entry/what_happens_behind_the_scenes_during_signin</link>
+            <guid>https://tech.nri-net.com/entry/what_happens_behind_the_scenes_during_signin</guid>
+            <pubDate>Wed, 23 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/062937b6871c74148d6832447f8d12aacf496d0c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fs4-yamada%2F20260914%2F20260914131811.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった]]></title>
+            <link>https://tech.layerx.co.jp/entry/2026/09/18/185816</link>
+            <guid>https://tech.layerx.co.jp/entry/2026/09/18/185816</guid>
+            <pubDate>Fri, 18 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/4a97f05252d6d52b25569854ca0f59ab0ef93f85/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyuu2634%2F20260918%2F20260918191032.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SPAを丸ごと差し替えながら、画面単位で新基盤へ引っ越した話]]></title>
+            <link>https://developers.freee.co.jp/entry/spa_react_upgrade</link>
+            <guid>https://developers.freee.co.jp/entry/spa_react_upgrade</guid>
+            <pubDate>Fri, 18 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/771d0063d13693c75bfd2dd00a6c76bc97ef76f2/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshuchan1%2F20260915%2F20260915155248.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Claude Code Routinesを用いてIssueを自動で解消する仕組みを展開した話]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20260916/ai</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20260916/ai</guid>
+            <pubDate>Wed, 16 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/a48ea73a940516d327b7c51400a480a3fbe9a81c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmurosyo%2F20260618%2F20260618172618.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[NeMo/SwitchyardでローカルLLMとAzure AI Foundryモデルを自動的に切り替えて使えるようにする]]></title>
+            <link>https://blog.jbs.co.jp/entry/2026/09/14/091033</link>
+            <guid>https://blog.jbs.co.jp/entry/2026/09/14/091033</guid>
+            <pubDate>Sun, 13 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/2deffdc6078dd6af0056d1463198d42fd9e50a37/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_eueda%2F20260814%2F20260814132437.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[検算ハーネス：AI にも人にも、正しさを判定させない]]></title>
+            <link>https://tech.enechange.co.jp/entry/2026/09/13/003945</link>
+            <guid>https://tech.enechange.co.jp/entry/2026/09/13/003945</guid>
+            <pubDate>Sat, 12 Sep 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[リソースタグに応じて利用料金を Teams で通知する方法（Logic Apps + Cost Management Query API )]]></title>
+            <link>https://blog.jbs.co.jp/entry/2026/09/11/152658</link>
+            <guid>https://blog.jbs.co.jp/entry/2026/09/11/152658</guid>
+            <pubDate>Fri, 11 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/d53b2cd64b6aa9771d74712d447be2ca1cb2c54b/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158660714%2F1667527455467771" length="0" type="image/com%2Fdefault_entry_og_image%2F158660714%2F1667527455467771"/>
+        </item>
+        <item>
+            <title><![CDATA[Claude Codeとの会話を、チームの記憶にする ── 開発の文脈をメモリに残して共有する仕組み]]></title>
+            <link>https://techblog.zozo.com/entry/memory-manager-context-reuse</link>
+            <guid>https://techblog.zozo.com/entry/memory-manager-context-reuse</guid>
+            <pubDate>Wed, 09 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/56393ac1bc692310ff9e790d6c1465d912a8ab5e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260908%2F20260908105835.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[生成AIによるデータ分析を「仕様」から始める：仕様駆動データ分析（SDA）の実践]]></title>
+            <link>https://engineers.ntt.com/entry/202609-sda/entry</link>
+            <guid>https://engineers.ntt.com/entry/202609-sda/entry</guid>
+            <pubDate>Tue, 08 Sep 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI時代のジュニアエンジニア育成で、『自走』をどう見極めるか]]></title>
+            <link>https://tech.synchro-food.co.jp/entry/2026/08/31/180000</link>
+            <guid>https://tech.synchro-food.co.jp/entry/2026/08/31/180000</guid>
+            <pubDate>Mon, 31 Aug 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ハーネスエンジニアリングとは何か——"盛れば効く"のかを確かめる]]></title>
+            <link>https://tech.dentsusoken.com/entry/2026/08/31/%E3%83%8F%E3%83%BC%E3%83%8D%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E2%80%94%E2%80%94%22%E7%9B%9B%E3%82%8C%E3%81%B0%E5%8A%B9</link>
+            <guid>https://tech.dentsusoken.com/entry/2026/08/31/%E3%83%8F%E3%83%BC%E3%83%8D%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E2%80%94%E2%80%94%22%E7%9B%9B%E3%82%8C%E3%81%B0%E5%8A%B9</guid>
+            <pubDate>Sun, 30 Aug 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/b7e7e53b559a1b82646e00275cd489537623e7aa/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fd%2Fdentsusoken%2F20260821%2F20260821142208.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>

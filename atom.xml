@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/otariidae/hatena-blog-dev-trending-feed</id>
+    <title>はてなブログ企業技術ブログTrending</title>
+    <updated>2026-09-26T08:56:37.569Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/otariidae/hatena-blog-dev-trending-feed"/>
+    <subtitle>はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード</subtitle>
+    <entry>
+        <title type="html"><![CDATA[DatastreamのBigQueryコストを92%削減できた取り組み]]></title>
+        <id>https://techblog.zozo.com/entry/datastream-staleness-limit</id>
+        <link href="https://techblog.zozo.com/entry/datastream-staleness-limit"/>
+        <updated>2026-09-25T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ZOZO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EXPLAIN で詰まったときの三つ目の手札、Optimizer Trace の話]]></title>
+        <id>https://tech.timee.co.jp/entry/2026/09/25/162348</id>
+        <link href="https://tech.timee.co.jp/entry/2026/09/25/162348"/>
+        <updated>2026-09-25T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社タイミー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIエージェントに影響調査と概算見積もりの一次請けを任せる ── 精度ではなく「見落とし」を潰す]]></title>
+        <id>https://techblog.zozo.com/entry/devin-cross-repo-impact-analysis</id>
+        <link href="https://techblog.zozo.com/entry/devin-cross-repo-impact-analysis"/>
+        <updated>2026-09-24T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ZOZO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジュニアエンジニアがSREについてざっくりまとめてみた]]></title>
+        <id>https://tech.nri-net.com/entry/junior_engineer_put_together_summary_of_sre</id>
+        <link href="https://tech.nri-net.com/entry/junior_engineer_put_together_summary_of_sre"/>
+        <updated>2026-09-24T15:00:00.000Z</updated>
+        <author>
+            <name>NRIネットコム株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【無停止移行】Ingress-NGINXからNGINX Gateway Fabricへ無停止で移行する]]></title>
+        <id>https://tech.enigmo.co.jp/entry/2026/09/25/070000</id>
+        <link href="https://tech.enigmo.co.jp/entry/2026/09/25/070000"/>
+        <updated>2026-09-24T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社エニグモ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「PdEConf 2026」に共同運営として参加した話 ー カンファレンス運営という名の「プロダクトエンジニアリング」ー]]></title>
+        <id>https://nealle-dev.hatenablog.com/entry/2026/09/24/170444</id>
+        <link href="https://nealle-dev.hatenablog.com/entry/2026/09/24/170444"/>
+        <updated>2026-09-24T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ニーリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Databricks Ontobricksで動かしながら理解するOntology]]></title>
+        <id>https://techblog.vpoint.co.jp/entry/2026/09/24/155045</id>
+        <link href="https://techblog.vpoint.co.jp/entry/2026/09/24/155045"/>
+        <updated>2026-09-24T15:00:00.000Z</updated>
+        <author>
+            <name>Vポイントマーケティング株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ Vue→Reactリプレイス、仕様駆動(cc-sdd)でやってみた]]></title>
+        <id>https://tech.iimon.co.jp/entry/2026/09/24/141603</id>
+        <link href="https://tech.iimon.co.jp/entry/2026/09/24/141603"/>
+        <updated>2026-09-23T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ｉｉｍｏｎ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[対応工数を半減、リードタイムを6日から1日に ── Dify・Claude Code・Devinを束ねたSlack問い合わせ自動化]]></title>
+        <id>https://techblog.zozo.com/entry/ai-agent-inquiry-automation</id>
+        <link href="https://techblog.zozo.com/entry/ai-agent-inquiry-automation"/>
+        <updated>2026-09-23T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ZOZO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IAM Identity CenterのSSOは、サインインの裏で何が起きているのか]]></title>
+        <id>https://tech.nri-net.com/entry/what_happens_behind_the_scenes_during_signin</id>
+        <link href="https://tech.nri-net.com/entry/what_happens_behind_the_scenes_during_signin"/>
+        <updated>2026-09-23T15:00:00.000Z</updated>
+        <author>
+            <name>NRIネットコム株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった]]></title>
+        <id>https://tech.layerx.co.jp/entry/2026/09/18/185816</id>
+        <link href="https://tech.layerx.co.jp/entry/2026/09/18/185816"/>
+        <updated>2026-09-18T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社LayerX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPAを丸ごと差し替えながら、画面単位で新基盤へ引っ越した話]]></title>
+        <id>https://developers.freee.co.jp/entry/spa_react_upgrade</id>
+        <link href="https://developers.freee.co.jp/entry/spa_react_upgrade"/>
+        <updated>2026-09-18T15:00:00.000Z</updated>
+        <author>
+            <name>freee株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code Routinesを用いてIssueを自動で解消する仕組みを展開した話]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20260916/ai</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20260916/ai"/>
+        <updated>2026-09-16T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ラクス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NeMo/SwitchyardでローカルLLMとAzure AI Foundryモデルを自動的に切り替えて使えるようにする]]></title>
+        <id>https://blog.jbs.co.jp/entry/2026/09/14/091033</id>
+        <link href="https://blog.jbs.co.jp/entry/2026/09/14/091033"/>
+        <updated>2026-09-13T15:00:00.000Z</updated>
+        <author>
+            <name>日本ビジネスシステムズ株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[検算ハーネス：AI にも人にも、正しさを判定させない]]></title>
+        <id>https://tech.enechange.co.jp/entry/2026/09/13/003945</id>
+        <link href="https://tech.enechange.co.jp/entry/2026/09/13/003945"/>
+        <updated>2026-09-12T15:00:00.000Z</updated>
+        <author>
+            <name>ENECHANGE株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リソースタグに応じて利用料金を Teams で通知する方法（Logic Apps + Cost Management Query API )]]></title>
+        <id>https://blog.jbs.co.jp/entry/2026/09/11/152658</id>
+        <link href="https://blog.jbs.co.jp/entry/2026/09/11/152658"/>
+        <updated>2026-09-11T15:00:00.000Z</updated>
+        <author>
+            <name>日本ビジネスシステムズ株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Codeとの会話を、チームの記憶にする ── 開発の文脈をメモリに残して共有する仕組み]]></title>
+        <id>https://techblog.zozo.com/entry/memory-manager-context-reuse</id>
+        <link href="https://techblog.zozo.com/entry/memory-manager-context-reuse"/>
+        <updated>2026-09-09T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ZOZO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AIによるデータ分析を「仕様」から始める：仕様駆動データ分析（SDA）の実践]]></title>
+        <id>https://engineers.ntt.com/entry/202609-sda/entry</id>
+        <link href="https://engineers.ntt.com/entry/202609-sda/entry"/>
+        <updated>2026-09-08T15:00:00.000Z</updated>
+        <author>
+            <name>エヌ・ティ・ティ・コミュニケーションズ株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI時代のジュニアエンジニア育成で、『自走』をどう見極めるか]]></title>
+        <id>https://tech.synchro-food.co.jp/entry/2026/08/31/180000</id>
+        <link href="https://tech.synchro-food.co.jp/entry/2026/08/31/180000"/>
+        <updated>2026-08-31T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社シンクロ・フード</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハーネスエンジニアリングとは何か——"盛れば効く"のかを確かめる]]></title>
+        <id>https://tech.dentsusoken.com/entry/2026/08/31/%E3%83%8F%E3%83%BC%E3%83%8D%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E2%80%94%E2%80%94%22%E7%9B%9B%E3%82%8C%E3%81%B0%E5%8A%B9</id>
+        <link href="https://tech.dentsusoken.com/entry/2026/08/31/%E3%83%8F%E3%83%BC%E3%83%8D%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E2%80%94%E2%80%94%22%E7%9B%9B%E3%82%8C%E3%81%B0%E5%8A%B9"/>
+        <updated>2026-08-30T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社電通総研</name>
+        </author>
+    </entry>
+</feed>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>はてなブログ企業技術ブログTrending</title>
+        <link>https://github.com/otariidae/hatena-blog-dev-trending-feed</link>
+        <description>はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード</description>
+        <lastBuildDate>Sat, 03 Oct 2026 09:33:04 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ja</language>
+        <item>
+            <title><![CDATA[AWS Certified AI Business Strategist（AIB-C01）ベータ試験を受験してみた]]></title>
+            <link>https://tech.nri-net.com/entry/took_the_aib_c01_beta_exam</link>
+            <guid>https://tech.nri-net.com/entry/took_the_aib_c01_beta_exam</guid>
+            <pubDate>Fri, 02 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/1bcc932822e08792f9ca5ec5dd106207ef3f3c4b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3-wada%2F20260930%2F20260930202223.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20261002/k8s</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20261002/k8s</guid>
+            <pubDate>Fri, 02 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/56b7c23e172d37d7e18f03f2bbd0e8ac38d2e257/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgumamon%2F20261001%2F20261001145748.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[DroidKaigi 2026に参加しました]]></title>
+            <link>https://tech.stmn.co.jp/entry/2026/10/02/104523</link>
+            <guid>https://tech.stmn.co.jp/entry/2026/10/02/104523</guid>
+            <pubDate>Thu, 01 Oct 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI に伴走してもらうチームマネジメントの試み]]></title>
+            <link>https://tech.layerx.co.jp/entry/ai-empowered-team-management</link>
+            <guid>https://tech.layerx.co.jp/entry/ai-empowered-team-management</guid>
+            <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/f6700d7e51897be352f8870a02866a5660f3e54a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fipod_nana%2F20261001%2F20261001105426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ArgoCD のログインを 1 分から数十ミリ秒に ── AI 駆動開発で広げたプラットフォームの手札]]></title>
+            <link>https://tech-blog.monotaro.com/entry/2026/10/01/090000</link>
+            <guid>https://tech-blog.monotaro.com/entry/2026/10/01/090000</guid>
+            <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/25494dd0e8cf16106cd9a0066daf35879835dc2f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmonotaro-tech-blog%2F20260925%2F20260925130442.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Amazon Bedrock API キーの作成と利用を禁止する SCP を考える]]></title>
+            <link>https://blog.serverworks.co.jp/bedrock-api-key-deny-scp</link>
+            <guid>https://blog.serverworks.co.jp/bedrock-api-key-deny-scp</guid>
+            <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/53ef8bade3bfdc1717e98703924358c3a4e158d8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-satake%2F20260928%2F20260928174400.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[「AI生成コードがダメすぎる」それは既存実装のせい。Voicyのバックエンド・リアーキテクトのすべて]]></title>
+            <link>https://tech-blog.voicy.jp/entry/2026/09/30/231259</link>
+            <guid>https://tech-blog.voicy.jp/entry/2026/09/30/231259</guid>
+            <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LayerXのFDEインターンに参加した話]]></title>
+            <link>https://tech.layerx.co.jp/entry/2026/09/30/200852</link>
+            <guid>https://tech.layerx.co.jp/entry/2026/09/30/200852</guid>
+            <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/81788c00cf1012bf8e31ea2f2e97a221a053243f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmaruchiho_layerx%2F20260930%2F20260930200722.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[はてなのポッドキャスト Backyard Hatena #57 - Whyはてなパークス！ その実態に迫る（id:chris4403） #byhatena]]></title>
+            <link>https://developer.hatenastaff.com/entry/2026/09/30/183000</link>
+            <guid>https://developer.hatenastaff.com/entry/2026/09/30/183000</guid>
+            <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/5bc0b2b18c202f89b15dcdf3335fc99d967fa14c/height=144;version=1;width=224/https%3A%2F%2Fcdn.blog.st-hatena.com%2Ffiles%2F12704346814673975483%2F4207112889896980759" length="0" type="image/com%2Ffiles%2F12704346814673975483%2F4207112889896980759"/>
+        </item>
+        <item>
+            <title><![CDATA[ドメインの壁を超えて顧客価値を生み出すAI Native開発〜そして全社展開へ〜]]></title>
+            <link>https://techblog.enechain.com/entry/ai-native-beyond-domain</link>
+            <guid>https://techblog.enechain.com/entry/ai-native-beyond-domain</guid>
+            <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/2c840e30694922d79dc7e81f8e580d33ed15ff0e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Fenechain%2F20260929%2F20260929170006.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 10 Minute Test Plan Generate. Claudeと社内ナレッジでテスト計画の叩き台を10分で生成する仕組み]]></title>
+            <link>https://tech.layerx.co.jp/entry/10minute_test_plan_gen</link>
+            <guid>https://tech.layerx.co.jp/entry/10minute_test_plan_gen</guid>
+            <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/cb67b804dbf6db3876ecff580b133c9b265e0b35/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkoyatest%2F20260930%2F20260930131341.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI駆動型開発組織の現在地 — DeNA・freeeと議論して見えた「役割と境界」の再設計【DevinCon 2026 登壇レポート】]]></title>
+            <link>https://tech-blog.tabelog.com/entry/devin-con-2026-report</link>
+            <guid>https://tech-blog.tabelog.com/entry/devin-con-2026-report</guid>
+            <pubDate>Tue, 29 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/1c0a8c3d459048d89dbac509ecd473d846f9fc9c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftabelog_tech_blog%2F20260930%2F20260930091406.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1Password CLI で実現する、トークンをファイルに残さないnpm認証]]></title>
+            <link>https://blog.smartbank.co.jp/entry/1password-cli-token-management</link>
+            <guid>https://blog.smartbank.co.jp/entry/1password-cli-token-management</guid>
+            <pubDate>Tue, 29 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/413141ce3f0bc4cd8dfe6c626fc00d057502a37a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmartbank%2F20260930%2F20260930091326.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[セキュリティエンジニア視点のKubernetes環境の攻撃面と対策]]></title>
+            <link>https://blog.flatt.tech/entry/kubernetes-attack-surface</link>
+            <guid>https://blog.flatt.tech/entry/kubernetes-attack-surface</guid>
+            <pubDate>Tue, 29 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/705ee1bbf54a4aea966bbc49566f53c312d8cb6a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflattsecurity%2F20260929%2F20260929124911.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[エンジニアに抽象的に考える力が必要な理由ー課題を見つけるための私の習慣]]></title>
+            <link>https://tech-blog.monotaro.com/entry/2026/09/29/090000</link>
+            <guid>https://tech-blog.monotaro.com/entry/2026/09/29/090000</guid>
+            <pubDate>Mon, 28 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/652f9b29ca506067aadbde4c698396f93df1499d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmonotaro-tech-blog%2F20260925%2F20260925130003.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MySQLクライアントをTrilogyへ移行しました]]></title>
+            <link>https://blog.smartbank.co.jp/entry/mysql2-to-trilogy</link>
+            <guid>https://blog.smartbank.co.jp/entry/mysql2-to-trilogy</guid>
+            <pubDate>Mon, 28 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/73f12badb731e5dd417841a287b2130e05ed4a04/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmartbank%2F20260928%2F20260928115106.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[アラート対応のAI自動化で考える、思考フローの再現とハーネスによる安全設計]]></title>
+            <link>https://techblog.zozo.com/entry/alert-auto-response</link>
+            <guid>https://techblog.zozo.com/entry/alert-auto-response</guid>
+            <pubDate>Mon, 28 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/98e1b62016801a62435ca49d2303ff0e3920fdf7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260924%2F20260924162127.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AIで要件定義を実践して分かった、大量のアウトプットを捌くための"問い"の作り方]]></title>
+            <link>https://tech-blog.tabelog.com/entry/ai-requirements-definition-with-questions</link>
+            <guid>https://tech-blog.tabelog.com/entry/ai-requirements-definition-with-questions</guid>
+            <pubDate>Sun, 27 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/7ad920fab3403338eb7a03bb714ea392a50a2094/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftabelog_tech_blog%2F20260924%2F20260924103924.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった]]></title>
+            <link>https://tech.layerx.co.jp/entry/2026/09/18/185816</link>
+            <guid>https://tech.layerx.co.jp/entry/2026/09/18/185816</guid>
+            <pubDate>Fri, 18 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/4a97f05252d6d52b25569854ca0f59ab0ef93f85/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyuu2634%2F20260918%2F20260918191032.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[専門エンジニアを廃止した　─ Voicy開発統括が半年で実行した3つの構造改革]]></title>
+            <link>https://tech-blog.voicy.jp/entry/2026/09/10/183722</link>
+            <guid>https://tech-blog.voicy.jp/entry/2026/09/10/183722</guid>
+            <pubDate>Thu, 10 Sep 2026 15:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

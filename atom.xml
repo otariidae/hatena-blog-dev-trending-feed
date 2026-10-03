@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/otariidae/hatena-blog-dev-trending-feed</id>
+    <title>はてなブログ企業技術ブログTrending</title>
+    <updated>2026-10-03T09:33:04.306Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/otariidae/hatena-blog-dev-trending-feed"/>
+    <subtitle>はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード</subtitle>
+    <entry>
+        <title type="html"><![CDATA[AWS Certified AI Business Strategist（AIB-C01）ベータ試験を受験してみた]]></title>
+        <id>https://tech.nri-net.com/entry/took_the_aib_c01_beta_exam</id>
+        <link href="https://tech.nri-net.com/entry/took_the_aib_c01_beta_exam"/>
+        <updated>2026-10-02T15:00:00.000Z</updated>
+        <author>
+            <name>NRIネットコム株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20261002/k8s</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20261002/k8s"/>
+        <updated>2026-10-02T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ラクス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DroidKaigi 2026に参加しました]]></title>
+        <id>https://tech.stmn.co.jp/entry/2026/10/02/104523</id>
+        <link href="https://tech.stmn.co.jp/entry/2026/10/02/104523"/>
+        <updated>2026-10-01T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社スタメン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI に伴走してもらうチームマネジメントの試み]]></title>
+        <id>https://tech.layerx.co.jp/entry/ai-empowered-team-management</id>
+        <link href="https://tech.layerx.co.jp/entry/ai-empowered-team-management"/>
+        <updated>2026-09-30T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社LayerX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ArgoCD のログインを 1 分から数十ミリ秒に ── AI 駆動開発で広げたプラットフォームの手札]]></title>
+        <id>https://tech-blog.monotaro.com/entry/2026/10/01/090000</id>
+        <link href="https://tech-blog.monotaro.com/entry/2026/10/01/090000"/>
+        <updated>2026-09-30T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社MonotaRO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Bedrock API キーの作成と利用を禁止する SCP を考える]]></title>
+        <id>https://blog.serverworks.co.jp/bedrock-api-key-deny-scp</id>
+        <link href="https://blog.serverworks.co.jp/bedrock-api-key-deny-scp"/>
+        <updated>2026-09-30T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社サーバーワークス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「AI生成コードがダメすぎる」それは既存実装のせい。Voicyのバックエンド・リアーキテクトのすべて]]></title>
+        <id>https://tech-blog.voicy.jp/entry/2026/09/30/231259</id>
+        <link href="https://tech-blog.voicy.jp/entry/2026/09/30/231259"/>
+        <updated>2026-09-30T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社Voicy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LayerXのFDEインターンに参加した話]]></title>
+        <id>https://tech.layerx.co.jp/entry/2026/09/30/200852</id>
+        <link href="https://tech.layerx.co.jp/entry/2026/09/30/200852"/>
+        <updated>2026-09-30T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社LayerX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[はてなのポッドキャスト Backyard Hatena #57 - Whyはてなパークス！ その実態に迫る（id:chris4403） #byhatena]]></title>
+        <id>https://developer.hatenastaff.com/entry/2026/09/30/183000</id>
+        <link href="https://developer.hatenastaff.com/entry/2026/09/30/183000"/>
+        <updated>2026-09-30T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社はてな</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドメインの壁を超えて顧客価値を生み出すAI Native開発〜そして全社展開へ〜]]></title>
+        <id>https://techblog.enechain.com/entry/ai-native-beyond-domain</id>
+        <link href="https://techblog.enechain.com/entry/ai-native-beyond-domain"/>
+        <updated>2026-09-30T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社enechain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 10 Minute Test Plan Generate. Claudeと社内ナレッジでテスト計画の叩き台を10分で生成する仕組み]]></title>
+        <id>https://tech.layerx.co.jp/entry/10minute_test_plan_gen</id>
+        <link href="https://tech.layerx.co.jp/entry/10minute_test_plan_gen"/>
+        <updated>2026-09-30T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社LayerX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI駆動型開発組織の現在地 — DeNA・freeeと議論して見えた「役割と境界」の再設計【DevinCon 2026 登壇レポート】]]></title>
+        <id>https://tech-blog.tabelog.com/entry/devin-con-2026-report</id>
+        <link href="https://tech-blog.tabelog.com/entry/devin-con-2026-report"/>
+        <updated>2026-09-29T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社カカクコム</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1Password CLI で実現する、トークンをファイルに残さないnpm認証]]></title>
+        <id>https://blog.smartbank.co.jp/entry/1password-cli-token-management</id>
+        <link href="https://blog.smartbank.co.jp/entry/1password-cli-token-management"/>
+        <updated>2026-09-29T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社スマートバンク</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セキュリティエンジニア視点のKubernetes環境の攻撃面と対策]]></title>
+        <id>https://blog.flatt.tech/entry/kubernetes-attack-surface</id>
+        <link href="https://blog.flatt.tech/entry/kubernetes-attack-surface"/>
+        <updated>2026-09-29T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社Flatt Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エンジニアに抽象的に考える力が必要な理由ー課題を見つけるための私の習慣]]></title>
+        <id>https://tech-blog.monotaro.com/entry/2026/09/29/090000</id>
+        <link href="https://tech-blog.monotaro.com/entry/2026/09/29/090000"/>
+        <updated>2026-09-28T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社MonotaRO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQLクライアントをTrilogyへ移行しました]]></title>
+        <id>https://blog.smartbank.co.jp/entry/mysql2-to-trilogy</id>
+        <link href="https://blog.smartbank.co.jp/entry/mysql2-to-trilogy"/>
+        <updated>2026-09-28T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社スマートバンク</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アラート対応のAI自動化で考える、思考フローの再現とハーネスによる安全設計]]></title>
+        <id>https://techblog.zozo.com/entry/alert-auto-response</id>
+        <link href="https://techblog.zozo.com/entry/alert-auto-response"/>
+        <updated>2026-09-28T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ZOZO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIで要件定義を実践して分かった、大量のアウトプットを捌くための"問い"の作り方]]></title>
+        <id>https://tech-blog.tabelog.com/entry/ai-requirements-definition-with-questions</id>
+        <link href="https://tech-blog.tabelog.com/entry/ai-requirements-definition-with-questions"/>
+        <updated>2026-09-27T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社カカクコム</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった]]></title>
+        <id>https://tech.layerx.co.jp/entry/2026/09/18/185816</id>
+        <link href="https://tech.layerx.co.jp/entry/2026/09/18/185816"/>
+        <updated>2026-09-18T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社LayerX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[専門エンジニアを廃止した　─ Voicy開発統括が半年で実行した3つの構造改革]]></title>
+        <id>https://tech-blog.voicy.jp/entry/2026/09/10/183722</id>
+        <link href="https://tech-blog.voicy.jp/entry/2026/09/10/183722"/>
+        <updated>2026-09-10T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社Voicy</name>
+        </author>
+    </entry>
+</feed>

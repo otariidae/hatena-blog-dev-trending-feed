@@ -1,0 +1,205 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "はてなブログ企業技術ブログTrending",
+    "home_page_url": "https://github.com/otariidae/hatena-blog-dev-trending-feed",
+    "description": "はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード",
+    "items": [
+        {
+            "id": "https://tech.layerx.co.jp/entry/2026/10/09/162114",
+            "url": "https://tech.layerx.co.jp/entry/2026/10/09/162114",
+            "title": "ソフトウェアサプライチェーン攻撃演習から学ぶ、インシデント対応に必要な5つの視点",
+            "image": "https://cdn.image.st-hatena.com/image/scale/3e563db3792f0a60f90e275fa570a4c64a198e4b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmas358%2F20261009%2F20261009165746.png",
+            "date_modified": "2026-10-09T15:00:00.000Z",
+            "author": {
+                "name": "株式会社LayerX"
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/10/09/130000",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/10/09/130000",
+            "title": "AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由",
+            "image": "https://cdn.image.st-hatena.com/image/scale/1432696e34d02d12e78f2cab1df89e38997dd026/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsansantech%2F20261008%2F20261008125008.jpg",
+            "date_modified": "2026-10-08T15:00:00.000Z",
+            "author": {
+                "name": "Sansan株式会社"
+            }
+        },
+        {
+            "id": "https://tech.stmn.co.jp/entry/2026/10/09/121328",
+            "url": "https://tech.stmn.co.jp/entry/2026/10/09/121328",
+            "title": "RailsプロダクトにおけるDDD試験導入のリアル — なぜ本格採用を見送り、ActiveRecord中心の設計を選択したのか",
+            "image": "https://cdn.image.st-hatena.com/image/scale/0131b7a4e14390ced1be09df1c35cb5ba3e123ff/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F156014893%2F1721095942368448",
+            "date_modified": "2026-10-08T15:00:00.000Z",
+            "author": {
+                "name": "株式会社スタメン"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/fbz-history",
+            "url": "https://techblog.zozo.com/entry/fbz-history",
+            "title": "歴史から紐解く、開発から9年が経過したサーバーレスサービスの「変化への追従」",
+            "image": "https://cdn.image.st-hatena.com/image/scale/f0a831969fd21200802bb5fa6f88b963421d74ee/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260930%2F20260930170926.png",
+            "date_modified": "2026-10-08T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ZOZO"
+            }
+        },
+        {
+            "id": "https://tech.andpad.co.jp/entry/2026/10/09/100000",
+            "url": "https://tech.andpad.co.jp/entry/2026/10/09/100000",
+            "title": "RubyGems/Bundler 4.1 で追加される override と prune の紹介",
+            "image": "https://cdn.image.st-hatena.com/image/scale/43d18187c806741ab7d209a61932073c4ad9f2b3/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsezemi%2F20261008%2F20261008185347.png",
+            "date_modified": "2026-10-08T15:00:00.000Z",
+            "author": {
+                "name": "株式会社アンドパッド"
+            }
+        },
+        {
+            "id": "https://tech.findy.co.jp/entry/2026/10/09/070000",
+            "url": "https://tech.findy.co.jp/entry/2026/10/09/070000",
+            "title": "ファインディの開発文化 - 小さな積み重ねと、それを支える仕組み",
+            "image": "https://cdn.image.st-hatena.com/image/scale/9829c7f373a39b7776ea7c3b1c3d80c18136f672/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstarfish719%2F20261008%2F20261008114435.png",
+            "date_modified": "2026-10-08T15:00:00.000Z",
+            "author": {
+                "name": "ファインディ株式会社"
+            }
+        },
+        {
+            "id": "https://blog.g-gen.co.jp/entry/gemini-at-work-new-gemini-announcement",
+            "url": "https://blog.g-gen.co.jp/entry/gemini-at-work-new-gemini-announcement",
+            "title": "Gemini at Work 2026で発表されたGeminiエージェント速報",
+            "image": "https://cdn.image.st-hatena.com/image/scale/448dfd0bbc10549c2e5fb95c15585d13169bdf87/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20261009%2F20261009033013.png",
+            "date_modified": "2026-10-08T15:00:00.000Z",
+            "author": {
+                "name": "株式会社 G-gen"
+            }
+        },
+        {
+            "id": "https://blog.flatt.tech/entry/tensorlake_compromise",
+            "url": "https://blog.flatt.tech/entry/tensorlake_compromise",
+            "title": "tensorlake ソフトウェアサプライチェーン攻撃の概要と対策指針",
+            "image": "https://cdn.image.st-hatena.com/image/scale/629b1ee237a4441cc72bebe903f03b3fe02024d2/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflattsecurity%2F20261008%2F20261008123612.png",
+            "date_modified": "2026-10-07T15:00:00.000Z",
+            "author": {
+                "name": "株式会社Flatt Security"
+            }
+        },
+        {
+            "id": "https://rheb.hatenablog.com/entry/2026/10/07/235338",
+            "url": "https://rheb.hatenablog.com/entry/2026/10/07/235338",
+            "title": "APIセキュリティ、どこから見直す？ OWASPとNISTを使った点検の始め方",
+            "date_modified": "2026-10-07T15:00:00.000Z",
+            "author": {
+                "name": "レッドハット株式会社"
+            }
+        },
+        {
+            "id": "https://developers.gnavi.co.jp/entry/db-cloud-migration/",
+            "url": "https://developers.gnavi.co.jp/entry/db-cloud-migration/",
+            "title": "【DBAのリアル】オンプレからクラウドへの大規模リプレース！AIと一緒に挑むAWS Aurora移行プロジェクト始動",
+            "image": "https://cdn.image.st-hatena.com/image/scale/488618b6b289d750c3bf251e3f3146f47c6d44e5/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgnavi_developers%2F20261005%2F20261005170117.png",
+            "date_modified": "2026-10-05T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ぐるなび"
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/git-worktree-gc",
+            "url": "https://www.m3tech.blog/entry/git-worktree-gc",
+            "title": "git worktree大増殖で困っていた",
+            "date_modified": "2026-10-05T15:00:00.000Z",
+            "author": {
+                "name": "エムスリー株式会社"
+            }
+        },
+        {
+            "id": "https://tech.bm-sms.co.jp/entry/2026/10/06/110000",
+            "url": "https://tech.bm-sms.co.jp/entry/2026/10/06/110000",
+            "title": "イネイブリングチームが、半年で自分たちのスコープを変えた話",
+            "image": "https://cdn.image.st-hatena.com/image/scale/350e81989d9053b17b53229d0eb111a22d888bf5/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbm-sms%2F20261006%2F20261006110001.png",
+            "date_modified": "2026-10-05T15:00:00.000Z",
+            "author": {
+                "name": "株式会社エス・エム・エス"
+            }
+        },
+        {
+            "id": "https://tech.kickflow.co.jp/entry/2026/10/06/105939",
+            "url": "https://tech.kickflow.co.jp/entry/2026/10/06/105939",
+            "title": "手動テストを渡すだけでE2Eが完成する仕組みを作りました",
+            "image": "https://cdn.image.st-hatena.com/image/scale/62a1fa7689e11ddc4de7743214707d0508bbb046/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkickflow%2F20260929%2F20260929095655.png",
+            "date_modified": "2026-10-05T15:00:00.000Z",
+            "author": {
+                "name": "株式会社kickflow"
+            }
+        },
+        {
+            "id": "https://tech-blog.monotaro.com/entry/2026/10/06/090000",
+            "url": "https://tech-blog.monotaro.com/entry/2026/10/06/090000",
+            "title": "エンジニアの技術力を測る「帯制度」をAIで爆速開発し、1年で450の \"段位\" を授与した話",
+            "image": "https://cdn.image.st-hatena.com/image/scale/a7b11a8635d3ccb28057f8ca2fe13168abc862b9/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmonotaro-tech-blog%2F20261005%2F20261005115348.png",
+            "date_modified": "2026-10-05T15:00:00.000Z",
+            "author": {
+                "name": "株式会社MonotaRO"
+            }
+        },
+        {
+            "id": "https://blog.flatt.tech/entry/2026/10/06/021103",
+            "url": "https://blog.flatt.tech/entry/2026/10/06/021103",
+            "title": "@subql/common ソフトウェアサプライチェーン攻撃の概要と対策指針",
+            "image": "https://cdn.image.st-hatena.com/image/scale/b1602c52c7b442a4916a9caab204106175e8583c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflattsecurity%2F20261006%2F20261006084954.png",
+            "date_modified": "2026-10-05T15:00:00.000Z",
+            "author": {
+                "name": "株式会社Flatt Security"
+            }
+        },
+        {
+            "id": "https://tech.layerx.co.jp/entry/enterprise-llm-wiki-ops",
+            "url": "https://tech.layerx.co.jp/entry/enterprise-llm-wiki-ops",
+            "title": "LLM Wikiの組織運用に向けて ── 陳腐化を防ぐ更新の仕組み",
+            "image": "https://cdn.image.st-hatena.com/image/scale/7397468a2ed0cd3d2fdaabed3f8049b23a2d41b7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshibu526%2F20261005%2F20261005235547.png",
+            "date_modified": "2026-10-05T15:00:00.000Z",
+            "author": {
+                "name": "株式会社LayerX"
+            }
+        },
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/20261005/claude-code-routines",
+            "url": "https://tech-blog.rakus.co.jp/entry/20261005/claude-code-routines",
+            "title": "Claude Codeのルーティンを利用した開発フローの自動化",
+            "image": "https://cdn.image.st-hatena.com/image/scale/b73eae6533bd43cf115cb2a6ee25fd09fb60971e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20261005%2F20261005102405.png",
+            "date_modified": "2026-10-05T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ラクス"
+            }
+        },
+        {
+            "id": "https://tech-blog.tabelog.com/entry/harness-engineering-tabelog-app-iosdc-2026",
+            "url": "https://tech-blog.tabelog.com/entry/harness-engineering-tabelog-app-iosdc-2026",
+            "title": "食べログアプリ開発で実践したハーネスエンジニアリング",
+            "image": "https://cdn.image.st-hatena.com/image/scale/5e748d2f90e1739de296e433ec69a5cfb4eb8355/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftabelog_tech_blog%2F20261001%2F20261001183002.png",
+            "date_modified": "2026-10-04T15:00:00.000Z",
+            "author": {
+                "name": "株式会社カカクコム"
+            }
+        },
+        {
+            "id": "https://tech.timee.co.jp/entry/2026/10/05/000000",
+            "url": "https://tech.timee.co.jp/entry/2026/10/05/000000",
+            "title": "Renovate 設定の改善",
+            "date_modified": "2026-10-04T15:00:00.000Z",
+            "author": {
+                "name": "株式会社タイミー"
+            }
+        },
+        {
+            "id": "https://tech-blog.abeja.asia/entry/llm-dev-nemotron-nano-sft-202609",
+            "url": "https://tech-blog.abeja.asia/entry/llm-dev-nemotron-nano-sft-202609",
+            "title": "NVIDIA Nemotron 3 Nano 30B A3B Base に対する汎用・金融特化SFT",
+            "image": "https://cdn.image.st-hatena.com/image/scale/08d06b711ea7ec4d835eaba273030bf300824cda/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflatton%2F20260911%2F20260911224014.png",
+            "date_modified": "2026-09-29T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ABEJA"
+            }
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/otariidae/hatena-blog-dev-trending-feed</id>
+    <title>はてなブログ企業技術ブログTrending</title>
+    <updated>2026-10-10T10:17:44.367Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/otariidae/hatena-blog-dev-trending-feed"/>
+    <subtitle>はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード</subtitle>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェアサプライチェーン攻撃演習から学ぶ、インシデント対応に必要な5つの視点]]></title>
+        <id>https://tech.layerx.co.jp/entry/2026/10/09/162114</id>
+        <link href="https://tech.layerx.co.jp/entry/2026/10/09/162114"/>
+        <updated>2026-10-09T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社LayerX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由]]></title>
+        <id>https://buildersbox.corp-sansan.com/entry/2026/10/09/130000</id>
+        <link href="https://buildersbox.corp-sansan.com/entry/2026/10/09/130000"/>
+        <updated>2026-10-08T15:00:00.000Z</updated>
+        <author>
+            <name>Sansan株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RailsプロダクトにおけるDDD試験導入のリアル — なぜ本格採用を見送り、ActiveRecord中心の設計を選択したのか]]></title>
+        <id>https://tech.stmn.co.jp/entry/2026/10/09/121328</id>
+        <link href="https://tech.stmn.co.jp/entry/2026/10/09/121328"/>
+        <updated>2026-10-08T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社スタメン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歴史から紐解く、開発から9年が経過したサーバーレスサービスの「変化への追従」]]></title>
+        <id>https://techblog.zozo.com/entry/fbz-history</id>
+        <link href="https://techblog.zozo.com/entry/fbz-history"/>
+        <updated>2026-10-08T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ZOZO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RubyGems/Bundler 4.1 で追加される override と prune の紹介]]></title>
+        <id>https://tech.andpad.co.jp/entry/2026/10/09/100000</id>
+        <link href="https://tech.andpad.co.jp/entry/2026/10/09/100000"/>
+        <updated>2026-10-08T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社アンドパッド</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ファインディの開発文化 - 小さな積み重ねと、それを支える仕組み]]></title>
+        <id>https://tech.findy.co.jp/entry/2026/10/09/070000</id>
+        <link href="https://tech.findy.co.jp/entry/2026/10/09/070000"/>
+        <updated>2026-10-08T15:00:00.000Z</updated>
+        <author>
+            <name>ファインディ株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini at Work 2026で発表されたGeminiエージェント速報]]></title>
+        <id>https://blog.g-gen.co.jp/entry/gemini-at-work-new-gemini-announcement</id>
+        <link href="https://blog.g-gen.co.jp/entry/gemini-at-work-new-gemini-announcement"/>
+        <updated>2026-10-08T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社 G-gen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tensorlake ソフトウェアサプライチェーン攻撃の概要と対策指針]]></title>
+        <id>https://blog.flatt.tech/entry/tensorlake_compromise</id>
+        <link href="https://blog.flatt.tech/entry/tensorlake_compromise"/>
+        <updated>2026-10-07T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社Flatt Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APIセキュリティ、どこから見直す？ OWASPとNISTを使った点検の始め方]]></title>
+        <id>https://rheb.hatenablog.com/entry/2026/10/07/235338</id>
+        <link href="https://rheb.hatenablog.com/entry/2026/10/07/235338"/>
+        <updated>2026-10-07T15:00:00.000Z</updated>
+        <author>
+            <name>レッドハット株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【DBAのリアル】オンプレからクラウドへの大規模リプレース！AIと一緒に挑むAWS Aurora移行プロジェクト始動]]></title>
+        <id>https://developers.gnavi.co.jp/entry/db-cloud-migration/</id>
+        <link href="https://developers.gnavi.co.jp/entry/db-cloud-migration/"/>
+        <updated>2026-10-05T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ぐるなび</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[git worktree大増殖で困っていた]]></title>
+        <id>https://www.m3tech.blog/entry/git-worktree-gc</id>
+        <link href="https://www.m3tech.blog/entry/git-worktree-gc"/>
+        <updated>2026-10-05T15:00:00.000Z</updated>
+        <author>
+            <name>エムスリー株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イネイブリングチームが、半年で自分たちのスコープを変えた話]]></title>
+        <id>https://tech.bm-sms.co.jp/entry/2026/10/06/110000</id>
+        <link href="https://tech.bm-sms.co.jp/entry/2026/10/06/110000"/>
+        <updated>2026-10-05T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社エス・エム・エス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手動テストを渡すだけでE2Eが完成する仕組みを作りました]]></title>
+        <id>https://tech.kickflow.co.jp/entry/2026/10/06/105939</id>
+        <link href="https://tech.kickflow.co.jp/entry/2026/10/06/105939"/>
+        <updated>2026-10-05T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社kickflow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エンジニアの技術力を測る「帯制度」をAIで爆速開発し、1年で450の "段位" を授与した話]]></title>
+        <id>https://tech-blog.monotaro.com/entry/2026/10/06/090000</id>
+        <link href="https://tech-blog.monotaro.com/entry/2026/10/06/090000"/>
+        <updated>2026-10-05T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社MonotaRO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@subql/common ソフトウェアサプライチェーン攻撃の概要と対策指針]]></title>
+        <id>https://blog.flatt.tech/entry/2026/10/06/021103</id>
+        <link href="https://blog.flatt.tech/entry/2026/10/06/021103"/>
+        <updated>2026-10-05T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社Flatt Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM Wikiの組織運用に向けて ── 陳腐化を防ぐ更新の仕組み]]></title>
+        <id>https://tech.layerx.co.jp/entry/enterprise-llm-wiki-ops</id>
+        <link href="https://tech.layerx.co.jp/entry/enterprise-llm-wiki-ops"/>
+        <updated>2026-10-05T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社LayerX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Codeのルーティンを利用した開発フローの自動化]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20261005/claude-code-routines</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20261005/claude-code-routines"/>
+        <updated>2026-10-05T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ラクス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[食べログアプリ開発で実践したハーネスエンジニアリング]]></title>
+        <id>https://tech-blog.tabelog.com/entry/harness-engineering-tabelog-app-iosdc-2026</id>
+        <link href="https://tech-blog.tabelog.com/entry/harness-engineering-tabelog-app-iosdc-2026"/>
+        <updated>2026-10-04T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社カカクコム</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Renovate 設定の改善]]></title>
+        <id>https://tech.timee.co.jp/entry/2026/10/05/000000</id>
+        <link href="https://tech.timee.co.jp/entry/2026/10/05/000000"/>
+        <updated>2026-10-04T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社タイミー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Nemotron 3 Nano 30B A3B Base に対する汎用・金融特化SFT]]></title>
+        <id>https://tech-blog.abeja.asia/entry/llm-dev-nemotron-nano-sft-202609</id>
+        <link href="https://tech-blog.abeja.asia/entry/llm-dev-nemotron-nano-sft-202609"/>
+        <updated>2026-09-29T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ABEJA</name>
+        </author>
+    </entry>
+</feed>

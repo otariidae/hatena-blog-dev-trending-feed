@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>はてなブログ企業技術ブログTrending</title>
+        <link>https://github.com/otariidae/hatena-blog-dev-trending-feed</link>
+        <description>はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード</description>
+        <lastBuildDate>Sat, 10 Oct 2026 10:17:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ja</language>
+        <item>
+            <title><![CDATA[ソフトウェアサプライチェーン攻撃演習から学ぶ、インシデント対応に必要な5つの視点]]></title>
+            <link>https://tech.layerx.co.jp/entry/2026/10/09/162114</link>
+            <guid>https://tech.layerx.co.jp/entry/2026/10/09/162114</guid>
+            <pubDate>Fri, 09 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/3e563db3792f0a60f90e275fa570a4c64a198e4b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmas358%2F20261009%2F20261009165746.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由]]></title>
+            <link>https://buildersbox.corp-sansan.com/entry/2026/10/09/130000</link>
+            <guid>https://buildersbox.corp-sansan.com/entry/2026/10/09/130000</guid>
+            <pubDate>Thu, 08 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/1432696e34d02d12e78f2cab1df89e38997dd026/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsansantech%2F20261008%2F20261008125008.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RailsプロダクトにおけるDDD試験導入のリアル — なぜ本格採用を見送り、ActiveRecord中心の設計を選択したのか]]></title>
+            <link>https://tech.stmn.co.jp/entry/2026/10/09/121328</link>
+            <guid>https://tech.stmn.co.jp/entry/2026/10/09/121328</guid>
+            <pubDate>Thu, 08 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/0131b7a4e14390ced1be09df1c35cb5ba3e123ff/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F156014893%2F1721095942368448" length="0" type="image/com%2Fdefault_entry_og_image%2F156014893%2F1721095942368448"/>
+        </item>
+        <item>
+            <title><![CDATA[歴史から紐解く、開発から9年が経過したサーバーレスサービスの「変化への追従」]]></title>
+            <link>https://techblog.zozo.com/entry/fbz-history</link>
+            <guid>https://techblog.zozo.com/entry/fbz-history</guid>
+            <pubDate>Thu, 08 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/f0a831969fd21200802bb5fa6f88b963421d74ee/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260930%2F20260930170926.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[RubyGems/Bundler 4.1 で追加される override と prune の紹介]]></title>
+            <link>https://tech.andpad.co.jp/entry/2026/10/09/100000</link>
+            <guid>https://tech.andpad.co.jp/entry/2026/10/09/100000</guid>
+            <pubDate>Thu, 08 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/43d18187c806741ab7d209a61932073c4ad9f2b3/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsezemi%2F20261008%2F20261008185347.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ファインディの開発文化 - 小さな積み重ねと、それを支える仕組み]]></title>
+            <link>https://tech.findy.co.jp/entry/2026/10/09/070000</link>
+            <guid>https://tech.findy.co.jp/entry/2026/10/09/070000</guid>
+            <pubDate>Thu, 08 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/9829c7f373a39b7776ea7c3b1c3d80c18136f672/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstarfish719%2F20261008%2F20261008114435.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gemini at Work 2026で発表されたGeminiエージェント速報]]></title>
+            <link>https://blog.g-gen.co.jp/entry/gemini-at-work-new-gemini-announcement</link>
+            <guid>https://blog.g-gen.co.jp/entry/gemini-at-work-new-gemini-announcement</guid>
+            <pubDate>Thu, 08 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/448dfd0bbc10549c2e5fb95c15585d13169bdf87/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20261009%2F20261009033013.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[tensorlake ソフトウェアサプライチェーン攻撃の概要と対策指針]]></title>
+            <link>https://blog.flatt.tech/entry/tensorlake_compromise</link>
+            <guid>https://blog.flatt.tech/entry/tensorlake_compromise</guid>
+            <pubDate>Wed, 07 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/629b1ee237a4441cc72bebe903f03b3fe02024d2/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflattsecurity%2F20261008%2F20261008123612.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[APIセキュリティ、どこから見直す？ OWASPとNISTを使った点検の始め方]]></title>
+            <link>https://rheb.hatenablog.com/entry/2026/10/07/235338</link>
+            <guid>https://rheb.hatenablog.com/entry/2026/10/07/235338</guid>
+            <pubDate>Wed, 07 Oct 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【DBAのリアル】オンプレからクラウドへの大規模リプレース！AIと一緒に挑むAWS Aurora移行プロジェクト始動]]></title>
+            <link>https://developers.gnavi.co.jp/entry/db-cloud-migration/</link>
+            <guid>https://developers.gnavi.co.jp/entry/db-cloud-migration/</guid>
+            <pubDate>Mon, 05 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/488618b6b289d750c3bf251e3f3146f47c6d44e5/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgnavi_developers%2F20261005%2F20261005170117.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[git worktree大増殖で困っていた]]></title>
+            <link>https://www.m3tech.blog/entry/git-worktree-gc</link>
+            <guid>https://www.m3tech.blog/entry/git-worktree-gc</guid>
+            <pubDate>Mon, 05 Oct 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[イネイブリングチームが、半年で自分たちのスコープを変えた話]]></title>
+            <link>https://tech.bm-sms.co.jp/entry/2026/10/06/110000</link>
+            <guid>https://tech.bm-sms.co.jp/entry/2026/10/06/110000</guid>
+            <pubDate>Mon, 05 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/350e81989d9053b17b53229d0eb111a22d888bf5/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbm-sms%2F20261006%2F20261006110001.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[手動テストを渡すだけでE2Eが完成する仕組みを作りました]]></title>
+            <link>https://tech.kickflow.co.jp/entry/2026/10/06/105939</link>
+            <guid>https://tech.kickflow.co.jp/entry/2026/10/06/105939</guid>
+            <pubDate>Mon, 05 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/62a1fa7689e11ddc4de7743214707d0508bbb046/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkickflow%2F20260929%2F20260929095655.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[エンジニアの技術力を測る「帯制度」をAIで爆速開発し、1年で450の "段位" を授与した話]]></title>
+            <link>https://tech-blog.monotaro.com/entry/2026/10/06/090000</link>
+            <guid>https://tech-blog.monotaro.com/entry/2026/10/06/090000</guid>
+            <pubDate>Mon, 05 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/a7b11a8635d3ccb28057f8ca2fe13168abc862b9/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmonotaro-tech-blog%2F20261005%2F20261005115348.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[@subql/common ソフトウェアサプライチェーン攻撃の概要と対策指針]]></title>
+            <link>https://blog.flatt.tech/entry/2026/10/06/021103</link>
+            <guid>https://blog.flatt.tech/entry/2026/10/06/021103</guid>
+            <pubDate>Mon, 05 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/b1602c52c7b442a4916a9caab204106175e8583c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflattsecurity%2F20261006%2F20261006084954.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LLM Wikiの組織運用に向けて ── 陳腐化を防ぐ更新の仕組み]]></title>
+            <link>https://tech.layerx.co.jp/entry/enterprise-llm-wiki-ops</link>
+            <guid>https://tech.layerx.co.jp/entry/enterprise-llm-wiki-ops</guid>
+            <pubDate>Mon, 05 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/7397468a2ed0cd3d2fdaabed3f8049b23a2d41b7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshibu526%2F20261005%2F20261005235547.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Claude Codeのルーティンを利用した開発フローの自動化]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20261005/claude-code-routines</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20261005/claude-code-routines</guid>
+            <pubDate>Mon, 05 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/b73eae6533bd43cf115cb2a6ee25fd09fb60971e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20261005%2F20261005102405.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[食べログアプリ開発で実践したハーネスエンジニアリング]]></title>
+            <link>https://tech-blog.tabelog.com/entry/harness-engineering-tabelog-app-iosdc-2026</link>
+            <guid>https://tech-blog.tabelog.com/entry/harness-engineering-tabelog-app-iosdc-2026</guid>
+            <pubDate>Sun, 04 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/5e748d2f90e1739de296e433ec69a5cfb4eb8355/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftabelog_tech_blog%2F20261001%2F20261001183002.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Renovate 設定の改善]]></title>
+            <link>https://tech.timee.co.jp/entry/2026/10/05/000000</link>
+            <guid>https://tech.timee.co.jp/entry/2026/10/05/000000</guid>
+            <pubDate>Sun, 04 Oct 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NVIDIA Nemotron 3 Nano 30B A3B Base に対する汎用・金融特化SFT]]></title>
+            <link>https://tech-blog.abeja.asia/entry/llm-dev-nemotron-nano-sft-202609</link>
+            <guid>https://tech-blog.abeja.asia/entry/llm-dev-nemotron-nano-sft-202609</guid>
+            <pubDate>Tue, 29 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/08d06b711ea7ec4d835eaba273030bf300824cda/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflatton%2F20260911%2F20260911224014.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>

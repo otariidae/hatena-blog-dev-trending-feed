@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>はてなブログ企業技術ブログTrending</title>
+        <link>https://github.com/otariidae/hatena-blog-dev-trending-feed</link>
+        <description>はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード</description>
+        <lastBuildDate>Sat, 17 Oct 2026 08:09:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ja</language>
+        <item>
+            <title><![CDATA[システムが正常でも、お客さまの業務は止まっているかもしれない。SmartHRのCREが挑む「顧客の可観測性」]]></title>
+            <link>https://tech.smarthr.jp/entry/2026/10/16/164423</link>
+            <guid>https://tech.smarthr.jp/entry/2026/10/16/164423</guid>
+            <pubDate>Fri, 16 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/a27c1e7da574626ab1734eb01e8503a88536d362/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20261016%2F20261016164427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AIで引ければいい、から始めた運用ナレッジ]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20261016/claude-code</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20261016/claude-code</guid>
+            <pubDate>Fri, 16 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/dc0ca18864669877b2dfcb0d4fc87c0a3b576954/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20261015%2F20261015101554.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ]]></title>
+            <link>https://tech.findy.co.jp/entry/2026/10/16/120000</link>
+            <guid>https://tech.findy.co.jp/entry/2026/10/16/120000</guid>
+            <pubDate>Thu, 15 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/c30201447a7fe28243273a21186d302868f47852/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstarfish719%2F20261016%2F20261016105545.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[開発・検証環境のPR承認と負荷試験をAIに任せる ── SRE待ちを減らす線引きとハーネス]]></title>
+            <link>https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation</link>
+            <guid>https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation</guid>
+            <pubDate>Thu, 15 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/40a39ac2a5eb3a937f9d1095aa658838c176f031/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20261013%2F20261013191951.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[速くて安いAI「Jev」でQAを自動化してみた]]></title>
+            <link>https://tech.every.tv/entry/2026/10/15/125805</link>
+            <guid>https://tech.every.tv/entry/2026/10/15/125805</guid>
+            <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/19b1433c8ee8208b2fe8e3471296805ced1eecae/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmathatomo57_every%2F20261014%2F20261014134345.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MySQL の Functional Index で状態に応じた一意制約をかける]]></title>
+            <link>https://blog.smartbank.co.jp/entry/mysql-functional-index</link>
+            <guid>https://blog.smartbank.co.jp/entry/mysql-functional-index</guid>
+            <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/95af1bb3e4f1830032240757aa387367aa7f5f78/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmartbank%2F20261014%2F20261014154601.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Go 1.26.6へのバージョンアップでnet/httpのバグを踏んで稀に502エラーを発生させた原因をちゃんと理解する]]></title>
+            <link>https://buildersbox.corp-sansan.com/entry/2026/10/15/101500</link>
+            <guid>https://buildersbox.corp-sansan.com/entry/2026/10/15/101500</guid>
+            <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[アンドパッドは Kaigi on Rails 2026 に Drinks スポンサーとして「Rails Fresh Juice」を提供し、 Rails Talk ができるブースを出展します]]></title>
+            <link>https://tech.andpad.co.jp/entry/2026/10/15/100000</link>
+            <guid>https://tech.andpad.co.jp/entry/2026/10/15/100000</guid>
+            <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/0a8220fb7a6c763846f0a215fbef70b67c5cbafb/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsezemi%2F20261014%2F20261014171701.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[今から覚えるSELinux再入門]]></title>
+            <link>https://blog.serverworks.co.jp/2026/10/14/193004</link>
+            <guid>https://blog.serverworks.co.jp/2026/10/14/193004</guid>
+            <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Claudeが実装したE2Eテストをレビューするツールを自作してみた]]></title>
+            <link>https://www.m3tech.blog/entry/2026/10/14/133340</link>
+            <guid>https://www.m3tech.blog/entry/2026/10/14/133340</guid>
+            <pubDate>Tue, 13 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/521f5d5c2f45b1c63cfc1f8121202dbc1d9e25f9/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20261014%2F20261014133424.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[iOSDC Japan 2026 参加レポート]]></title>
+            <link>https://tech.stmn.co.jp/entry/2026/10/14/111353</link>
+            <guid>https://tech.stmn.co.jp/entry/2026/10/14/111353</guid>
+            <pubDate>Tue, 13 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/9a4544160de82284fa591d39434bcd6b5fece86a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Friataso%2F20261009%2F20261009155817.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[サイボウズのログ基盤 2026年版 ― Apache Iceberg × Trino によるアーキテクチャ刷新]]></title>
+            <link>https://blog.cybozu.io/entry/2026/10/14/090000</link>
+            <guid>https://blog.cybozu.io/entry/2026/10/14/090000</guid>
+            <pubDate>Tue, 13 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/266cb894d3563050e060404039969b7fa07c2f2c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcybozuinsideout%2F20261014%2F20261014090008.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由]]></title>
+            <link>https://buildersbox.corp-sansan.com/entry/2026/10/09/130000</link>
+            <guid>https://buildersbox.corp-sansan.com/entry/2026/10/09/130000</guid>
+            <pubDate>Thu, 08 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/1432696e34d02d12e78f2cab1df89e38997dd026/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsansantech%2F20261008%2F20261008125008.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[歴史から紐解く、開発から9年が経過したサーバーレスサービスの「変化への追従」]]></title>
+            <link>https://techblog.zozo.com/entry/fbz-history</link>
+            <guid>https://techblog.zozo.com/entry/fbz-history</guid>
+            <pubDate>Thu, 08 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/f0a831969fd21200802bb5fa6f88b963421d74ee/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260930%2F20260930170926.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Azure Logic Appsの会話エージェントを使ってみた]]></title>
+            <link>https://blog.jbs.co.jp/entry/2026/10/09/103554</link>
+            <guid>https://blog.jbs.co.jp/entry/2026/10/09/103554</guid>
+            <pubDate>Thu, 08 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/d53b2cd64b6aa9771d74712d447be2ca1cb2c54b/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158660714%2F1667527455467771" length="0" type="image/com%2Fdefault_entry_og_image%2F158660714%2F1667527455467771"/>
+        </item>
+        <item>
+            <title><![CDATA[LLM Wikiの組織運用に向けて ── 陳腐化を防ぐ更新の仕組み]]></title>
+            <link>https://tech.layerx.co.jp/entry/enterprise-llm-wiki-ops</link>
+            <guid>https://tech.layerx.co.jp/entry/enterprise-llm-wiki-ops</guid>
+            <pubDate>Mon, 05 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/7397468a2ed0cd3d2fdaabed3f8049b23a2d41b7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshibu526%2F20261005%2F20261005235547.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Claude Codeのルーティンを利用した開発フローの自動化]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20261005/claude-code-routines</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20261005/claude-code-routines</guid>
+            <pubDate>Mon, 05 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/b73eae6533bd43cf115cb2a6ee25fd09fb60971e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20261005%2F20261005102405.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[食べログアプリ開発で実践したハーネスエンジニアリング]]></title>
+            <link>https://tech-blog.tabelog.com/entry/harness-engineering-tabelog-app-iosdc-2026</link>
+            <guid>https://tech-blog.tabelog.com/entry/harness-engineering-tabelog-app-iosdc-2026</guid>
+            <pubDate>Sun, 04 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/5e748d2f90e1739de296e433ec69a5cfb4eb8355/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftabelog_tech_blog%2F20261001%2F20261001183002.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Renovate 設定の改善]]></title>
+            <link>https://tech.timee.co.jp/entry/2026/10/05/000000</link>
+            <guid>https://tech.timee.co.jp/entry/2026/10/05/000000</guid>
+            <pubDate>Sun, 04 Oct 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[はてなのポッドキャスト Backyard Hatena #57 - Whyはてなパークス！ その実態に迫る（id:chris4403） #byhatena]]></title>
+            <link>https://developer.hatenastaff.com/entry/2026/09/30/183000</link>
+            <guid>https://developer.hatenastaff.com/entry/2026/09/30/183000</guid>
+            <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/5bc0b2b18c202f89b15dcdf3335fc99d967fa14c/height=144;version=1;width=224/https%3A%2F%2Fcdn.blog.st-hatena.com%2Ffiles%2F12704346814673975483%2F4207112889896980759" length="0" type="image/com%2Ffiles%2F12704346814673975483%2F4207112889896980759"/>
+        </item>
+    </channel>
+</rss>

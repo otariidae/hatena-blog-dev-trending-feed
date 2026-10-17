@@ -1,0 +1,205 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "はてなブログ企業技術ブログTrending",
+    "home_page_url": "https://github.com/otariidae/hatena-blog-dev-trending-feed",
+    "description": "はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード",
+    "items": [
+        {
+            "id": "https://tech.smarthr.jp/entry/2026/10/16/164423",
+            "url": "https://tech.smarthr.jp/entry/2026/10/16/164423",
+            "title": "システムが正常でも、お客さまの業務は止まっているかもしれない。SmartHRのCREが挑む「顧客の可観測性」",
+            "image": "https://cdn.image.st-hatena.com/image/scale/a27c1e7da574626ab1734eb01e8503a88536d362/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20261016%2F20261016164427.png",
+            "date_modified": "2026-10-16T15:00:00.000Z",
+            "author": {
+                "name": "株式会社SmartHR"
+            }
+        },
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/20261016/claude-code",
+            "url": "https://tech-blog.rakus.co.jp/entry/20261016/claude-code",
+            "title": "AIで引ければいい、から始めた運用ナレッジ",
+            "image": "https://cdn.image.st-hatena.com/image/scale/dc0ca18864669877b2dfcb0d4fc87c0a3b576954/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20261015%2F20261015101554.png",
+            "date_modified": "2026-10-16T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ラクス"
+            }
+        },
+        {
+            "id": "https://tech.findy.co.jp/entry/2026/10/16/120000",
+            "url": "https://tech.findy.co.jp/entry/2026/10/16/120000",
+            "title": "施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ",
+            "image": "https://cdn.image.st-hatena.com/image/scale/c30201447a7fe28243273a21186d302868f47852/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstarfish719%2F20261016%2F20261016105545.png",
+            "date_modified": "2026-10-15T15:00:00.000Z",
+            "author": {
+                "name": "ファインディ株式会社"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation",
+            "url": "https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation",
+            "title": "開発・検証環境のPR承認と負荷試験をAIに任せる ── SRE待ちを減らす線引きとハーネス",
+            "image": "https://cdn.image.st-hatena.com/image/scale/40a39ac2a5eb3a937f9d1095aa658838c176f031/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20261013%2F20261013191951.png",
+            "date_modified": "2026-10-15T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ZOZO"
+            }
+        },
+        {
+            "id": "https://tech.every.tv/entry/2026/10/15/125805",
+            "url": "https://tech.every.tv/entry/2026/10/15/125805",
+            "title": "速くて安いAI「Jev」でQAを自動化してみた",
+            "image": "https://cdn.image.st-hatena.com/image/scale/19b1433c8ee8208b2fe8e3471296805ced1eecae/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmathatomo57_every%2F20261014%2F20261014134345.jpg",
+            "date_modified": "2026-10-14T15:00:00.000Z",
+            "author": {
+                "name": "株式会社エブリー"
+            }
+        },
+        {
+            "id": "https://blog.smartbank.co.jp/entry/mysql-functional-index",
+            "url": "https://blog.smartbank.co.jp/entry/mysql-functional-index",
+            "title": "MySQL の Functional Index で状態に応じた一意制約をかける",
+            "image": "https://cdn.image.st-hatena.com/image/scale/95af1bb3e4f1830032240757aa387367aa7f5f78/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmartbank%2F20261014%2F20261014154601.png",
+            "date_modified": "2026-10-14T15:00:00.000Z",
+            "author": {
+                "name": "株式会社スマートバンク"
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/10/15/101500",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/10/15/101500",
+            "title": "Go 1.26.6へのバージョンアップでnet/httpのバグを踏んで稀に502エラーを発生させた原因をちゃんと理解する",
+            "date_modified": "2026-10-14T15:00:00.000Z",
+            "author": {
+                "name": "Sansan株式会社"
+            }
+        },
+        {
+            "id": "https://tech.andpad.co.jp/entry/2026/10/15/100000",
+            "url": "https://tech.andpad.co.jp/entry/2026/10/15/100000",
+            "title": "アンドパッドは Kaigi on Rails 2026 に Drinks スポンサーとして「Rails Fresh Juice」を提供し、 Rails Talk ができるブースを出展します",
+            "image": "https://cdn.image.st-hatena.com/image/scale/0a8220fb7a6c763846f0a215fbef70b67c5cbafb/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsezemi%2F20261014%2F20261014171701.png",
+            "date_modified": "2026-10-14T15:00:00.000Z",
+            "author": {
+                "name": "株式会社アンドパッド"
+            }
+        },
+        {
+            "id": "https://blog.serverworks.co.jp/2026/10/14/193004",
+            "url": "https://blog.serverworks.co.jp/2026/10/14/193004",
+            "title": "今から覚えるSELinux再入門",
+            "date_modified": "2026-10-14T15:00:00.000Z",
+            "author": {
+                "name": "株式会社サーバーワークス"
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/2026/10/14/133340",
+            "url": "https://www.m3tech.blog/entry/2026/10/14/133340",
+            "title": "Claudeが実装したE2Eテストをレビューするツールを自作してみた",
+            "image": "https://cdn.image.st-hatena.com/image/scale/521f5d5c2f45b1c63cfc1f8121202dbc1d9e25f9/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20261014%2F20261014133424.jpg",
+            "date_modified": "2026-10-13T15:00:00.000Z",
+            "author": {
+                "name": "エムスリー株式会社"
+            }
+        },
+        {
+            "id": "https://tech.stmn.co.jp/entry/2026/10/14/111353",
+            "url": "https://tech.stmn.co.jp/entry/2026/10/14/111353",
+            "title": "iOSDC Japan 2026 参加レポート",
+            "image": "https://cdn.image.st-hatena.com/image/scale/9a4544160de82284fa591d39434bcd6b5fece86a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Friataso%2F20261009%2F20261009155817.jpg",
+            "date_modified": "2026-10-13T15:00:00.000Z",
+            "author": {
+                "name": "株式会社スタメン"
+            }
+        },
+        {
+            "id": "https://blog.cybozu.io/entry/2026/10/14/090000",
+            "url": "https://blog.cybozu.io/entry/2026/10/14/090000",
+            "title": "サイボウズのログ基盤 2026年版 ― Apache Iceberg × Trino によるアーキテクチャ刷新",
+            "image": "https://cdn.image.st-hatena.com/image/scale/266cb894d3563050e060404039969b7fa07c2f2c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcybozuinsideout%2F20261014%2F20261014090008.png",
+            "date_modified": "2026-10-13T15:00:00.000Z",
+            "author": {
+                "name": "サイボウズ株式会社"
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/10/09/130000",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/10/09/130000",
+            "title": "AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由",
+            "image": "https://cdn.image.st-hatena.com/image/scale/1432696e34d02d12e78f2cab1df89e38997dd026/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsansantech%2F20261008%2F20261008125008.jpg",
+            "date_modified": "2026-10-08T15:00:00.000Z",
+            "author": {
+                "name": "Sansan株式会社"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/fbz-history",
+            "url": "https://techblog.zozo.com/entry/fbz-history",
+            "title": "歴史から紐解く、開発から9年が経過したサーバーレスサービスの「変化への追従」",
+            "image": "https://cdn.image.st-hatena.com/image/scale/f0a831969fd21200802bb5fa6f88b963421d74ee/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260930%2F20260930170926.png",
+            "date_modified": "2026-10-08T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ZOZO"
+            }
+        },
+        {
+            "id": "https://blog.jbs.co.jp/entry/2026/10/09/103554",
+            "url": "https://blog.jbs.co.jp/entry/2026/10/09/103554",
+            "title": "Azure Logic Appsの会話エージェントを使ってみた",
+            "image": "https://cdn.image.st-hatena.com/image/scale/d53b2cd64b6aa9771d74712d447be2ca1cb2c54b/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158660714%2F1667527455467771",
+            "date_modified": "2026-10-08T15:00:00.000Z",
+            "author": {
+                "name": "日本ビジネスシステムズ株式会社"
+            }
+        },
+        {
+            "id": "https://tech.layerx.co.jp/entry/enterprise-llm-wiki-ops",
+            "url": "https://tech.layerx.co.jp/entry/enterprise-llm-wiki-ops",
+            "title": "LLM Wikiの組織運用に向けて ── 陳腐化を防ぐ更新の仕組み",
+            "image": "https://cdn.image.st-hatena.com/image/scale/7397468a2ed0cd3d2fdaabed3f8049b23a2d41b7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshibu526%2F20261005%2F20261005235547.png",
+            "date_modified": "2026-10-05T15:00:00.000Z",
+            "author": {
+                "name": "株式会社LayerX"
+            }
+        },
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/20261005/claude-code-routines",
+            "url": "https://tech-blog.rakus.co.jp/entry/20261005/claude-code-routines",
+            "title": "Claude Codeのルーティンを利用した開発フローの自動化",
+            "image": "https://cdn.image.st-hatena.com/image/scale/b73eae6533bd43cf115cb2a6ee25fd09fb60971e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20261005%2F20261005102405.png",
+            "date_modified": "2026-10-05T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ラクス"
+            }
+        },
+        {
+            "id": "https://tech-blog.tabelog.com/entry/harness-engineering-tabelog-app-iosdc-2026",
+            "url": "https://tech-blog.tabelog.com/entry/harness-engineering-tabelog-app-iosdc-2026",
+            "title": "食べログアプリ開発で実践したハーネスエンジニアリング",
+            "image": "https://cdn.image.st-hatena.com/image/scale/5e748d2f90e1739de296e433ec69a5cfb4eb8355/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftabelog_tech_blog%2F20261001%2F20261001183002.png",
+            "date_modified": "2026-10-04T15:00:00.000Z",
+            "author": {
+                "name": "株式会社カカクコム"
+            }
+        },
+        {
+            "id": "https://tech.timee.co.jp/entry/2026/10/05/000000",
+            "url": "https://tech.timee.co.jp/entry/2026/10/05/000000",
+            "title": "Renovate 設定の改善",
+            "date_modified": "2026-10-04T15:00:00.000Z",
+            "author": {
+                "name": "株式会社タイミー"
+            }
+        },
+        {
+            "id": "https://developer.hatenastaff.com/entry/2026/09/30/183000",
+            "url": "https://developer.hatenastaff.com/entry/2026/09/30/183000",
+            "title": "はてなのポッドキャスト Backyard Hatena #57 - Whyはてなパークス！ その実態に迫る（id:chris4403） #byhatena",
+            "image": "https://cdn.image.st-hatena.com/image/scale/5bc0b2b18c202f89b15dcdf3335fc99d967fa14c/height=144;version=1;width=224/https%3A%2F%2Fcdn.blog.st-hatena.com%2Ffiles%2F12704346814673975483%2F4207112889896980759",
+            "date_modified": "2026-09-30T15:00:00.000Z",
+            "author": {
+                "name": "株式会社はてな"
+            }
+        }
+    ]
+}

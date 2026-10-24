@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>はてなブログ企業技術ブログTrending</title>
+        <link>https://github.com/otariidae/hatena-blog-dev-trending-feed</link>
+        <description>はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード</description>
+        <lastBuildDate>Sat, 24 Oct 2026 08:31:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ja</language>
+        <item>
+            <title><![CDATA[PHP2Shellへの対応を振り返って]]></title>
+            <link>https://tech.codmon.com/entry/2026/10/23/173909</link>
+            <guid>https://tech.codmon.com/entry/2026/10/23/173909</guid>
+            <pubDate>Fri, 23 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/c0b65f6345b737d7e2ea0500302b78c1d9078beb/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjsoizo%2F20261023%2F20261023173429.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ZOZOTOWNフロントエンドのPR自動レビュー ── AIへの指示が守られない前提で、強制と指示を分ける設計]]></title>
+            <link>https://techblog.zozo.com/entry/zozotown-frontend-ai-review</link>
+            <guid>https://techblog.zozo.com/entry/zozotown-frontend-ai-review</guid>
+            <pubDate>Thu, 22 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/e6d73cfcade912ba1e7a6d4e9c79cea5da4a0a8d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20261021%2F20261021142357.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Web Application Proxyファームの構成確認とサーバー削除方法]]></title>
+            <link>https://blog.jbs.co.jp/entry/2026/10/23/101141</link>
+            <guid>https://blog.jbs.co.jp/entry/2026/10/23/101141</guid>
+            <pubDate>Thu, 22 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/c9b00a0c9560abe2b2a96deabdf748ec899cc8cc/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_moyamada%2F20260827%2F20260827165137.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Platform Engineering Kaigi 2026で「Argo CDとAtlantisで実現するインフラ管理のセルフサービス化」というタイトルで発表しました！]]></title>
+            <link>https://tech.andpad.co.jp/entry/2026/10/23/100000</link>
+            <guid>https://tech.andpad.co.jp/entry/2026/10/23/100000</guid>
+            <pubDate>Thu, 22 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/e65670f574157c05b265f8ff600c4d954f9f4662/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Foct88%2F20261022%2F20261022162724.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Matt Pocockのsoftware-factoryスキルで、AIへの任せ方を考えてみます]]></title>
+            <link>https://tech.algomatic.jp/entry/2026/10/22/235515</link>
+            <guid>https://tech.algomatic.jp/entry/2026/10/22/235515</guid>
+            <pubDate>Thu, 22 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/765288801f689fb15b3d3824271e1389071cc5b4/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgotadano%2F20261022%2F20261022234523.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[PHP 8.5.12の緊急リリースにpixivはどう対応したか]]></title>
+            <link>https://inside.pixiv.blog/2026/10/22/193321</link>
+            <guid>https://inside.pixiv.blog/2026/10/22/193321</guid>
+            <pubDate>Thu, 22 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/ea7d3da1fcb0035a8b8d18d309d673f10384f88c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fpxvpxv%2F20261022%2F20261022182502.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[【php2shell】なぜ「memory_limit」のバグに10年以上も誰も気づけなかったのか？PHP特大脆弱性の仕組みを分かりやすく解説]]></title>
+            <link>https://blog.serverworks.co.jp/php2shell-memory-limit-vulnerability</link>
+            <guid>https://blog.serverworks.co.jp/php2shell-memory-limit-vulnerability</guid>
+            <pubDate>Wed, 21 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/6bbf9c328e0000ef7da201ebb8bf4a81399a9186/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155681015%2F1782273580258620" length="0" type="image/com%2Fdefault_entry_og_image%2F155681015%2F1782273580258620"/>
+        </item>
+        <item>
+            <title><![CDATA[内製 Background Coding Agent “haro” で拓く未来の開発体験]]></title>
+            <link>https://tech.layerx.co.jp/entry/why-we-built-our-background-agent</link>
+            <guid>https://tech.layerx.co.jp/entry/why-we-built-our-background-agent</guid>
+            <pubDate>Wed, 21 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/505252a3a07d31fae2ab6c04e684ecd985ef67ed/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fizumin5210%2F20261021%2F20261021215346.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LiteLLMパッケージ 再侵害の概要と対策指針]]></title>
+            <link>https://blog.flatt.tech/entry/litellm_2nd_compromise</link>
+            <guid>https://blog.flatt.tech/entry/litellm_2nd_compromise</guid>
+            <pubDate>Wed, 21 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/21030708343c4f2212e3bdf4377c758d36003840/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflattsecurity%2F20261021%2F20261021212237.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[人はIssueとPRで判断するだけ — 自律AIループで回す開発プロセスの設計]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20261021/autonomous-ai</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20261021/autonomous-ai</guid>
+            <pubDate>Wed, 21 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/9fb132bb60b098255c3974548e7eca5f23f747bb/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20261016%2F20261016141207.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針]]></title>
+            <link>https://blog.flatt.tech/entry/php2shell</link>
+            <guid>https://blog.flatt.tech/entry/php2shell</guid>
+            <pubDate>Tue, 20 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/02721ff1d15b9b776af81351bdce36a09fb099a8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflattsecurity%2F20261021%2F20261021111143.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI が書き、レビューし、QA する開発で、私は「監督」の役割を考え始めた]]></title>
+            <link>https://tech.layerx.co.jp/entry/engineer-as-director</link>
+            <guid>https://tech.layerx.co.jp/entry/engineer-as-director</guid>
+            <pubDate>Tue, 20 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/3156bf5e3395f05974078674b66f3ca647329582/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkhanake%2F20261020%2F20261020102243.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[社内最大のRailsアプリのテスト高速化に挑戦した半年]]></title>
+            <link>https://blog.smartbank.co.jp/entry/2026/10/20/190000</link>
+            <guid>https://blog.smartbank.co.jp/entry/2026/10/20/190000</guid>
+            <pubDate>Tue, 20 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/56db59fb34214d575c84d492a814b0bf48e90050/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmartbank%2F20261020%2F20261020210609.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[実装より先に仕様を検査する SDD の実践]]></title>
+            <link>https://tech.newmo.me/entry/2026/10/20/120000</link>
+            <guid>https://tech.newmo.me/entry/2026/10/20/120000</guid>
+            <pubDate>Mon, 19 Oct 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[仕事を進めるだけでは、仕事しか進まない。木こりのジレンマを Claude Code で解いた5ヶ月の記録]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20261019/weekly-reflection</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20261019/weekly-reflection</guid>
+            <pubDate>Mon, 19 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/f367be84f7838757273e3e85a7ce39ac522d815d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20261015%2F20261015151035.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ]]></title>
+            <link>https://tech.findy.co.jp/entry/2026/10/16/120000</link>
+            <guid>https://tech.findy.co.jp/entry/2026/10/16/120000</guid>
+            <pubDate>Thu, 15 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/c30201447a7fe28243273a21186d302868f47852/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstarfish719%2F20261016%2F20261016105545.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[速くて安いAI「Jev」でQAを自動化してみた]]></title>
+            <link>https://tech.every.tv/entry/2026/10/15/125805</link>
+            <guid>https://tech.every.tv/entry/2026/10/15/125805</guid>
+            <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/19b1433c8ee8208b2fe8e3471296805ced1eecae/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmathatomo57_every%2F20261014%2F20261014134345.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20261002/k8s</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20261002/k8s</guid>
+            <pubDate>Fri, 02 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/56b7c23e172d37d7e18f03f2bbd0e8ac38d2e257/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgumamon%2F20261001%2F20261001145748.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[「AI生成コードがダメすぎる」それは既存実装のせい。Voicyのバックエンド・リアーキテクトのすべて]]></title>
+            <link>https://tech-blog.voicy.jp/entry/2026/09/30/231259</link>
+            <guid>https://tech-blog.voicy.jp/entry/2026/09/30/231259</guid>
+            <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IAM Identity CenterのSSOは、サインインの裏で何が起きているのか]]></title>
+            <link>https://tech.nri-net.com/entry/what_happens_behind_the_scenes_during_signin</link>
+            <guid>https://tech.nri-net.com/entry/what_happens_behind_the_scenes_during_signin</guid>
+            <pubDate>Wed, 23 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/062937b6871c74148d6832447f8d12aacf496d0c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fs4-yamada%2F20260914%2F20260914131811.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>

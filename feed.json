@@ -1,0 +1,206 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "はてなブログ企業技術ブログTrending",
+    "home_page_url": "https://github.com/otariidae/hatena-blog-dev-trending-feed",
+    "description": "はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード",
+    "items": [
+        {
+            "id": "https://tech.codmon.com/entry/2026/10/23/173909",
+            "url": "https://tech.codmon.com/entry/2026/10/23/173909",
+            "title": "PHP2Shellへの対応を振り返って",
+            "image": "https://cdn.image.st-hatena.com/image/scale/c0b65f6345b737d7e2ea0500302b78c1d9078beb/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjsoizo%2F20261023%2F20261023173429.png",
+            "date_modified": "2026-10-23T15:00:00.000Z",
+            "author": {
+                "name": "株式会社コドモン"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/zozotown-frontend-ai-review",
+            "url": "https://techblog.zozo.com/entry/zozotown-frontend-ai-review",
+            "title": "ZOZOTOWNフロントエンドのPR自動レビュー ── AIへの指示が守られない前提で、強制と指示を分ける設計",
+            "image": "https://cdn.image.st-hatena.com/image/scale/e6d73cfcade912ba1e7a6d4e9c79cea5da4a0a8d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20261021%2F20261021142357.png",
+            "date_modified": "2026-10-22T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ZOZO"
+            }
+        },
+        {
+            "id": "https://blog.jbs.co.jp/entry/2026/10/23/101141",
+            "url": "https://blog.jbs.co.jp/entry/2026/10/23/101141",
+            "title": "Web Application Proxyファームの構成確認とサーバー削除方法",
+            "image": "https://cdn.image.st-hatena.com/image/scale/c9b00a0c9560abe2b2a96deabdf748ec899cc8cc/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_moyamada%2F20260827%2F20260827165137.png",
+            "date_modified": "2026-10-22T15:00:00.000Z",
+            "author": {
+                "name": "日本ビジネスシステムズ株式会社"
+            }
+        },
+        {
+            "id": "https://tech.andpad.co.jp/entry/2026/10/23/100000",
+            "url": "https://tech.andpad.co.jp/entry/2026/10/23/100000",
+            "title": "Platform Engineering Kaigi 2026で「Argo CDとAtlantisで実現するインフラ管理のセルフサービス化」というタイトルで発表しました！",
+            "image": "https://cdn.image.st-hatena.com/image/scale/e65670f574157c05b265f8ff600c4d954f9f4662/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Foct88%2F20261022%2F20261022162724.png",
+            "date_modified": "2026-10-22T15:00:00.000Z",
+            "author": {
+                "name": "株式会社アンドパッド"
+            }
+        },
+        {
+            "id": "https://tech.algomatic.jp/entry/2026/10/22/235515",
+            "url": "https://tech.algomatic.jp/entry/2026/10/22/235515",
+            "title": "Matt Pocockのsoftware-factoryスキルで、AIへの任せ方を考えてみます",
+            "image": "https://cdn.image.st-hatena.com/image/scale/765288801f689fb15b3d3824271e1389071cc5b4/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgotadano%2F20261022%2F20261022234523.png",
+            "date_modified": "2026-10-22T15:00:00.000Z",
+            "author": {
+                "name": "株式会社Algomatic"
+            }
+        },
+        {
+            "id": "https://inside.pixiv.blog/2026/10/22/193321",
+            "url": "https://inside.pixiv.blog/2026/10/22/193321",
+            "title": "PHP 8.5.12の緊急リリースにpixivはどう対応したか",
+            "image": "https://cdn.image.st-hatena.com/image/scale/ea7d3da1fcb0035a8b8d18d309d673f10384f88c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fpxvpxv%2F20261022%2F20261022182502.png",
+            "date_modified": "2026-10-22T15:00:00.000Z",
+            "author": {
+                "name": "ピクシブ株式会社"
+            }
+        },
+        {
+            "id": "https://blog.serverworks.co.jp/php2shell-memory-limit-vulnerability",
+            "url": "https://blog.serverworks.co.jp/php2shell-memory-limit-vulnerability",
+            "title": "【php2shell】なぜ「memory_limit」のバグに10年以上も誰も気づけなかったのか？PHP特大脆弱性の仕組みを分かりやすく解説",
+            "image": "https://cdn.image.st-hatena.com/image/scale/6bbf9c328e0000ef7da201ebb8bf4a81399a9186/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155681015%2F1782273580258620",
+            "date_modified": "2026-10-21T15:00:00.000Z",
+            "author": {
+                "name": "株式会社サーバーワークス"
+            }
+        },
+        {
+            "id": "https://tech.layerx.co.jp/entry/why-we-built-our-background-agent",
+            "url": "https://tech.layerx.co.jp/entry/why-we-built-our-background-agent",
+            "title": "内製 Background Coding Agent “haro” で拓く未来の開発体験",
+            "image": "https://cdn.image.st-hatena.com/image/scale/505252a3a07d31fae2ab6c04e684ecd985ef67ed/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fizumin5210%2F20261021%2F20261021215346.png",
+            "date_modified": "2026-10-21T15:00:00.000Z",
+            "author": {
+                "name": "株式会社LayerX"
+            }
+        },
+        {
+            "id": "https://blog.flatt.tech/entry/litellm_2nd_compromise",
+            "url": "https://blog.flatt.tech/entry/litellm_2nd_compromise",
+            "title": "LiteLLMパッケージ 再侵害の概要と対策指針",
+            "image": "https://cdn.image.st-hatena.com/image/scale/21030708343c4f2212e3bdf4377c758d36003840/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflattsecurity%2F20261021%2F20261021212237.png",
+            "date_modified": "2026-10-21T15:00:00.000Z",
+            "author": {
+                "name": "株式会社Flatt Security"
+            }
+        },
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/20261021/autonomous-ai",
+            "url": "https://tech-blog.rakus.co.jp/entry/20261021/autonomous-ai",
+            "title": "人はIssueとPRで判断するだけ — 自律AIループで回す開発プロセスの設計",
+            "image": "https://cdn.image.st-hatena.com/image/scale/9fb132bb60b098255c3974548e7eca5f23f747bb/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20261016%2F20261016141207.png",
+            "date_modified": "2026-10-21T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ラクス"
+            }
+        },
+        {
+            "id": "https://blog.flatt.tech/entry/php2shell",
+            "url": "https://blog.flatt.tech/entry/php2shell",
+            "title": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針",
+            "image": "https://cdn.image.st-hatena.com/image/scale/02721ff1d15b9b776af81351bdce36a09fb099a8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflattsecurity%2F20261021%2F20261021111143.png",
+            "date_modified": "2026-10-20T15:00:00.000Z",
+            "author": {
+                "name": "株式会社Flatt Security"
+            }
+        },
+        {
+            "id": "https://tech.layerx.co.jp/entry/engineer-as-director",
+            "url": "https://tech.layerx.co.jp/entry/engineer-as-director",
+            "title": "AI が書き、レビューし、QA する開発で、私は「監督」の役割を考え始めた",
+            "image": "https://cdn.image.st-hatena.com/image/scale/3156bf5e3395f05974078674b66f3ca647329582/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkhanake%2F20261020%2F20261020102243.png",
+            "date_modified": "2026-10-20T15:00:00.000Z",
+            "author": {
+                "name": "株式会社LayerX"
+            }
+        },
+        {
+            "id": "https://blog.smartbank.co.jp/entry/2026/10/20/190000",
+            "url": "https://blog.smartbank.co.jp/entry/2026/10/20/190000",
+            "title": "社内最大のRailsアプリのテスト高速化に挑戦した半年",
+            "image": "https://cdn.image.st-hatena.com/image/scale/56db59fb34214d575c84d492a814b0bf48e90050/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmartbank%2F20261020%2F20261020210609.png",
+            "date_modified": "2026-10-20T15:00:00.000Z",
+            "author": {
+                "name": "株式会社スマートバンク"
+            }
+        },
+        {
+            "id": "https://tech.newmo.me/entry/2026/10/20/120000",
+            "url": "https://tech.newmo.me/entry/2026/10/20/120000",
+            "title": "実装より先に仕様を検査する SDD の実践",
+            "date_modified": "2026-10-19T15:00:00.000Z",
+            "author": {
+                "name": "newmo株式会社"
+            }
+        },
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/20261019/weekly-reflection",
+            "url": "https://tech-blog.rakus.co.jp/entry/20261019/weekly-reflection",
+            "title": "仕事を進めるだけでは、仕事しか進まない。木こりのジレンマを Claude Code で解いた5ヶ月の記録",
+            "image": "https://cdn.image.st-hatena.com/image/scale/f367be84f7838757273e3e85a7ce39ac522d815d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20261015%2F20261015151035.png",
+            "date_modified": "2026-10-19T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ラクス"
+            }
+        },
+        {
+            "id": "https://tech.findy.co.jp/entry/2026/10/16/120000",
+            "url": "https://tech.findy.co.jp/entry/2026/10/16/120000",
+            "title": "施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ",
+            "image": "https://cdn.image.st-hatena.com/image/scale/c30201447a7fe28243273a21186d302868f47852/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstarfish719%2F20261016%2F20261016105545.png",
+            "date_modified": "2026-10-15T15:00:00.000Z",
+            "author": {
+                "name": "ファインディ株式会社"
+            }
+        },
+        {
+            "id": "https://tech.every.tv/entry/2026/10/15/125805",
+            "url": "https://tech.every.tv/entry/2026/10/15/125805",
+            "title": "速くて安いAI「Jev」でQAを自動化してみた",
+            "image": "https://cdn.image.st-hatena.com/image/scale/19b1433c8ee8208b2fe8e3471296805ced1eecae/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmathatomo57_every%2F20261014%2F20261014134345.jpg",
+            "date_modified": "2026-10-14T15:00:00.000Z",
+            "author": {
+                "name": "株式会社エブリー"
+            }
+        },
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/20261002/k8s",
+            "url": "https://tech-blog.rakus.co.jp/entry/20261002/k8s",
+            "title": "Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜",
+            "image": "https://cdn.image.st-hatena.com/image/scale/56b7c23e172d37d7e18f03f2bbd0e8ac38d2e257/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgumamon%2F20261001%2F20261001145748.png",
+            "date_modified": "2026-10-02T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ラクス"
+            }
+        },
+        {
+            "id": "https://tech-blog.voicy.jp/entry/2026/09/30/231259",
+            "url": "https://tech-blog.voicy.jp/entry/2026/09/30/231259",
+            "title": "「AI生成コードがダメすぎる」それは既存実装のせい。Voicyのバックエンド・リアーキテクトのすべて",
+            "date_modified": "2026-09-30T15:00:00.000Z",
+            "author": {
+                "name": "株式会社Voicy"
+            }
+        },
+        {
+            "id": "https://tech.nri-net.com/entry/what_happens_behind_the_scenes_during_signin",
+            "url": "https://tech.nri-net.com/entry/what_happens_behind_the_scenes_during_signin",
+            "title": "IAM Identity CenterのSSOは、サインインの裏で何が起きているのか",
+            "image": "https://cdn.image.st-hatena.com/image/scale/062937b6871c74148d6832447f8d12aacf496d0c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fs4-yamada%2F20260914%2F20260914131811.png",
+            "date_modified": "2026-09-23T15:00:00.000Z",
+            "author": {
+                "name": "NRIネットコム株式会社"
+            }
+        }
+    ]
+}

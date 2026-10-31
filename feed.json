@@ -1,0 +1,203 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "はてなブログ企業技術ブログTrending",
+    "home_page_url": "https://github.com/otariidae/hatena-blog-dev-trending-feed",
+    "description": "はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード",
+    "items": [
+        {
+            "id": "https://tech.kickflow.co.jp/entry/heroku-to-google-cloud",
+            "url": "https://tech.kickflow.co.jp/entry/heroku-to-google-cloud",
+            "title": "HerokuからGoogle Cloudへ移行しました",
+            "image": "https://cdn.image.st-hatena.com/image/scale/9e032082069ebf40514d10c2a33120569dc2d04a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkickflow%2F20261029%2F20261029173545.png",
+            "date_modified": "2026-10-30T15:00:00.000Z",
+            "author": {
+                "name": "株式会社kickflow"
+            }
+        },
+        {
+            "id": "https://techblog.tebiki.co.jp/yapc-tokyo-2026-tebiki-job-board",
+            "url": "https://techblog.tebiki.co.jp/yapc-tokyo-2026-tebiki-job-board",
+            "title": "Tebikiのジョブボード制作裏側",
+            "image": "https://cdn.image.st-hatena.com/image/scale/0dadf6a094725f53c7e2c5e459e14d378431c81a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyutaro_tech%2F20261022%2F20261022145814.jpg",
+            "date_modified": "2026-10-30T15:00:00.000Z",
+            "author": {
+                "name": "Tebiki株式会社"
+            }
+        },
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/20261030/errorlog",
+            "url": "https://tech-blog.rakus.co.jp/entry/20261030/errorlog",
+            "title": "ERROR ログ1行から障害の一次対応を下準備する Claude Code スキルを作った",
+            "image": "https://cdn.image.st-hatena.com/image/scale/ae5db5f27dbcfdef5272ecf4ce6a8c7073190651/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20261030%2F20261030154023.png",
+            "date_modified": "2026-10-30T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ラクス"
+            }
+        },
+        {
+            "id": "https://tech.layerx.co.jp/entry/ai-slide-challenge",
+            "url": "https://tech.layerx.co.jp/entry/ai-slide-challenge",
+            "title": "「見た目はいいけど、伝わらない」AIスライドを改善する試行錯誤",
+            "image": "https://cdn.image.st-hatena.com/image/scale/b78d457bda7fddf52c1d71c1271c008ca4668468/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkonken-layerx%2F20261029%2F20261029183528.png",
+            "date_modified": "2026-10-29T15:00:00.000Z",
+            "author": {
+                "name": "株式会社LayerX"
+            }
+        },
+        {
+            "id": "https://tech.every.tv/entry/2026/10/30/124255",
+            "url": "https://tech.every.tv/entry/2026/10/30/124255",
+            "title": "個人情報を自社のDBに持たない設計は、どこまでできるのか",
+            "image": "https://cdn.image.st-hatena.com/image/scale/0286a8948ceea879d4259379eeeb64fa9898d14b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshintani-y%2F20261029%2F20261029221249.png",
+            "date_modified": "2026-10-29T15:00:00.000Z",
+            "author": {
+                "name": "株式会社エブリー"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/embedding-quality-monitoring",
+            "url": "https://techblog.zozo.com/entry/embedding-quality-monitoring",
+            "title": "複数サービスに配信するembeddingの品質監視 ── 配信データ・ベクトル空間・推薦スコアの3観点",
+            "image": "https://cdn.image.st-hatena.com/image/scale/6de01b9e347b333e27de11b287822002b5d61993/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20261020%2F20261020124621.png",
+            "date_modified": "2026-10-29T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ZOZO"
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/10/30/110000",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/10/30/110000",
+            "title": "Contract Oneの全文検索を評価する基盤を作成した（インターン成果報告）",
+            "date_modified": "2026-10-29T15:00:00.000Z",
+            "author": {
+                "name": "Sansan株式会社"
+            }
+        },
+        {
+            "id": "https://tech.findy.co.jp/entry/2026/10/30/070000",
+            "url": "https://tech.findy.co.jp/entry/2026/10/30/070000",
+            "title": "デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと",
+            "image": "https://cdn.image.st-hatena.com/image/scale/fb0cf3457d82283c2d9cefd5078b018c401c94f4/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshoota-dev%2F20261028%2F20261028085018.png",
+            "date_modified": "2026-10-29T15:00:00.000Z",
+            "author": {
+                "name": "ファインディ株式会社"
+            }
+        },
+        {
+            "id": "https://developers.techouse.com/entry/KaigiOnRails-2026-day2-refining-active-record",
+            "url": "https://developers.techouse.com/entry/KaigiOnRails-2026-day2-refining-active-record",
+            "title": "Kaigi on Rails 2026 - Refining Active Record（Day2）",
+            "image": "https://cdn.image.st-hatena.com/image/scale/a1d3eafe48e6215da8793a5a3a40cc4a6e375bd4/height=144;version=1;width=224/https%3A%2F%2Fres.cloudinary.com%2Fdyjw65doo%2Fimage%2Fupload%2Fv1792564462%2FKaigiOnRails-2026-day2-refining-active-record%2Fogp.png",
+            "date_modified": "2026-10-28T15:00:00.000Z",
+            "author": {
+                "name": "株式会社Techouse"
+            }
+        },
+        {
+            "id": "https://developers.techouse.com/entry/KaigiOnRails-2026-sylph01-day1",
+            "url": "https://developers.techouse.com/entry/KaigiOnRails-2026-sylph01-day1",
+            "title": "Kaigi on Rails 2026 - 「永続トークン」の話を、RFC を読んで掘り下げてみた",
+            "image": "https://cdn.image.st-hatena.com/image/scale/fc9e53f62a9a01ea227e6f994866ebb25b46ce36/height=144;version=1;width=224/https%3A%2F%2Fres.cloudinary.com%2Fdyjw65doo%2Fimage%2Fupload%2Fv1793057552%2FKaigiOnRails-2026-sylph01-day1%2Fogp.png",
+            "date_modified": "2026-10-28T15:00:00.000Z",
+            "author": {
+                "name": "株式会社Techouse"
+            }
+        },
+        {
+            "id": "https://techblog.tebiki.co.jp/2026/10/29/121612",
+            "url": "https://techblog.tebiki.co.jp/2026/10/29/121612",
+            "title": "YAPC::Tokyo 2026を44倍楽しむ方法",
+            "date_modified": "2026-10-28T15:00:00.000Z",
+            "author": {
+                "name": "Tebiki株式会社"
+            }
+        },
+        {
+            "id": "https://tech.mntsq.co.jp/entry/2026/10/29/090000",
+            "url": "https://tech.mntsq.co.jp/entry/2026/10/29/090000",
+            "title": "スキーマ分離型マルチテナントの DB 接続数増加を RDS Proxy で抑制できるか？",
+            "image": "https://cdn.image.st-hatena.com/image/scale/fada4328ecbdd045295d52c438ea95f7f818fa03/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkterashi2026%2F20261022%2F20261022203952.png",
+            "date_modified": "2026-10-28T15:00:00.000Z",
+            "author": {
+                "name": "MNTSQ株式会社"
+            }
+        },
+        {
+            "id": "https://developer.hatenastaff.com/entry/2026/10/29/090000",
+            "url": "https://developer.hatenastaff.com/entry/2026/10/29/090000",
+            "title": "バリューストリームを激流にする",
+            "image": "https://cdn.image.st-hatena.com/image/scale/d3c63536e3af19c0dbfc01e9abf4975dcefa333f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhatenatech%2F20261029%2F20261029090010.png",
+            "date_modified": "2026-10-28T15:00:00.000Z",
+            "author": {
+                "name": "株式会社はてな"
+            }
+        },
+        {
+            "id": "https://engineers.ntt.com/entry/202610-steganoC2/entry",
+            "url": "https://engineers.ntt.com/entry/202610-steganoC2/entry",
+            "title": "LLMで日常会話に攻撃者の指示を紛れ込ませることはできるのか？（DEF CON 34登壇記）",
+            "date_modified": "2026-10-26T15:00:00.000Z",
+            "author": {
+                "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社"
+            }
+        },
+        {
+            "id": "https://tech.newmo.me/entry/2026/10/27/100000",
+            "url": "https://tech.newmo.me/entry/2026/10/27/100000",
+            "title": "プルリクエストのリスクを判定する仕組み",
+            "image": "https://cdn.image.st-hatena.com/image/scale/318862dafe2edff3a164e807884d4717bc8f407b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnewmo%2F20261025%2F20261025185846.png",
+            "date_modified": "2026-10-26T15:00:00.000Z",
+            "author": {
+                "name": "newmo株式会社"
+            }
+        },
+        {
+            "id": "https://blog.serverworks.co.jp/guardduty-ai-protection",
+            "url": "https://blog.serverworks.co.jp/guardduty-ai-protection",
+            "title": "Amazon GuardDuty AI Protection の有効化を強くおすすめしています",
+            "image": "https://cdn.image.st-hatena.com/image/scale/f5aa6bb8080eeca8b8cb774f4bd4d6b882a695cd/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-satake%2F20261026%2F20261026184520.png",
+            "date_modified": "2026-10-26T15:00:00.000Z",
+            "author": {
+                "name": "株式会社サーバーワークス"
+            }
+        },
+        {
+            "id": "https://tech.classi.jp/entry/2026/10/26/163000",
+            "url": "https://tech.classi.jp/entry/2026/10/26/163000",
+            "title": "pixiv社の爆速PHPアップデートを参考に、社内で Docker Official Image のビルドシステムを作った話",
+            "date_modified": "2026-10-26T15:00:00.000Z",
+            "author": {
+                "name": "Benesse Corporation"
+            }
+        },
+        {
+            "id": "https://inside.pixiv.blog/2026/10/22/193321",
+            "url": "https://inside.pixiv.blog/2026/10/22/193321",
+            "title": "PHP 8.5.12の緊急リリースにpixivはどう対応したか",
+            "image": "https://cdn.image.st-hatena.com/image/scale/ea7d3da1fcb0035a8b8d18d309d673f10384f88c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fpxvpxv%2F20261022%2F20261022182502.png",
+            "date_modified": "2026-10-22T15:00:00.000Z",
+            "author": {
+                "name": "ピクシブ株式会社"
+            }
+        },
+        {
+            "id": "https://blog.flatt.tech/entry/php2shell",
+            "url": "https://blog.flatt.tech/entry/php2shell",
+            "title": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針",
+            "image": "https://cdn.image.st-hatena.com/image/scale/02721ff1d15b9b776af81351bdce36a09fb099a8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflattsecurity%2F20261021%2F20261021111143.png",
+            "date_modified": "2026-10-20T15:00:00.000Z",
+            "author": {
+                "name": "株式会社Flatt Security"
+            }
+        },
+        {
+            "id": "https://techblog.demae-can.co.jp/entry/20261014/1791945936",
+            "url": "https://techblog.demae-can.co.jp/entry/20261014/1791945936",
+            "title": "Slack × Notionでつくるセキュリティ相談エージェント ― 判断をAIに丸投げしない設計と運用",
+            "date_modified": "2026-10-13T15:00:00.000Z",
+            "author": {
+                "name": "株式会社出前館"
+            }
+        }
+    ]
+}

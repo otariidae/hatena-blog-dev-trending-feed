@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>はてなブログ企業技術ブログTrending</title>
+        <link>https://github.com/otariidae/hatena-blog-dev-trending-feed</link>
+        <description>はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード</description>
+        <lastBuildDate>Sat, 31 Oct 2026 10:03:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ja</language>
+        <item>
+            <title><![CDATA[HerokuからGoogle Cloudへ移行しました]]></title>
+            <link>https://tech.kickflow.co.jp/entry/heroku-to-google-cloud</link>
+            <guid>https://tech.kickflow.co.jp/entry/heroku-to-google-cloud</guid>
+            <pubDate>Fri, 30 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/9e032082069ebf40514d10c2a33120569dc2d04a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkickflow%2F20261029%2F20261029173545.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Tebikiのジョブボード制作裏側]]></title>
+            <link>https://techblog.tebiki.co.jp/yapc-tokyo-2026-tebiki-job-board</link>
+            <guid>https://techblog.tebiki.co.jp/yapc-tokyo-2026-tebiki-job-board</guid>
+            <pubDate>Fri, 30 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/0dadf6a094725f53c7e2c5e459e14d378431c81a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyutaro_tech%2F20261022%2F20261022145814.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ERROR ログ1行から障害の一次対応を下準備する Claude Code スキルを作った]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20261030/errorlog</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20261030/errorlog</guid>
+            <pubDate>Fri, 30 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/ae5db5f27dbcfdef5272ecf4ce6a8c7073190651/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20261030%2F20261030154023.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[「見た目はいいけど、伝わらない」AIスライドを改善する試行錯誤]]></title>
+            <link>https://tech.layerx.co.jp/entry/ai-slide-challenge</link>
+            <guid>https://tech.layerx.co.jp/entry/ai-slide-challenge</guid>
+            <pubDate>Thu, 29 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/b78d457bda7fddf52c1d71c1271c008ca4668468/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkonken-layerx%2F20261029%2F20261029183528.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[個人情報を自社のDBに持たない設計は、どこまでできるのか]]></title>
+            <link>https://tech.every.tv/entry/2026/10/30/124255</link>
+            <guid>https://tech.every.tv/entry/2026/10/30/124255</guid>
+            <pubDate>Thu, 29 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/0286a8948ceea879d4259379eeeb64fa9898d14b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshintani-y%2F20261029%2F20261029221249.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[複数サービスに配信するembeddingの品質監視 ── 配信データ・ベクトル空間・推薦スコアの3観点]]></title>
+            <link>https://techblog.zozo.com/entry/embedding-quality-monitoring</link>
+            <guid>https://techblog.zozo.com/entry/embedding-quality-monitoring</guid>
+            <pubDate>Thu, 29 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/6de01b9e347b333e27de11b287822002b5d61993/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20261020%2F20261020124621.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Contract Oneの全文検索を評価する基盤を作成した（インターン成果報告）]]></title>
+            <link>https://buildersbox.corp-sansan.com/entry/2026/10/30/110000</link>
+            <guid>https://buildersbox.corp-sansan.com/entry/2026/10/30/110000</guid>
+            <pubDate>Thu, 29 Oct 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと]]></title>
+            <link>https://tech.findy.co.jp/entry/2026/10/30/070000</link>
+            <guid>https://tech.findy.co.jp/entry/2026/10/30/070000</guid>
+            <pubDate>Thu, 29 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/fb0cf3457d82283c2d9cefd5078b018c401c94f4/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshoota-dev%2F20261028%2F20261028085018.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Kaigi on Rails 2026 - Refining Active Record（Day2）]]></title>
+            <link>https://developers.techouse.com/entry/KaigiOnRails-2026-day2-refining-active-record</link>
+            <guid>https://developers.techouse.com/entry/KaigiOnRails-2026-day2-refining-active-record</guid>
+            <pubDate>Wed, 28 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/a1d3eafe48e6215da8793a5a3a40cc4a6e375bd4/height=144;version=1;width=224/https%3A%2F%2Fres.cloudinary.com%2Fdyjw65doo%2Fimage%2Fupload%2Fv1792564462%2FKaigiOnRails-2026-day2-refining-active-record%2Fogp.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Kaigi on Rails 2026 - 「永続トークン」の話を、RFC を読んで掘り下げてみた]]></title>
+            <link>https://developers.techouse.com/entry/KaigiOnRails-2026-sylph01-day1</link>
+            <guid>https://developers.techouse.com/entry/KaigiOnRails-2026-sylph01-day1</guid>
+            <pubDate>Wed, 28 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/fc9e53f62a9a01ea227e6f994866ebb25b46ce36/height=144;version=1;width=224/https%3A%2F%2Fres.cloudinary.com%2Fdyjw65doo%2Fimage%2Fupload%2Fv1793057552%2FKaigiOnRails-2026-sylph01-day1%2Fogp.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[YAPC::Tokyo 2026を44倍楽しむ方法]]></title>
+            <link>https://techblog.tebiki.co.jp/2026/10/29/121612</link>
+            <guid>https://techblog.tebiki.co.jp/2026/10/29/121612</guid>
+            <pubDate>Wed, 28 Oct 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[スキーマ分離型マルチテナントの DB 接続数増加を RDS Proxy で抑制できるか？]]></title>
+            <link>https://tech.mntsq.co.jp/entry/2026/10/29/090000</link>
+            <guid>https://tech.mntsq.co.jp/entry/2026/10/29/090000</guid>
+            <pubDate>Wed, 28 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/fada4328ecbdd045295d52c438ea95f7f818fa03/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkterashi2026%2F20261022%2F20261022203952.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[バリューストリームを激流にする]]></title>
+            <link>https://developer.hatenastaff.com/entry/2026/10/29/090000</link>
+            <guid>https://developer.hatenastaff.com/entry/2026/10/29/090000</guid>
+            <pubDate>Wed, 28 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/d3c63536e3af19c0dbfc01e9abf4975dcefa333f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhatenatech%2F20261029%2F20261029090010.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LLMで日常会話に攻撃者の指示を紛れ込ませることはできるのか？（DEF CON 34登壇記）]]></title>
+            <link>https://engineers.ntt.com/entry/202610-steganoC2/entry</link>
+            <guid>https://engineers.ntt.com/entry/202610-steganoC2/entry</guid>
+            <pubDate>Mon, 26 Oct 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[プルリクエストのリスクを判定する仕組み]]></title>
+            <link>https://tech.newmo.me/entry/2026/10/27/100000</link>
+            <guid>https://tech.newmo.me/entry/2026/10/27/100000</guid>
+            <pubDate>Mon, 26 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/318862dafe2edff3a164e807884d4717bc8f407b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnewmo%2F20261025%2F20261025185846.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Amazon GuardDuty AI Protection の有効化を強くおすすめしています]]></title>
+            <link>https://blog.serverworks.co.jp/guardduty-ai-protection</link>
+            <guid>https://blog.serverworks.co.jp/guardduty-ai-protection</guid>
+            <pubDate>Mon, 26 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/f5aa6bb8080eeca8b8cb774f4bd4d6b882a695cd/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-satake%2F20261026%2F20261026184520.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[pixiv社の爆速PHPアップデートを参考に、社内で Docker Official Image のビルドシステムを作った話]]></title>
+            <link>https://tech.classi.jp/entry/2026/10/26/163000</link>
+            <guid>https://tech.classi.jp/entry/2026/10/26/163000</guid>
+            <pubDate>Mon, 26 Oct 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PHP 8.5.12の緊急リリースにpixivはどう対応したか]]></title>
+            <link>https://inside.pixiv.blog/2026/10/22/193321</link>
+            <guid>https://inside.pixiv.blog/2026/10/22/193321</guid>
+            <pubDate>Thu, 22 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/ea7d3da1fcb0035a8b8d18d309d673f10384f88c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fpxvpxv%2F20261022%2F20261022182502.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針]]></title>
+            <link>https://blog.flatt.tech/entry/php2shell</link>
+            <guid>https://blog.flatt.tech/entry/php2shell</guid>
+            <pubDate>Tue, 20 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/02721ff1d15b9b776af81351bdce36a09fb099a8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflattsecurity%2F20261021%2F20261021111143.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Slack × Notionでつくるセキュリティ相談エージェント ― 判断をAIに丸投げしない設計と運用]]></title>
+            <link>https://techblog.demae-can.co.jp/entry/20261014/1791945936</link>
+            <guid>https://techblog.demae-can.co.jp/entry/20261014/1791945936</guid>
+            <pubDate>Tue, 13 Oct 2026 15:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

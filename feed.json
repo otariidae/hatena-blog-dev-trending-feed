@@ -1,0 +1,207 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "はてなブログ企業技術ブログTrending",
+    "home_page_url": "https://github.com/otariidae/hatena-blog-dev-trending-feed",
+    "description": "はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード",
+    "items": [
+        {
+            "id": "https://tech.kickflow.co.jp/entry/2026/11/06/141052",
+            "url": "https://tech.kickflow.co.jp/entry/2026/11/06/141052",
+            "title": "fine-grained PAT が使えない GitHub Packages に gh auth token と pnpm tokenHelper で向き合う",
+            "image": "https://cdn.image.st-hatena.com/image/scale/08431b6eaa1925c8e77f79c5b1ce55b38e09d0b0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkickflow%2F20261104%2F20261104203412.png",
+            "date_modified": "2026-11-05T15:00:00.000Z",
+            "author": {
+                "name": "株式会社kickflow"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/detect-figma-ui-diff-with-ai",
+            "url": "https://techblog.zozo.com/entry/detect-figma-ui-diff-with-ai",
+            "title": "Figmaを正解にアプリのUIを点検する、Claude Codeで作るUI差分検知",
+            "image": "https://cdn.image.st-hatena.com/image/scale/8b55dbc305a957550753e5916085ba499274cdf8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20261102%2F20261102162112.png",
+            "date_modified": "2026-11-05T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ZOZO"
+            }
+        },
+        {
+            "id": "https://blog.serverworks.co.jp/claude/ccao-f-exam",
+            "url": "https://blog.serverworks.co.jp/claude/ccao-f-exam",
+            "title": "CCAO-F は全 Claude 利用者が取得すべき AI 時代に必要な試験でした",
+            "image": "https://cdn.image.st-hatena.com/image/scale/b885c38ccb6100bcb25aec80cf0825aa00ac1ff1/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-satake%2F20261105%2F20261105123904.png",
+            "date_modified": "2026-11-05T15:00:00.000Z",
+            "author": {
+                "name": "株式会社サーバーワークス"
+            }
+        },
+        {
+            "id": "https://tech.kickflow.co.jp/entry/2026/11/05/160133",
+            "url": "https://tech.kickflow.co.jp/entry/2026/11/05/160133",
+            "title": "初めての技術カンファレンス！Kaigi on Rails 2026にブース担当として参加してきました",
+            "image": "https://cdn.image.st-hatena.com/image/scale/2d1743e85ebe237e9cc0855e8c19b2397d3f0f73/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkickflow%2F20261105%2F20261105163013.png",
+            "date_modified": "2026-11-05T15:00:00.000Z",
+            "author": {
+                "name": "株式会社kickflow"
+            }
+        },
+        {
+            "id": "https://tech.kickflow.co.jp/entry/2026/11/05/160106",
+            "url": "https://tech.kickflow.co.jp/entry/2026/11/05/160106",
+            "title": "DHHに会いに行って、初心者に戻ることにした",
+            "image": "https://cdn.image.st-hatena.com/image/scale/576e3d7b1b2ed3b637c583a35f7af57ee4ecc886/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkickflow%2F20261028%2F20261028161950.png",
+            "date_modified": "2026-11-05T15:00:00.000Z",
+            "author": {
+                "name": "株式会社kickflow"
+            }
+        },
+        {
+            "id": "https://tech.timee.co.jp/entry/2026/11/05/101407",
+            "url": "https://tech.timee.co.jp/entry/2026/11/05/101407",
+            "title": "運用しながら改善する LLM-as-a-Judge の構築",
+            "date_modified": "2026-11-04T15:00:00.000Z",
+            "author": {
+                "name": "株式会社タイミー"
+            }
+        },
+        {
+            "id": "https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails",
+            "url": "https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails",
+            "title": "Leanの定理証明ガードレールで AI エージェントに業務ルールを守らせる",
+            "image": "https://cdn.image.st-hatena.com/image/scale/d0bda204488dc96150ef3a6d4d57338e542c3195/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkyasu2050%2F20261026%2F20261026221051.png",
+            "date_modified": "2026-11-04T15:00:00.000Z",
+            "author": {
+                "name": "freee株式会社"
+            }
+        },
+        {
+            "id": "https://devblog.lac.co.jp/entry/20261105",
+            "url": "https://devblog.lac.co.jp/entry/20261105",
+            "title": "AIペネトレーションテストツール「ARTEX」の仕組みを知る",
+            "image": "https://cdn.image.st-hatena.com/image/scale/3888bfe7b079b63f2ee28e514b9c41e263b9cd83/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Flac_devblog%2F20261104%2F20261104161540.png",
+            "date_modified": "2026-11-04T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ラック"
+            }
+        },
+        {
+            "id": "https://developers.freee.co.jp/entry/lean-formal-verification-tax-law-qa",
+            "url": "https://developers.freee.co.jp/entry/lean-formal-verification-tax-law-qa",
+            "title": "税法を定理証明支援系 Lean で書いて、プロダクト実装を「全入力で」確かめる",
+            "image": "https://cdn.image.st-hatena.com/image/scale/307d6a3e9c07be55eb88b7fe124a6b95f282602c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkyasu2050%2F20261026%2F20261026200318.png",
+            "date_modified": "2026-11-04T15:00:00.000Z",
+            "author": {
+                "name": "freee株式会社"
+            }
+        },
+        {
+            "id": "https://tech.smarthr.jp/entry/2026/11/04/131031",
+            "url": "https://tech.smarthr.jp/entry/2026/11/04/131031",
+            "title": "生成AIで軽くなる見積りとスプリント —— チームの学ぶ機会をどう残すか",
+            "image": "https://cdn.image.st-hatena.com/image/scale/c32d38939f92be9a2fe2106f58c839af0d6cc8f4/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20261104%2F20261104131032.png",
+            "date_modified": "2026-11-03T15:00:00.000Z",
+            "author": {
+                "name": "株式会社SmartHR"
+            }
+        },
+        {
+            "id": "https://tech-blog.tabelog.com/entry/connecting-qa-data-for-ai-driven-test-repair",
+            "url": "https://tech-blog.tabelog.com/entry/connecting-qa-data-for-ai-driven-test-repair",
+            "title": "AIにQAの判断を任せる：AIによるトリアージ精度を2倍にするQAコンテキスト設計",
+            "image": "https://cdn.image.st-hatena.com/image/scale/e5b3bfb550306c6b1413489da9fd624059b917eb/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftabelog_tech_blog%2F20261102%2F20261102171801.jpg",
+            "date_modified": "2026-11-03T15:00:00.000Z",
+            "author": {
+                "name": "株式会社カカクコム"
+            }
+        },
+        {
+            "id": "https://acro-engineer.hatenablog.com/entry/2026/11/04/120000",
+            "url": "https://acro-engineer.hatenablog.com/entry/2026/11/04/120000",
+            "title": "Amazon DynamoDB のベクトル検索機能を検証",
+            "image": "https://cdn.image.st-hatena.com/image/scale/a562258dadda45877d64e2cd01980812b6f599e0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Facro-kisuke%2F20261104%2F20261104082009.png",
+            "date_modified": "2026-11-03T15:00:00.000Z",
+            "author": {
+                "name": "アクロクエストテクノロジー株式会社"
+            }
+        },
+        {
+            "id": "https://tech.andpad.co.jp/entry/2026/11/04/100000",
+            "url": "https://tech.andpad.co.jp/entry/2026/11/04/100000",
+            "title": "アンドパッドSREが抱える課題をPlatform Engineering Kaigi 2026の参加者にぶつけてみた結果",
+            "image": "https://cdn.image.st-hatena.com/image/scale/423d4e9646e1c4bfa5522fad068167a1d25ebe2c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Foct88%2F20261030%2F20261030115154.png",
+            "date_modified": "2026-11-03T15:00:00.000Z",
+            "author": {
+                "name": "株式会社アンドパッド"
+            }
+        },
+        {
+            "id": "https://devblog.lac.co.jp/entry/20261104",
+            "url": "https://devblog.lac.co.jp/entry/20261104",
+            "title": "AI時代に求められるペネトレーションテスト",
+            "image": "https://cdn.image.st-hatena.com/image/scale/9caa88557686b6adc567c9735fa2f68144884277/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Flac_devblog%2F20261030%2F20261030164255.png",
+            "date_modified": "2026-11-03T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ラック"
+            }
+        },
+        {
+            "id": "https://tech.findy.co.jp/entry/2026/11/04/070000",
+            "url": "https://tech.findy.co.jp/entry/2026/11/04/070000",
+            "title": "権限は「誰に渡すか」ではなく「何をするか」で分ける 〜AWS IAM Identity Centerの許可セットを5種類に揃えた話〜",
+            "image": "https://cdn.image.st-hatena.com/image/scale/4c1fcf96aeda96eb01a8d8ff9bb702818a29af8e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FC%2FCooking_ENG%2F20261030%2F20261030162929.png",
+            "date_modified": "2026-11-03T15:00:00.000Z",
+            "author": {
+                "name": "ファインディ株式会社"
+            }
+        },
+        {
+            "id": "https://tech.smarthr.jp/entry/2026/11/02/144409",
+            "url": "https://tech.smarthr.jp/entry/2026/11/02/144409",
+            "title": "新人チーフが『エンジニアのための自己管理入門』を読んで思ったこと",
+            "image": "https://cdn.image.st-hatena.com/image/scale/9cacf348e8404e89bbfe861d5e086becac209822/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20261102%2F20261102144413.png",
+            "date_modified": "2026-11-01T15:00:00.000Z",
+            "author": {
+                "name": "株式会社SmartHR"
+            }
+        },
+        {
+            "id": "https://tech.kickflow.co.jp/entry/heroku-to-google-cloud",
+            "url": "https://tech.kickflow.co.jp/entry/heroku-to-google-cloud",
+            "title": "HerokuからGoogle Cloudへ移行しました",
+            "image": "https://cdn.image.st-hatena.com/image/scale/9e032082069ebf40514d10c2a33120569dc2d04a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkickflow%2F20261029%2F20261029173545.png",
+            "date_modified": "2026-10-30T15:00:00.000Z",
+            "author": {
+                "name": "株式会社kickflow"
+            }
+        },
+        {
+            "id": "https://tech.layerx.co.jp/entry/ai-slide-challenge",
+            "url": "https://tech.layerx.co.jp/entry/ai-slide-challenge",
+            "title": "「見た目はいいけど、伝わらない」AIスライドを改善する試行錯誤",
+            "image": "https://cdn.image.st-hatena.com/image/scale/b78d457bda7fddf52c1d71c1271c008ca4668468/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkonken-layerx%2F20261029%2F20261029183528.png",
+            "date_modified": "2026-10-29T15:00:00.000Z",
+            "author": {
+                "name": "株式会社LayerX"
+            }
+        },
+        {
+            "id": "https://tech.every.tv/entry/2026/10/30/124255",
+            "url": "https://tech.every.tv/entry/2026/10/30/124255",
+            "title": "個人情報を自社のDBに持たない設計は、どこまでできるのか",
+            "image": "https://cdn.image.st-hatena.com/image/scale/0286a8948ceea879d4259379eeeb64fa9898d14b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshintani-y%2F20261029%2F20261029221249.png",
+            "date_modified": "2026-10-29T15:00:00.000Z",
+            "author": {
+                "name": "株式会社エブリー"
+            }
+        },
+        {
+            "id": "https://tech.newmo.me/entry/2026/10/27/100000",
+            "url": "https://tech.newmo.me/entry/2026/10/27/100000",
+            "title": "プルリクエストのリスクを判定する仕組み",
+            "image": "https://cdn.image.st-hatena.com/image/scale/318862dafe2edff3a164e807884d4717bc8f407b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnewmo%2F20261025%2F20261025185846.png",
+            "date_modified": "2026-10-26T15:00:00.000Z",
+            "author": {
+                "name": "newmo株式会社"
+            }
+        }
+    ]
+}

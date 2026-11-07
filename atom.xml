@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/otariidae/hatena-blog-dev-trending-feed</id>
+    <title>はてなブログ企業技術ブログTrending</title>
+    <updated>2026-11-07T10:48:24.269Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/otariidae/hatena-blog-dev-trending-feed"/>
+    <subtitle>はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード</subtitle>
+    <entry>
+        <title type="html"><![CDATA[fine-grained PAT が使えない GitHub Packages に gh auth token と pnpm tokenHelper で向き合う]]></title>
+        <id>https://tech.kickflow.co.jp/entry/2026/11/06/141052</id>
+        <link href="https://tech.kickflow.co.jp/entry/2026/11/06/141052"/>
+        <updated>2026-11-05T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社kickflow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Figmaを正解にアプリのUIを点検する、Claude Codeで作るUI差分検知]]></title>
+        <id>https://techblog.zozo.com/entry/detect-figma-ui-diff-with-ai</id>
+        <link href="https://techblog.zozo.com/entry/detect-figma-ui-diff-with-ai"/>
+        <updated>2026-11-05T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ZOZO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CCAO-F は全 Claude 利用者が取得すべき AI 時代に必要な試験でした]]></title>
+        <id>https://blog.serverworks.co.jp/claude/ccao-f-exam</id>
+        <link href="https://blog.serverworks.co.jp/claude/ccao-f-exam"/>
+        <updated>2026-11-05T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社サーバーワークス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初めての技術カンファレンス！Kaigi on Rails 2026にブース担当として参加してきました]]></title>
+        <id>https://tech.kickflow.co.jp/entry/2026/11/05/160133</id>
+        <link href="https://tech.kickflow.co.jp/entry/2026/11/05/160133"/>
+        <updated>2026-11-05T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社kickflow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHHに会いに行って、初心者に戻ることにした]]></title>
+        <id>https://tech.kickflow.co.jp/entry/2026/11/05/160106</id>
+        <link href="https://tech.kickflow.co.jp/entry/2026/11/05/160106"/>
+        <updated>2026-11-05T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社kickflow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[運用しながら改善する LLM-as-a-Judge の構築]]></title>
+        <id>https://tech.timee.co.jp/entry/2026/11/05/101407</id>
+        <link href="https://tech.timee.co.jp/entry/2026/11/05/101407"/>
+        <updated>2026-11-04T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社タイミー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leanの定理証明ガードレールで AI エージェントに業務ルールを守らせる]]></title>
+        <id>https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails</id>
+        <link href="https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails"/>
+        <updated>2026-11-04T15:00:00.000Z</updated>
+        <author>
+            <name>freee株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIペネトレーションテストツール「ARTEX」の仕組みを知る]]></title>
+        <id>https://devblog.lac.co.jp/entry/20261105</id>
+        <link href="https://devblog.lac.co.jp/entry/20261105"/>
+        <updated>2026-11-04T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ラック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[税法を定理証明支援系 Lean で書いて、プロダクト実装を「全入力で」確かめる]]></title>
+        <id>https://developers.freee.co.jp/entry/lean-formal-verification-tax-law-qa</id>
+        <link href="https://developers.freee.co.jp/entry/lean-formal-verification-tax-law-qa"/>
+        <updated>2026-11-04T15:00:00.000Z</updated>
+        <author>
+            <name>freee株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AIで軽くなる見積りとスプリント —— チームの学ぶ機会をどう残すか]]></title>
+        <id>https://tech.smarthr.jp/entry/2026/11/04/131031</id>
+        <link href="https://tech.smarthr.jp/entry/2026/11/04/131031"/>
+        <updated>2026-11-03T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社SmartHR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIにQAの判断を任せる：AIによるトリアージ精度を2倍にするQAコンテキスト設計]]></title>
+        <id>https://tech-blog.tabelog.com/entry/connecting-qa-data-for-ai-driven-test-repair</id>
+        <link href="https://tech-blog.tabelog.com/entry/connecting-qa-data-for-ai-driven-test-repair"/>
+        <updated>2026-11-03T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社カカクコム</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon DynamoDB のベクトル検索機能を検証]]></title>
+        <id>https://acro-engineer.hatenablog.com/entry/2026/11/04/120000</id>
+        <link href="https://acro-engineer.hatenablog.com/entry/2026/11/04/120000"/>
+        <updated>2026-11-03T15:00:00.000Z</updated>
+        <author>
+            <name>アクロクエストテクノロジー株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アンドパッドSREが抱える課題をPlatform Engineering Kaigi 2026の参加者にぶつけてみた結果]]></title>
+        <id>https://tech.andpad.co.jp/entry/2026/11/04/100000</id>
+        <link href="https://tech.andpad.co.jp/entry/2026/11/04/100000"/>
+        <updated>2026-11-03T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社アンドパッド</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI時代に求められるペネトレーションテスト]]></title>
+        <id>https://devblog.lac.co.jp/entry/20261104</id>
+        <link href="https://devblog.lac.co.jp/entry/20261104"/>
+        <updated>2026-11-03T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ラック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[権限は「誰に渡すか」ではなく「何をするか」で分ける 〜AWS IAM Identity Centerの許可セットを5種類に揃えた話〜]]></title>
+        <id>https://tech.findy.co.jp/entry/2026/11/04/070000</id>
+        <link href="https://tech.findy.co.jp/entry/2026/11/04/070000"/>
+        <updated>2026-11-03T15:00:00.000Z</updated>
+        <author>
+            <name>ファインディ株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新人チーフが『エンジニアのための自己管理入門』を読んで思ったこと]]></title>
+        <id>https://tech.smarthr.jp/entry/2026/11/02/144409</id>
+        <link href="https://tech.smarthr.jp/entry/2026/11/02/144409"/>
+        <updated>2026-11-01T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社SmartHR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HerokuからGoogle Cloudへ移行しました]]></title>
+        <id>https://tech.kickflow.co.jp/entry/heroku-to-google-cloud</id>
+        <link href="https://tech.kickflow.co.jp/entry/heroku-to-google-cloud"/>
+        <updated>2026-10-30T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社kickflow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「見た目はいいけど、伝わらない」AIスライドを改善する試行錯誤]]></title>
+        <id>https://tech.layerx.co.jp/entry/ai-slide-challenge</id>
+        <link href="https://tech.layerx.co.jp/entry/ai-slide-challenge"/>
+        <updated>2026-10-29T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社LayerX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[個人情報を自社のDBに持たない設計は、どこまでできるのか]]></title>
+        <id>https://tech.every.tv/entry/2026/10/30/124255</id>
+        <link href="https://tech.every.tv/entry/2026/10/30/124255"/>
+        <updated>2026-10-29T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社エブリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プルリクエストのリスクを判定する仕組み]]></title>
+        <id>https://tech.newmo.me/entry/2026/10/27/100000</id>
+        <link href="https://tech.newmo.me/entry/2026/10/27/100000"/>
+        <updated>2026-10-26T15:00:00.000Z</updated>
+        <author>
+            <name>newmo株式会社</name>
+        </author>
+    </entry>
+</feed>

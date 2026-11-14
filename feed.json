@@ -1,0 +1,200 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "はてなブログ企業技術ブログTrending",
+    "home_page_url": "https://github.com/otariidae/hatena-blog-dev-trending-feed",
+    "description": "はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード",
+    "items": [
+        {
+            "id": "https://link-and-motivation.hatenablog.com/entry/2026/11/13/155333",
+            "url": "https://link-and-motivation.hatenablog.com/entry/2026/11/13/155333",
+            "title": "お客様の復旧を最優先に ― インシデント対応で迷わず動くための仕組み",
+            "date_modified": "2026-11-13T15:00:00.000Z",
+            "author": {
+                "name": "株式会社リンクアンドモチベーション"
+            }
+        },
+        {
+            "id": "https://devblog.thebase.in/entry/2026/11/13/090000",
+            "url": "https://devblog.thebase.in/entry/2026/11/13/090000",
+            "title": "OpenSearch Service で動くマルチテナントな商品検索の認証認可設計（後編）",
+            "image": "https://cdn.image.st-hatena.com/image/scale/4a595212d9b99db43b348eb3dcda79a9eaa6b08d/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F153078222%2F1614340287711564",
+            "date_modified": "2026-11-12T15:00:00.000Z",
+            "author": {
+                "name": "BASE株式会社"
+            }
+        },
+        {
+            "id": "https://blog.flatt.tech/entry/github_actions_widespread_supply_chain_attack",
+            "url": "https://blog.flatt.tech/entry/github_actions_widespread_supply_chain_attack",
+            "title": "GitHub Actions を狙った広域サプライチェーン攻撃（11/10~11/12）に関する注意喚起",
+            "image": "https://cdn.image.st-hatena.com/image/scale/0e6c291dfcf0d3d6e01e390a423f2a95b4647085/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflattsecurity%2F20261112%2F20261112214020.png",
+            "date_modified": "2026-11-12T15:00:00.000Z",
+            "author": {
+                "name": "株式会社Flatt Security"
+            }
+        },
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/20261112/characterization-test-review",
+            "url": "https://tech-blog.rakus.co.jp/entry/20261112/characterization-test-review",
+            "title": "AIでテストを量産したら、レビューが重くなった——レガシーコードの安全網づくり",
+            "image": "https://cdn.image.st-hatena.com/image/scale/50a5c5836979c7b2819eb3e3133710ddb30bdb4d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20261110%2F20261110093520.png",
+            "date_modified": "2026-11-12T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ラクス"
+            }
+        },
+        {
+            "id": "https://blog.nnn.dev/entry/2026/11/12/110000",
+            "url": "https://blog.nnn.dev/entry/2026/11/12/110000",
+            "title": "Kotlin コンテキストパラメータの詳細な挙動を調べてみた",
+            "image": "https://cdn.image.st-hatena.com/image/scale/d1fc23b157ab1e62e40768d87a039bd317e48090/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fd%2Fdw_tokada%2F20261109%2F20261109180200.png",
+            "date_modified": "2026-11-11T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ドワンゴ"
+            }
+        },
+        {
+            "id": "https://devblog.thebase.in/entry/2026/11/11/093248",
+            "url": "https://devblog.thebase.in/entry/2026/11/11/093248",
+            "title": "OpenSearch Service で動くマルチテナントな商品検索の認証認可設計（前編）",
+            "image": "https://cdn.image.st-hatena.com/image/scale/64f41022d72b0b2698a1f0ce02b07803535c5503/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbasedevteam%2F20261109%2F20261109184942.png",
+            "date_modified": "2026-11-10T15:00:00.000Z",
+            "author": {
+                "name": "BASE株式会社"
+            }
+        },
+        {
+            "id": "https://engineering.nature.global/entry/2026/11/mcp-architecture-patterns",
+            "url": "https://engineering.nature.global/entry/2026/11/mcp-architecture-patterns",
+            "title": "MCP を組み込んだアプリを手元で複数動かすための構成パターン",
+            "date_modified": "2026-11-10T15:00:00.000Z",
+            "author": {
+                "name": "Nature株式会社"
+            }
+        },
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/20261110/design-system",
+            "url": "https://tech-blog.rakus.co.jp/entry/20261110/design-system",
+            "title": "ドメインとブランドを持たない。複数プロダクト向けデザインシステムの設計判断",
+            "image": "https://cdn.image.st-hatena.com/image/scale/16fafa4ae0198f9742b266f41d1f754f09dad917/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20261109%2F20261109124152.png",
+            "date_modified": "2026-11-10T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ラクス"
+            }
+        },
+        {
+            "id": "https://blog.agile.esm.co.jp/entry/irpc-2026",
+            "url": "https://blog.agile.esm.co.jp/entry/irpc-2026",
+            "title": "中高生Rubyプログラミングコンテストに協賛します",
+            "date_modified": "2026-11-09T15:00:00.000Z",
+            "author": {
+                "name": "株式会社永和システムマネジメント"
+            }
+        },
+        {
+            "id": "https://tech.mntsq.co.jp/entry/2026/11/10/113203",
+            "url": "https://tech.mntsq.co.jp/entry/2026/11/10/113203",
+            "title": "既存サービスの ECS タスクを read-only root filesystem & non-root 構成に作り変える",
+            "date_modified": "2026-11-09T15:00:00.000Z",
+            "author": {
+                "name": "MNTSQ株式会社"
+            }
+        },
+        {
+            "id": "https://techblog.enechain.com/entry/intern-blog-202611",
+            "url": "https://techblog.enechain.com/entry/intern-blog-202611",
+            "title": "隣の席で、市場が動いていた ─ enechainインターン体験記",
+            "date_modified": "2026-11-09T15:00:00.000Z",
+            "author": {
+                "name": "株式会社enechain"
+            }
+        },
+        {
+            "id": "https://tech.sumzap.co.jp/entry/frame-debugger-all-events-to-csv",
+            "url": "https://tech.sumzap.co.jp/entry/frame-debugger-all-events-to-csv",
+            "title": "Frame Debugger を全部 CSV に書き出した話",
+            "date_modified": "2026-11-09T15:00:00.000Z",
+            "author": {
+                "name": "株式会社サムザップ"
+            }
+        },
+        {
+            "id": "https://techblog.ap-com.co.jp/entry/2026/11/09/203704",
+            "url": "https://techblog.ap-com.co.jp/entry/2026/11/09/203704",
+            "title": "AIと一緒に資格勉強をして、1か月でGitHub資格5つに合格した方法",
+            "image": "https://cdn.image.st-hatena.com/image/scale/6b9da78a861cc405250c5d1db5ee0bad1bf4a017/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkazu_ida%2F20261109%2F20261109202431.jpg",
+            "date_modified": "2026-11-09T15:00:00.000Z",
+            "author": {
+                "name": "株式会社エーピーコミュニケーションズ"
+            }
+        },
+        {
+            "id": "https://tech.speee.jp/entry/2026/11/09/142755",
+            "url": "https://tech.speee.jp/entry/2026/11/09/142755",
+            "title": "Kaigi on Rails 2026 で学んだ「操作を見出す」設計で、実務の fat model をリファクタした話 #kaigionrails",
+            "date_modified": "2026-11-08T15:00:00.000Z",
+            "author": {
+                "name": "株式会社Speee"
+            }
+        },
+        {
+            "id": "https://tech.timee.co.jp/entry/2026/11/09/120755",
+            "url": "https://tech.timee.co.jp/entry/2026/11/09/120755",
+            "title": "Devinはソフトウェアファクトリーのフレームワークになった",
+            "image": "https://cdn.image.st-hatena.com/image/scale/78e5ff7e36820e70b59a3955f2e83fecee23d648/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Feuglena1215%2F20261109%2F20261109120134.png",
+            "date_modified": "2026-11-08T15:00:00.000Z",
+            "author": {
+                "name": "株式会社タイミー"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/detect-figma-ui-diff-with-ai",
+            "url": "https://techblog.zozo.com/entry/detect-figma-ui-diff-with-ai",
+            "title": "Figmaを正解にアプリのUIを点検する、Claude Codeで作るUI差分検知",
+            "image": "https://cdn.image.st-hatena.com/image/scale/8b55dbc305a957550753e5916085ba499274cdf8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20261102%2F20261102162112.png",
+            "date_modified": "2026-11-05T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ZOZO"
+            }
+        },
+        {
+            "id": "https://tech.timee.co.jp/entry/2026/11/05/101407",
+            "url": "https://tech.timee.co.jp/entry/2026/11/05/101407",
+            "title": "運用しながら改善する LLM-as-a-Judge の構築",
+            "date_modified": "2026-11-04T15:00:00.000Z",
+            "author": {
+                "name": "株式会社タイミー"
+            }
+        },
+        {
+            "id": "https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails",
+            "url": "https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails",
+            "title": "Leanの定理証明ガードレールで AI エージェントに業務ルールを守らせる",
+            "image": "https://cdn.image.st-hatena.com/image/scale/d0bda204488dc96150ef3a6d4d57338e542c3195/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkyasu2050%2F20261026%2F20261026221051.png",
+            "date_modified": "2026-11-04T15:00:00.000Z",
+            "author": {
+                "name": "freee株式会社"
+            }
+        },
+        {
+            "id": "https://developers.freee.co.jp/entry/lean-formal-verification-tax-law-qa",
+            "url": "https://developers.freee.co.jp/entry/lean-formal-verification-tax-law-qa",
+            "title": "税法を定理証明支援系 Lean で書いて、プロダクト実装を「全入力で」確かめる",
+            "image": "https://cdn.image.st-hatena.com/image/scale/307d6a3e9c07be55eb88b7fe124a6b95f282602c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkyasu2050%2F20261026%2F20261026200318.png",
+            "date_modified": "2026-11-04T15:00:00.000Z",
+            "author": {
+                "name": "freee株式会社"
+            }
+        },
+        {
+            "id": "https://devblog.lac.co.jp/entry/20261104",
+            "url": "https://devblog.lac.co.jp/entry/20261104",
+            "title": "AI時代に求められるペネトレーションテスト",
+            "image": "https://cdn.image.st-hatena.com/image/scale/9caa88557686b6adc567c9735fa2f68144884277/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Flac_devblog%2F20261030%2F20261030164255.png",
+            "date_modified": "2026-11-03T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ラック"
+            }
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>はてなブログ企業技術ブログTrending</title>
+        <link>https://github.com/otariidae/hatena-blog-dev-trending-feed</link>
+        <description>はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード</description>
+        <lastBuildDate>Sat, 14 Nov 2026 11:06:04 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ja</language>
+        <item>
+            <title><![CDATA[お客様の復旧を最優先に ― インシデント対応で迷わず動くための仕組み]]></title>
+            <link>https://link-and-motivation.hatenablog.com/entry/2026/11/13/155333</link>
+            <guid>https://link-and-motivation.hatenablog.com/entry/2026/11/13/155333</guid>
+            <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenSearch Service で動くマルチテナントな商品検索の認証認可設計（後編）]]></title>
+            <link>https://devblog.thebase.in/entry/2026/11/13/090000</link>
+            <guid>https://devblog.thebase.in/entry/2026/11/13/090000</guid>
+            <pubDate>Thu, 12 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/4a595212d9b99db43b348eb3dcda79a9eaa6b08d/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F153078222%2F1614340287711564" length="0" type="image/com%2Fdefault_entry_og_image%2F153078222%2F1614340287711564"/>
+        </item>
+        <item>
+            <title><![CDATA[GitHub Actions を狙った広域サプライチェーン攻撃（11/10~11/12）に関する注意喚起]]></title>
+            <link>https://blog.flatt.tech/entry/github_actions_widespread_supply_chain_attack</link>
+            <guid>https://blog.flatt.tech/entry/github_actions_widespread_supply_chain_attack</guid>
+            <pubDate>Thu, 12 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/0e6c291dfcf0d3d6e01e390a423f2a95b4647085/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflattsecurity%2F20261112%2F20261112214020.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AIでテストを量産したら、レビューが重くなった——レガシーコードの安全網づくり]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20261112/characterization-test-review</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20261112/characterization-test-review</guid>
+            <pubDate>Thu, 12 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/50a5c5836979c7b2819eb3e3133710ddb30bdb4d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20261110%2F20261110093520.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Kotlin コンテキストパラメータの詳細な挙動を調べてみた]]></title>
+            <link>https://blog.nnn.dev/entry/2026/11/12/110000</link>
+            <guid>https://blog.nnn.dev/entry/2026/11/12/110000</guid>
+            <pubDate>Wed, 11 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/d1fc23b157ab1e62e40768d87a039bd317e48090/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fd%2Fdw_tokada%2F20261109%2F20261109180200.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[OpenSearch Service で動くマルチテナントな商品検索の認証認可設計（前編）]]></title>
+            <link>https://devblog.thebase.in/entry/2026/11/11/093248</link>
+            <guid>https://devblog.thebase.in/entry/2026/11/11/093248</guid>
+            <pubDate>Tue, 10 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/64f41022d72b0b2698a1f0ce02b07803535c5503/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbasedevteam%2F20261109%2F20261109184942.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MCP を組み込んだアプリを手元で複数動かすための構成パターン]]></title>
+            <link>https://engineering.nature.global/entry/2026/11/mcp-architecture-patterns</link>
+            <guid>https://engineering.nature.global/entry/2026/11/mcp-architecture-patterns</guid>
+            <pubDate>Tue, 10 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ドメインとブランドを持たない。複数プロダクト向けデザインシステムの設計判断]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20261110/design-system</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20261110/design-system</guid>
+            <pubDate>Tue, 10 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/16fafa4ae0198f9742b266f41d1f754f09dad917/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20261109%2F20261109124152.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[中高生Rubyプログラミングコンテストに協賛します]]></title>
+            <link>https://blog.agile.esm.co.jp/entry/irpc-2026</link>
+            <guid>https://blog.agile.esm.co.jp/entry/irpc-2026</guid>
+            <pubDate>Mon, 09 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[既存サービスの ECS タスクを read-only root filesystem & non-root 構成に作り変える]]></title>
+            <link>https://tech.mntsq.co.jp/entry/2026/11/10/113203</link>
+            <guid>https://tech.mntsq.co.jp/entry/2026/11/10/113203</guid>
+            <pubDate>Mon, 09 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[隣の席で、市場が動いていた ─ enechainインターン体験記]]></title>
+            <link>https://techblog.enechain.com/entry/intern-blog-202611</link>
+            <guid>https://techblog.enechain.com/entry/intern-blog-202611</guid>
+            <pubDate>Mon, 09 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frame Debugger を全部 CSV に書き出した話]]></title>
+            <link>https://tech.sumzap.co.jp/entry/frame-debugger-all-events-to-csv</link>
+            <guid>https://tech.sumzap.co.jp/entry/frame-debugger-all-events-to-csv</guid>
+            <pubDate>Mon, 09 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIと一緒に資格勉強をして、1か月でGitHub資格5つに合格した方法]]></title>
+            <link>https://techblog.ap-com.co.jp/entry/2026/11/09/203704</link>
+            <guid>https://techblog.ap-com.co.jp/entry/2026/11/09/203704</guid>
+            <pubDate>Mon, 09 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/6b9da78a861cc405250c5d1db5ee0bad1bf4a017/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkazu_ida%2F20261109%2F20261109202431.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kaigi on Rails 2026 で学んだ「操作を見出す」設計で、実務の fat model をリファクタした話 #kaigionrails]]></title>
+            <link>https://tech.speee.jp/entry/2026/11/09/142755</link>
+            <guid>https://tech.speee.jp/entry/2026/11/09/142755</guid>
+            <pubDate>Sun, 08 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Devinはソフトウェアファクトリーのフレームワークになった]]></title>
+            <link>https://tech.timee.co.jp/entry/2026/11/09/120755</link>
+            <guid>https://tech.timee.co.jp/entry/2026/11/09/120755</guid>
+            <pubDate>Sun, 08 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/78e5ff7e36820e70b59a3955f2e83fecee23d648/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Feuglena1215%2F20261109%2F20261109120134.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Figmaを正解にアプリのUIを点検する、Claude Codeで作るUI差分検知]]></title>
+            <link>https://techblog.zozo.com/entry/detect-figma-ui-diff-with-ai</link>
+            <guid>https://techblog.zozo.com/entry/detect-figma-ui-diff-with-ai</guid>
+            <pubDate>Thu, 05 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/8b55dbc305a957550753e5916085ba499274cdf8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20261102%2F20261102162112.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[運用しながら改善する LLM-as-a-Judge の構築]]></title>
+            <link>https://tech.timee.co.jp/entry/2026/11/05/101407</link>
+            <guid>https://tech.timee.co.jp/entry/2026/11/05/101407</guid>
+            <pubDate>Wed, 04 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leanの定理証明ガードレールで AI エージェントに業務ルールを守らせる]]></title>
+            <link>https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails</link>
+            <guid>https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails</guid>
+            <pubDate>Wed, 04 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/d0bda204488dc96150ef3a6d4d57338e542c3195/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkyasu2050%2F20261026%2F20261026221051.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[税法を定理証明支援系 Lean で書いて、プロダクト実装を「全入力で」確かめる]]></title>
+            <link>https://developers.freee.co.jp/entry/lean-formal-verification-tax-law-qa</link>
+            <guid>https://developers.freee.co.jp/entry/lean-formal-verification-tax-law-qa</guid>
+            <pubDate>Wed, 04 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/307d6a3e9c07be55eb88b7fe124a6b95f282602c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkyasu2050%2F20261026%2F20261026200318.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI時代に求められるペネトレーションテスト]]></title>
+            <link>https://devblog.lac.co.jp/entry/20261104</link>
+            <guid>https://devblog.lac.co.jp/entry/20261104</guid>
+            <pubDate>Tue, 03 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/9caa88557686b6adc567c9735fa2f68144884277/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Flac_devblog%2F20261030%2F20261030164255.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>

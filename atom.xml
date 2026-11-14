@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/otariidae/hatena-blog-dev-trending-feed</id>
+    <title>はてなブログ企業技術ブログTrending</title>
+    <updated>2026-11-14T11:06:04.527Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/otariidae/hatena-blog-dev-trending-feed"/>
+    <subtitle>はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード</subtitle>
+    <entry>
+        <title type="html"><![CDATA[お客様の復旧を最優先に ― インシデント対応で迷わず動くための仕組み]]></title>
+        <id>https://link-and-motivation.hatenablog.com/entry/2026/11/13/155333</id>
+        <link href="https://link-and-motivation.hatenablog.com/entry/2026/11/13/155333"/>
+        <updated>2026-11-13T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社リンクアンドモチベーション</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSearch Service で動くマルチテナントな商品検索の認証認可設計（後編）]]></title>
+        <id>https://devblog.thebase.in/entry/2026/11/13/090000</id>
+        <link href="https://devblog.thebase.in/entry/2026/11/13/090000"/>
+        <updated>2026-11-12T15:00:00.000Z</updated>
+        <author>
+            <name>BASE株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Actions を狙った広域サプライチェーン攻撃（11/10~11/12）に関する注意喚起]]></title>
+        <id>https://blog.flatt.tech/entry/github_actions_widespread_supply_chain_attack</id>
+        <link href="https://blog.flatt.tech/entry/github_actions_widespread_supply_chain_attack"/>
+        <updated>2026-11-12T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社Flatt Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIでテストを量産したら、レビューが重くなった——レガシーコードの安全網づくり]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20261112/characterization-test-review</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20261112/characterization-test-review"/>
+        <updated>2026-11-12T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ラクス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kotlin コンテキストパラメータの詳細な挙動を調べてみた]]></title>
+        <id>https://blog.nnn.dev/entry/2026/11/12/110000</id>
+        <link href="https://blog.nnn.dev/entry/2026/11/12/110000"/>
+        <updated>2026-11-11T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ドワンゴ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSearch Service で動くマルチテナントな商品検索の認証認可設計（前編）]]></title>
+        <id>https://devblog.thebase.in/entry/2026/11/11/093248</id>
+        <link href="https://devblog.thebase.in/entry/2026/11/11/093248"/>
+        <updated>2026-11-10T15:00:00.000Z</updated>
+        <author>
+            <name>BASE株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCP を組み込んだアプリを手元で複数動かすための構成パターン]]></title>
+        <id>https://engineering.nature.global/entry/2026/11/mcp-architecture-patterns</id>
+        <link href="https://engineering.nature.global/entry/2026/11/mcp-architecture-patterns"/>
+        <updated>2026-11-10T15:00:00.000Z</updated>
+        <author>
+            <name>Nature株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドメインとブランドを持たない。複数プロダクト向けデザインシステムの設計判断]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20261110/design-system</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20261110/design-system"/>
+        <updated>2026-11-10T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ラクス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中高生Rubyプログラミングコンテストに協賛します]]></title>
+        <id>https://blog.agile.esm.co.jp/entry/irpc-2026</id>
+        <link href="https://blog.agile.esm.co.jp/entry/irpc-2026"/>
+        <updated>2026-11-09T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社永和システムマネジメント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[既存サービスの ECS タスクを read-only root filesystem & non-root 構成に作り変える]]></title>
+        <id>https://tech.mntsq.co.jp/entry/2026/11/10/113203</id>
+        <link href="https://tech.mntsq.co.jp/entry/2026/11/10/113203"/>
+        <updated>2026-11-09T15:00:00.000Z</updated>
+        <author>
+            <name>MNTSQ株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隣の席で、市場が動いていた ─ enechainインターン体験記]]></title>
+        <id>https://techblog.enechain.com/entry/intern-blog-202611</id>
+        <link href="https://techblog.enechain.com/entry/intern-blog-202611"/>
+        <updated>2026-11-09T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社enechain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frame Debugger を全部 CSV に書き出した話]]></title>
+        <id>https://tech.sumzap.co.jp/entry/frame-debugger-all-events-to-csv</id>
+        <link href="https://tech.sumzap.co.jp/entry/frame-debugger-all-events-to-csv"/>
+        <updated>2026-11-09T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社サムザップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIと一緒に資格勉強をして、1か月でGitHub資格5つに合格した方法]]></title>
+        <id>https://techblog.ap-com.co.jp/entry/2026/11/09/203704</id>
+        <link href="https://techblog.ap-com.co.jp/entry/2026/11/09/203704"/>
+        <updated>2026-11-09T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社エーピーコミュニケーションズ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaigi on Rails 2026 で学んだ「操作を見出す」設計で、実務の fat model をリファクタした話 #kaigionrails]]></title>
+        <id>https://tech.speee.jp/entry/2026/11/09/142755</id>
+        <link href="https://tech.speee.jp/entry/2026/11/09/142755"/>
+        <updated>2026-11-08T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社Speee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devinはソフトウェアファクトリーのフレームワークになった]]></title>
+        <id>https://tech.timee.co.jp/entry/2026/11/09/120755</id>
+        <link href="https://tech.timee.co.jp/entry/2026/11/09/120755"/>
+        <updated>2026-11-08T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社タイミー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Figmaを正解にアプリのUIを点検する、Claude Codeで作るUI差分検知]]></title>
+        <id>https://techblog.zozo.com/entry/detect-figma-ui-diff-with-ai</id>
+        <link href="https://techblog.zozo.com/entry/detect-figma-ui-diff-with-ai"/>
+        <updated>2026-11-05T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ZOZO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[運用しながら改善する LLM-as-a-Judge の構築]]></title>
+        <id>https://tech.timee.co.jp/entry/2026/11/05/101407</id>
+        <link href="https://tech.timee.co.jp/entry/2026/11/05/101407"/>
+        <updated>2026-11-04T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社タイミー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leanの定理証明ガードレールで AI エージェントに業務ルールを守らせる]]></title>
+        <id>https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails</id>
+        <link href="https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails"/>
+        <updated>2026-11-04T15:00:00.000Z</updated>
+        <author>
+            <name>freee株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[税法を定理証明支援系 Lean で書いて、プロダクト実装を「全入力で」確かめる]]></title>
+        <id>https://developers.freee.co.jp/entry/lean-formal-verification-tax-law-qa</id>
+        <link href="https://developers.freee.co.jp/entry/lean-formal-verification-tax-law-qa"/>
+        <updated>2026-11-04T15:00:00.000Z</updated>
+        <author>
+            <name>freee株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI時代に求められるペネトレーションテスト]]></title>
+        <id>https://devblog.lac.co.jp/entry/20261104</id>
+        <link href="https://devblog.lac.co.jp/entry/20261104"/>
+        <updated>2026-11-03T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ラック</name>
+        </author>
+    </entry>
+</feed>

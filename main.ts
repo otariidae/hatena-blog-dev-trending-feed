@@ -113,6 +113,7 @@ function buildFeed(entries: Iterable<Entry>) {
       id: entry.url.toString(),
       link: entry.url.toString(),
       date: new Date(publishedAtZonedDateTime.epochMilliseconds),
+      published: new Date(publishedAtZonedDateTime.epochMilliseconds),
       image: entry.thumbnailUrl?.toString(),
       author: entry.corporation ? [{ name: entry.corporation }] : undefined,
     });

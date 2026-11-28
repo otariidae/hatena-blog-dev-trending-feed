@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>はてなブログ企業技術ブログTrending</title>
+        <link>https://github.com/otariidae/hatena-blog-dev-trending-feed</link>
+        <description>はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード</description>
+        <lastBuildDate>Sat, 28 Nov 2026 12:34:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ja</language>
+        <item>
+            <title><![CDATA[第31回日本薬剤疫学会学術総会にて、ポスター発表を行いました]]></title>
+            <link>https://techblog.technology-doctor.com/entry/2026/11/27/180000</link>
+            <guid>https://techblog.technology-doctor.com/entry/2026/11/27/180000</guid>
+            <pubDate>Fri, 27 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/cf4ff4ad9fe7147eefa8adf5c8ac1a64ca0ababc/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftechdoctor%2F20261105%2F20261105112306.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Devin Bot に毎朝のパフォーマンス改善を任せてみた]]></title>
+            <link>https://tech.kickflow.co.jp/entry/2026/11/27/154920</link>
+            <guid>https://tech.kickflow.co.jp/entry/2026/11/27/154920</guid>
+            <pubDate>Fri, 27 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/645a9f57e27669a127ffbd4cb68709793681307e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkickflow%2F20261126%2F20261126145913.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[さくさく作れる毎日を支える、AI 時代の開発環境 — 隔離・コンテキスト・ガードレール・検証の整理]]></title>
+            <link>https://tech.dentsusoken.com/entry/2026/11/27/133501</link>
+            <guid>https://tech.dentsusoken.com/entry/2026/11/27/133501</guid>
+            <pubDate>Thu, 26 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/4f427756283f28d10402fb5607721261e1f7c8f7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fd%2Fdentsusoken%2F20261127%2F20261127132130.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI に頼らず素手で挑む！カミナシ社内セキュリティ競技会『ごーとんカップ 2026』]]></title>
+            <link>https://kaminashi-developer.hatenablog.jp/entry/2026/11/27/123000</link>
+            <guid>https://kaminashi-developer.hatenablog.jp/entry/2026/11/27/123000</guid>
+            <pubDate>Thu, 26 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/7ee8c40c2adb7901a00caecebcdc13d31562f956/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaminashi-developer%2F20261127%2F20261127124329.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Docker HubのPHP公式イメージから自前ビルドへ移行 〜Debian移行と最適化で稼働Pod数を約25%削減〜]]></title>
+            <link>https://blog.colopl.dev/entry/2026/11/27/110000</link>
+            <guid>https://blog.colopl.dev/entry/2026/11/27/110000</guid>
+            <pubDate>Thu, 26 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NumPyroで混合正規分布モデリング]]></title>
+            <link>https://blog.nnn.dev/entry/2026/11/27/110000</link>
+            <guid>https://blog.nnn.dev/entry/2026/11/27/110000</guid>
+            <pubDate>Thu, 26 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/e74cd38830aaa11c23c2fecdb3becef978f4e2e0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fitadw%2F20261126%2F20261126152212.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[DevHRがTypeScriptを書いて、TSKaigi Sendaiで登壇までした話]]></title>
+            <link>https://nealle-dev.hatenablog.com/entry/2026/11/27/125937</link>
+            <guid>https://nealle-dev.hatenablog.com/entry/2026/11/27/125937</guid>
+            <pubDate>Thu, 26 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/aaae37d8c26dc7f157257f1033f799ec2d0d6cd7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmotumotuo%2F20261126%2F20261126163413.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[gh-ostで2,500万行のテーブル変更をクエリ待ち1.31秒で通した話：Aurora MySQLへの導入と本番クローンでの検証]]></title>
+            <link>https://tech.findy.co.jp/entry/2026/11/27/070000</link>
+            <guid>https://tech.findy.co.jp/entry/2026/11/27/070000</guid>
+            <pubDate>Thu, 26 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/d021ebf72756a472a5567e799f8227cf8d5b6c47/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffindy_robin%2F20261124%2F20261124125951.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[エンジニア2人・8ヶ月で新規事業を立ち上げる──「フルAI開発」のふりかえり]]></title>
+            <link>https://tech.connehito.com/entry/2026/11/26/100507</link>
+            <guid>https://tech.connehito.com/entry/2026/11/26/100507</guid>
+            <pubDate>Wed, 25 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/284ce565b4105519dc9885155587eddf834913a8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshoki8823%2F20261117%2F20261117180150.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AIが実装し、人間が品質を判断する。iOS機能開発チームで取り組んだAIワークフローと品質保証の再設計]]></title>
+            <link>https://creators-note.chatwork.com/entry/2026/11/26/093751</link>
+            <guid>https://creators-note.chatwork.com/entry/2026/11/26/093751</guid>
+            <pubDate>Wed, 25 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIが速く作っても人の待ちが残っていた —— 開発プロセス全体で減らした合意と、残した確認]]></title>
+            <link>https://tech.smarthr.jp/entry/2026/11/25/182704</link>
+            <guid>https://tech.smarthr.jp/entry/2026/11/25/182704</guid>
+            <pubDate>Wed, 25 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/a6c416e4a6a627e8b2167c17ce7b7857f502031a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20261124%2F20261124145704.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[【2026年ベストバイ】エンジニアが買ってよかったガジェット8選]]></title>
+            <link>https://tech.stmn.co.jp/entry/best-buy-2026</link>
+            <guid>https://tech.stmn.co.jp/entry/best-buy-2026</guid>
+            <pubDate>Wed, 25 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/3d7b3135c1be2ffa11b76065abefff2097000d18/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnegichan_hate%2F20261124%2F20261124140551.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Product SRE 制度という選択 - 中央集権SREからの脱却]]></title>
+            <link>https://developers.freee.co.jp/entry/product-sre-program</link>
+            <guid>https://developers.freee.co.jp/entry/product-sre-program</guid>
+            <pubDate>Tue, 24 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/cd78a18cef0d8198194cb3347795e0fc5d6b748c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2FminLonghill%2F20261030%2F20261030065148.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[詳解 YAPC::Tokyo 2026]]></title>
+            <link>https://blog.yapcjapan.org/entry/2026/11/24/133000</link>
+            <guid>https://blog.yapcjapan.org/entry/2026/11/24/133000</guid>
+            <pubDate>Mon, 23 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/7aeea3d0d8b719b6e02a18722303978da45d3870/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftoya%2F20261125%2F20261125154408.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Lean で始める契約プログラミング]]></title>
+            <link>https://www.m3tech.blog/entry/contract-programming-in-lean</link>
+            <guid>https://www.m3tech.blog/entry/contract-programming-in-lean</guid>
+            <pubDate>Mon, 23 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/83c0357294df606ec55925922370fba9451af8c6/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20261124%2F20261124130234.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CI ランナーを小さくする TypeScript 7 の型チェック設定]]></title>
+            <link>https://dev.henry.jp/entry/2026/11/24/120000</link>
+            <guid>https://dev.henry.jp/entry/2026/11/24/120000</guid>
+            <pubDate>Mon, 23 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIエージェントを騙す：一見安全だが危険なGitHubリポジトリをAIエージェントにセットアップさせてみた（インターンシップ体験記）]]></title>
+            <link>https://engineers.ntt.com/entry/202610-offsec-intern/entry</link>
+            <guid>https://engineers.ntt.com/entry/202610-offsec-intern/entry</guid>
+            <pubDate>Fri, 20 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[はてなエンジニアの自作RSSリーダーをご紹介します 2026]]></title>
+            <link>https://developer.hatenastaff.com/entry/2026/11/20/162322</link>
+            <guid>https://developer.hatenastaff.com/entry/2026/11/20/162322</guid>
+            <pubDate>Fri, 20 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[既存サービスの ECS タスクを read-only root filesystem & non-root 構成に作り変える]]></title>
+            <link>https://tech.mntsq.co.jp/entry/2026/11/10/113203</link>
+            <guid>https://tech.mntsq.co.jp/entry/2026/11/10/113203</guid>
+            <pubDate>Mon, 09 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leanの定理証明ガードレールで AI エージェントに業務ルールを守らせる]]></title>
+            <link>https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails</link>
+            <guid>https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails</guid>
+            <pubDate>Wed, 04 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/d0bda204488dc96150ef3a6d4d57338e542c3195/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkyasu2050%2F20261026%2F20261026221051.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
